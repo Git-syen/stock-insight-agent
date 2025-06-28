@@ -5,9 +5,15 @@ from filters.accumulation import run_accumulation_filter
 from filters.multifactor import run_multifactor_filter
 from notion_sync import update_notion
 
+# Load data
 df = pd.read_parquet("data/all_stocks.parquet")
 index_df = pd.read_parquet("data/nifty.parquet")
 
+# Normalize column names (capitalize)
+df.columns = [col.capitalize() for col in df.columns]
+index_df.columns = [col.capitalize() for col in index_df.columns]
+
+# Apply filters
 filters = {
     "Momentum Stocks": run_momentum_filter(df),
     "RS Outperformers": run_rs_filter(df, index_df),
@@ -15,6 +21,7 @@ filters = {
     "Multi-Factor Picks": run_multifactor_filter(df, index_df),
 }
 
+# Save results and update Notion
 for name, result_df in filters.items():
     filename = f"outputs/{name.replace(' ', '_').lower()}.csv"
     result_df.to_csv(filename, index=False)
