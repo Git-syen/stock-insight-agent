@@ -1,6 +1,6 @@
 import pandas as pd
 
-def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame) -> pd.DataFrame:
+def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252) -> pd.DataFrame:
     df = df.copy()
     index_df = index_df.copy()
 
@@ -11,7 +11,7 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame) -> pd.DataFrame:
     # Calculate RS and RS Ratio
     #df["RS"] = df["Close"] / index_df["Close"]
     df = df.merge(index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}), on="Timestamp", how="left")
-    df["RS"] = df["Close"] / df["Benchmark_Close"]
+    df["RS"] = df["Close"].shift(rs_period) / df["Benchmark_Close"].shift(rs_period)
 
 
     # Filter strong RS symbols
