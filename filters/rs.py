@@ -1,46 +1,39 @@
 import pandas as pd
 
-def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252) -> pd.DataFrame:
+def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
     index_df = index_df.copy()
 
+    # Sort data
     df = df.sort_values(by=["Symbol", "Timestamp"])
     index_df = index_df.sort_values(by="Timestamp")
 
-    # Merge index
+    # Merge benchmark close into stock data
     df = df.merge(
         index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}),
         on="Timestamp", how="left"
     )
 
-    # Shift close values per symbol and benchmark
-    df["Close_shifted"] = df.groupby("Symbol")["Close"].shift(rs_period)
-    df["Benchmark_shifted"] = df["Benchmark_Close"].shift(rs_period)
+    # Calculate RS and RS Ratio
+    df["RS"] = df["Close"] / df["Benchmark_Close"]
+    df["RS_SMA"] = df.groupby("Symbol")["RS"].transform(lambda x: x.rolling(window=20, min_periods=1).mean())
+    df["RS_Ratio"] = df["RS"] / df["RS_SMA"]
 
-    # RS Calculation
-    df["RS"] = (
-        100 * (1 + (df["Close"] / df["Close_shifted"] - 1)) /
-        (1 + (df["Benchmark_Close"] / df["Benchmark_shifted"] - 1))
-    )
+    # Filter stocks with RS_Ratio > 1.05
+    shortlisted = df[df["RS_Ratio"] > 1.05].copy()
 
-    # Filter outperformers
-    rs_outperformers = df[df["RS"] > 105].copy()
-
-    # Extract last 10 RS values per symbol with dates
-    def extract_recent_rs(group):
-        recent = group[["Timestamp", "RS"]].tail(10).reset_index(drop=True)
-        return recent.set_index("Timestamp")["RS"]
-
+    # Take last 10 RS values for each shortlisted symbol
     recent_rs = (
-        rs_outperformers
-        .sort_values(["Symbol", "Timestamp"])
+        shortlisted.sort_values(["Symbol", "Timestamp"])
         .groupby("Symbol")
-        .apply(extract_recent_rs)
+        .tail(10)
+        .groupby("Symbol")[["RS", "Timestamp"]]
+        .apply(lambda x: x.set_index("Timestamp").RS.tail(10))
         .unstack()
         .reset_index()
     )
 
-    # Format date columns
+    # Format columns with actual dates
     recent_rs.columns = ["Symbol"] + [ts.strftime("%d-%b") for ts in recent_rs.columns[1:]]
 
     return recent_rs
