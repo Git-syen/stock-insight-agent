@@ -22,22 +22,21 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     # Filter outperformers
     rs_outperformers = df[df["RS"] > 105].copy()
 
-    # Extract last 10 RS values per symbol
-    last_10_rs = (
+    # Extract last 10 RS values per symbol with dates
+    def extract_recent_rs(group):
+        recent = group[["Timestamp", "RS"]].tail(10).reset_index(drop=True)
+        return recent.set_index("Timestamp")["RS"]
+
+    recent_rs = (
         rs_outperformers
         .sort_values(["Symbol", "Timestamp"])
         .groupby("Symbol")
-        .tail(10)
-        .groupby("Symbol")["RS"]
-        .apply(lambda x: list(x)[-10:])
+        .apply(extract_recent_rs)
+        .unstack()
         .reset_index()
     )
 
-    # Convert RS lists into columns
-    rs_df = pd.DataFrame(
-        last_10_rs["RS"].to_list(),
-        columns=[f"RS_T-{9-i}" for i in range(10)]
-    )
-    rs_df.insert(0, "Symbol", last_10_rs["Symbol"])
+    # Format date columns
+    recent_rs.columns = ["Symbol"] + [ts.strftime("%d-%b") for ts in recent_rs.columns[1:]]
 
-    return rs_df
+    return recent_rs
