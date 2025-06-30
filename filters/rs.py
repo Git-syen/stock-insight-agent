@@ -9,13 +9,14 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame) -> pd.DataFrame:
     index_df = index_df.sort_values(by="Timestamp")
 
     # Calculate RS and RS Ratio
-    df["RS"] = df["Close"] / index_df["Close"]
-    #df = df.merge(index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}), on="Timestamp", how="left")
-    #df["RS"] = df["Close"] / df["Benchmark_Close"]
+    #df["RS"] = df["Close"] / index_df["Close"]
+    df = df.merge(index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}), on="Timestamp", how="left")
+    df["RS"] = df["Close"] / df["Benchmark_Close"]
 
 
     # Filter strong RS symbols
-    filtered = df[df["RS"] > 0].copy()
+    #filtered = df[df["RS"] > 0].copy()
+    filtered = df
 
     # Drop duplicates to avoid unstack error
     filtered = filtered.drop_duplicates(subset=["Symbol", "Timestamp"])
