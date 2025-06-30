@@ -13,7 +13,7 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     #df = df.merge(index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}), on="Timestamp", how="left")
     #df["RS"] = 100 * (1+(df["Close"] / df["Benchmark_Close"]-1))/(1+(df["Close"].shift(rs_period) / df["Benchmark_Close"].shift(rs_period)-1))
 
-    df["RS"] = 100 * (1+(df["Close"] / index_df["Close"]-1))/(1+(df["Close"].shift(rs_period) / index_df["Close"].shift(rs_period)-1))
+    df["RS"] = 100 * (1+(df["Close"] / df["Close"].shift(rs_period)-1))/(1+(index_df["Close"] / index_df["Close"].shift(rs_period)-1))
 
 
     # Filter strong RS symbols
