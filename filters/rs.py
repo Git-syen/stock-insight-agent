@@ -7,16 +7,20 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     df = df.sort_values(by=["Symbol", "Timestamp"])
     index_df = index_df.sort_values(by="Timestamp")
 
-    # Merge benchmark index
+    # Merge index
     df = df.merge(
         index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}),
         on="Timestamp", how="left"
     )
 
-    # Compute RS
+    # Shift close values per symbol and benchmark
+    df["Close_shifted"] = df.groupby("Symbol")["Close"].shift(rs_period)
+    df["Benchmark_shifted"] = df["Benchmark_Close"].shift(rs_period)
+
+    # RS Calculation
     df["RS"] = (
-        100 * (1 + (df["Close"] / df["Close"].shift(rs_period) - 1)) /
-        (1 + (df["Benchmark_Close"] / df["Benchmark_Close"].shift(rs_period) - 1))
+        100 * (1 + (df["Close"] / df["Close_shifted"] - 1)) /
+        (1 + (df["Benchmark_Close"] / df["Benchmark_shifted"] - 1))
     )
 
     # Filter outperformers
