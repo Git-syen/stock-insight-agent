@@ -13,12 +13,14 @@ index_df = pd.read_parquet("data/nifty.parquet")
 df.columns = [col.capitalize() for col in df.columns]
 index_df.columns = [col.capitalize() for col in index_df.columns]
 
+benchmark_df = index_df[index_df["Symbol"] == "NIFTY"].copy()
+
 # Apply filters
 filters = {
     "Momentum Stocks": run_momentum_filter(df),
-    "RS Outperformers": run_rs_filter(df, index_df),
+    "RS Outperformers": run_rs_filter(df, benchmark_df),
     "Accumulating Stocks": run_accumulation_filter(df),
-    "Multi-Factor Picks": run_multifactor_filter(df, index_df),
+    "Multi-Factor Picks": run_multifactor_filter(df, benchmark_df),
 }
 
 # Save results and update Notion

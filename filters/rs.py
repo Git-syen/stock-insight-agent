@@ -9,11 +9,11 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     index_df = index_df.sort_values(by="Timestamp")
 
     # Calculate RS and RS Ratio
-    df["RS"] = index_df["Close"] / index_df["Close"].shift(rs_period)
+    #df["RS"] = index_df["Close"] / index_df["Close"].shift(rs_period)
     #df = df.merge(index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}), on="Timestamp", how="left")
     #df["RS"] = 100 * (1+(df["Close"] / df["Benchmark_Close"]-1))/(1+(df["Close"].shift(rs_period) / df["Benchmark_Close"].shift(rs_period)-1))
 
-    #df["RS"] = 100 * (1+(df["Close"] / df["Close"].shift(rs_period)-1))/(1+(index_df["Close"] / index_df["Close"].shift(rs_period)-1))
+    df["RS"] = 100 * (1+(df["Close"] / df["Close"].shift(rs_period)-1))/(1+(index_df["Close"] / index_df["Close"].shift(rs_period)-1))
 
 
     # Filter strong RS symbols
