@@ -7,22 +7,37 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     df = df.sort_values(by=["Symbol", "Timestamp"])
     index_df = index_df.sort_values(by="Timestamp")
 
-    df = df.merge(index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}), on="Timestamp", how="left")
+    # Merge benchmark index
+    df = df.merge(
+        index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}),
+        on="Timestamp", how="left"
+    )
 
+    # Compute RS
     df["RS"] = (
         100 * (1 + (df["Close"] / df["Close"].shift(rs_period) - 1)) /
         (1 + (df["Benchmark_Close"] / df["Benchmark_Close"].shift(rs_period) - 1))
     )
 
+    # Filter outperformers
     rs_outperformers = df[df["RS"] > 105].copy()
 
-    recent_rs = (
+    # Extract last 10 RS values per symbol
+    last_10_rs = (
         rs_outperformers
+        .sort_values(["Symbol", "Timestamp"])
         .groupby("Symbol")
-        .apply(lambda x: x.sort_values("Timestamp").tail(10)["RS"].reset_index(drop=True))
-        .unstack()
+        .tail(10)
+        .groupby("Symbol")["RS"]
+        .apply(lambda x: list(x)[-10:])
         .reset_index()
     )
 
-    recent_rs.columns = ["Symbol"] + [f"RS_T-{9-i}" for i in range(10)]
-    return recent_rs
+    # Convert RS lists into columns
+    rs_df = pd.DataFrame(
+        last_10_rs["RS"].to_list(),
+        columns=[f"RS_T-{9-i}" for i in range(10)]
+    )
+    rs_df.insert(0, "Symbol", last_10_rs["Symbol"])
+
+    return rs_df
