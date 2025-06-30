@@ -9,7 +9,7 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame) -> pd.DataFrame:
     index_df = index_df.sort_values(by="Timestamp")
 
     # Calculate RS and RS Ratio
-    df["RS"] = df["Close"] / df["Benchmark_Close"]
+    df["RS"] = df["Close"] / index_df["Close"]
 
     # Filter strong RS symbols
     filtered = df[df["RS"] > 0].copy()
