@@ -4,7 +4,6 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
     index_df = index_df.copy()
 
-    # Sort data
     df = df.sort_values(by=["Symbol", "Timestamp"])
     index_df = index_df.sort_values(by="Timestamp")
 
@@ -22,18 +21,21 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame) -> pd.DataFrame:
     # Filter stocks with RS_Ratio > 1.05
     shortlisted = df[df["RS_Ratio"] > 1.05].copy()
 
-    # Take last 10 RS values for each shortlisted symbol
+    # Drop duplicate rows based on Symbol and Timestamp
+    shortlisted = shortlisted.drop_duplicates(subset=["Symbol", "Timestamp"])
+
+    # Extract last 10 RS values for each symbol
     recent_rs = (
-        shortlisted.sort_values(["Symbol", "Timestamp"])
+        shortlisted
+        .sort_values(["Symbol", "Timestamp"])
         .groupby("Symbol")
         .tail(10)
-        .groupby("Symbol")[["RS", "Timestamp"]]
-        .apply(lambda x: x.set_index("Timestamp").RS.tail(10))
+        .set_index(["Symbol", "Timestamp"])["RS"]
         .unstack()
         .reset_index()
     )
 
-    # Format columns with actual dates
+    # Format the date columns
     recent_rs.columns = ["Symbol"] + [ts.strftime("%d-%b") for ts in recent_rs.columns[1:]]
 
     return recent_rs
