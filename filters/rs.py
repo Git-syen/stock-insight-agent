@@ -25,18 +25,21 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     )
 
     # Filter for strong RS
-    # filtered = df[df["RS"] > 105].copy()
-    filtered = df
+    filtered = df[df["RS"] > 105].copy()
+    # filtered = df
+    filtered["Date"] = pd.to_datetime(filtered["Timestamp"]).dt.date
 
     # Drop duplicate Symbol-Date combos (e.g., intraday issues)
+    
+    # Ensure only one RS per Symbol-Date (take last)
     filtered = (
         filtered.sort_values("Timestamp")
-        .groupby(["Symbol", "Timestamp"], as_index=False)
+        .groupby(["Symbol", "Date"], as_index=False)
         .last()
     )
 
     # Round timestamp to date only
-    filtered["Date"] = filtered["Timestamp"].dt.date
+    # filtered["Date"] = filtered["Timestamp"].dt.date
 
     # Keep only latest 10 dates per symbol
     recent_rs = (
