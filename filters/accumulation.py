@@ -1,4 +1,5 @@
 import pandas as pd
+    import numpy as np
 
 def run_accumulation_filter(df: pd.DataFrame, cmf_period: int = 20, high_period: int = 52) -> pd.DataFrame:
     df = df.copy()
