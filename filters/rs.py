@@ -4,44 +4,36 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     df = df.copy()
     index_df = index_df.copy()
 
-    # Ensure Timestamps are datetime
     df["Timestamp"] = pd.to_datetime(df["Timestamp"])
     index_df["Timestamp"] = pd.to_datetime(index_df["Timestamp"])
 
-    # Sort
     df = df.sort_values(by=["Symbol", "Timestamp"])
     index_df = index_df.sort_values(by="Timestamp")
 
-    # Merge benchmark index
+    # Merge Nifty as benchmark
     df = df.merge(
         index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}),
         on="Timestamp", how="left"
     )
 
-    # RS Calculation
+    # Compute RS
     df["RS"] = (
         100 * (1 + (df["Close"] / df["Close"].shift(rs_period) - 1)) /
         (1 + (df["Benchmark_Close"] / df["Benchmark_Close"].shift(rs_period) - 1))
     )
 
-    # Filter for strong RS
+    # Filter stocks with RS > 105
     filtered = df[df["RS"] > 105].copy()
-    # filtered = df
-    filtered["Date"] = pd.to_datetime(filtered["Timestamp"]).dt.date
+    filtered["Date"] = filtered["Timestamp"].dt.normalize()
 
-    # Drop duplicate Symbol-Date combos (e.g., intraday issues)
-    
-    # Ensure only one RS per Symbol-Date (take last)
+    # One RS per Symbol per Date
     filtered = (
         filtered.sort_values("Timestamp")
         .groupby(["Symbol", "Date"], as_index=False)
         .last()
     )
 
-    # Round timestamp to date only
-    # filtered["Date"] = filtered["Timestamp"].dt.date
-
-    # Keep only latest 10 dates per symbol
+    # Get last 10 RS values per symbol
     recent_rs = (
         filtered
         .sort_values(["Symbol", "Date"])
@@ -51,10 +43,10 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
         .reset_index()
     )
 
-    # Format date columns
-    recent_rs.columns = ["Symbol"] + [pd.to_datetime(c).strftime("%d-%b") for c in recent_rs.columns[1:]]
+    # Rename columns (after pivoting)
+    recent_rs.columns = ["Symbol"] + [d.strftime("%d-%b") for d in recent_rs.columns[1:]]
 
-    # Limit to last 10 columns
-    recent_rs = recent_rs[["Symbol"] + recent_rs.columns[1:][-10:].tolist()]
+    # Keep only last 10 dates
+    recent_rs = recent_rs[["Symbol"] + recent_rs.columns[-10:].tolist()]
 
     return recent_rs
