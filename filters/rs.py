@@ -20,7 +20,7 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     df["RS"] = (
         100 * (1 + (df["Close"] / df["Close"].shift(rs_period) - 1)) /
         (1 + (df["Benchmark_Close"] / df["Benchmark_Close"].shift(rs_period) - 1))
-    )
+    ).round(2)
 
     df["Date"] = df["Timestamp"].dt.normalize()
 
