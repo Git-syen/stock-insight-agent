@@ -19,8 +19,8 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
 
 
     # Filter strong RS symbols
-    #filtered = df[df["RS"] > 105].copy()
-    filtered = df
+    filtered = df[df["RS"] > 105].copy()
+    #filtered = df
 
     # Drop duplicates to avoid unstack error
     filtered = filtered.drop_duplicates(subset=["Symbol", "Timestamp"])
