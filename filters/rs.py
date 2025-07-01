@@ -39,12 +39,13 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
         .unstack()
         .reset_index()
     )
-    
+
     # Rename columns using actual dates
     recent_rs.columns = ["Symbol"] + [ts.strftime("%d-%b") for ts in recent_rs.columns[1:]]
     # After you create `recent_rs` as final DataFrame:
     rs_cols = recent_rs.columns[1:]  # skip 'Symbol'
-    last_10_cols = rs_cols[-10:]
+    # last_10_cols = rs_cols[-10:]
+    last_10_cols = sorted(rs_cols[-10:], key=lambda x: pd.to_datetime(x, format="%d-%b"))
     recent_rs = recent_rs[["Symbol"] + list(last_10_cols)]
 
 
