@@ -25,10 +25,10 @@ def run_price_volume_filter(df: pd.DataFrame, lookback: int = 20, vol_avg_period
 
     # Label signal type
     df["Signal"] = np.select(
-        [df["Breakout"], df["Breakdown"]],
-        ["Breakout", "Breakdown"],
-        default=np.nan
-    )
+      [df["Breakout"], df["Breakdown"]],
+      ["Breakout", "Breakdown"],
+      default=None
+  ).astype(object)
 
     # Filter for signals only
     signal_df = df[df["Signal"].notna()].copy()
