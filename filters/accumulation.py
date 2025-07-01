@@ -13,9 +13,9 @@ def run_accumulation_filter(df: pd.DataFrame, cmf_period: int = 20, high_period:
     range_diff = range_diff.replace(0, np.nan)
 
     mf_multiplier = ((df["Close"] - df["Low"]) - (df["High"] - df["Close"])) / range_diff
-    mf_volume = mf_multiplier * df["Volume"]
+    mf_volume = mf_multiplier * df["Volume"].round(2)
 
-    df["CMF"] = mf_volume.rolling(window=cmf_period).sum() / df["Volume"].rolling(window=cmf_period).sum().round(2)
+    df["CMF"] = mf_volume.rolling(window=cmf_period).sum() / df["Volume"].rolling(window=cmf_period).sum()
     df["Date"] = df["Timestamp"].dt.normalize()
 
     # 52-day CMF high per symbol
