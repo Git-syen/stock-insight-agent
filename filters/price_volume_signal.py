@@ -33,12 +33,16 @@ def run_price_volume_filter(df: pd.DataFrame, lookback: int = 20, vol_avg_period
     # Filter for signals only
     signal_df = df[df["Signal"].notna()].copy()
 
-    # One signal per Symbol-Date
+    # Prefer Breakout > Breakdown if both exist for same Symbol-Date
+    priority = {"Breakout": 2, "Breakdown": 1}
+    signal_df["Priority"] = signal_df["Signal"].map(priority)
+
     signal_df = (
-        signal_df.sort_values("Timestamp")
-        .groupby(["Symbol", "Date"], as_index=False)
-        .last()
+        signal_df.sort_values(["Symbol", "Date", "Priority"], ascending=[True, True, False])
+        .drop_duplicates(subset=["Symbol", "Date"], keep="first")
+        .drop(columns="Priority")
     )
+
 
     # Get last 10 signals per symbol
     recent_signals = (
