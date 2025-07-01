@@ -16,7 +16,7 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
         on="Timestamp", how="left"
     )
 
-    # Calculate RS (standard formula)
+    # Calculate RS
     df["RS"] = (
         100 * (1 + (df["Close"] / df["Close"].shift(rs_period) - 1)) /
         (1 + (df["Benchmark_Close"] / df["Benchmark_Close"].shift(rs_period) - 1))
@@ -24,18 +24,24 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
 
     df["Date"] = df["Timestamp"].dt.normalize()
 
-    # Get last RS value per Symbol
-    latest_rs = (
-        df
-        .sort_values(["Symbol", "Date"])
-        .groupby("Symbol")
-        .tail(1)[["Symbol", "RS"]]
+    # 52-week RS high: rolling max RS per symbol
+    df["RS_52W_High"] = (
+        df.sort_values(["Symbol", "Date"])
+        .groupby("Symbol")["RS"]
+        .transform(lambda x: x.rolling(rs_period, min_periods=1).max())
     )
 
-    # Filter by latest RS > 105
-    strong_symbols = latest_rs[latest_rs["RS"] > 105]["Symbol"]
+    # Latest RS value per Symbol
+    latest_df = (
+        df.sort_values(["Symbol", "Date"])
+        .groupby("Symbol")
+        .tail(1)[["Symbol", "RS", "RS_52W_High"]]
+    )
 
-    # Now go back and collect last 10 RS values only for those symbols
+    # Filter: latest RS > 105
+    strong_symbols = latest_df[latest_df["RS"] > 105]["Symbol"]
+
+    # Filter original DF
     filtered = df[df["Symbol"].isin(strong_symbols)].copy()
 
     # One RS per Symbol-Date
@@ -55,10 +61,19 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
         .reset_index()
     )
 
-    # Format column names
+    # Format columns
     recent_rs.columns = ["Symbol"] + [pd.to_datetime(c).strftime("%d-%b") for c in recent_rs.columns[1:]]
 
-    # Keep only last 10 columns (in case more exist)
+    # Keep last 10 RS values only
     recent_rs = recent_rs[["Symbol"] + recent_rs.columns[-10:].tolist()]
+
+    # Add RS_52W_High from latest_df
+    recent_rs = recent_rs.merge(
+        latest_df[["Symbol", "RS_52W_High"]],
+        on="Symbol", how="left"
+    )
+
+    # Rename column to make it clear
+    recent_rs = recent_rs.rename(columns={"RS_52W_High": "RS_52W_High"})
 
     return recent_rs
