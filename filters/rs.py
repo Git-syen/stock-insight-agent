@@ -22,10 +22,14 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     filtered = df[df["RS"] > 105].copy()
     #filtered = df
 
-    # Drop duplicates to avoid unstack error
-    filtered = filtered.drop_duplicates(subset=["Symbol", "Timestamp"])
+    # Ensure single RS per Symbol per Timestamp by taking last entry per day
+    filtered = (
+        filtered.sort_values("Timestamp")
+        .groupby(["Symbol", "Timestamp"], as_index=False)
+        .last()
+    )
 
-    # Get last 10 RS values per symbol
+    # Get last 10 unique-date RS values per Symbol
     recent_rs = (
         filtered
         .sort_values(["Symbol", "Timestamp"])
@@ -35,7 +39,7 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
         .unstack()
         .reset_index()
     )
-
+    
     # Rename columns using actual dates
     recent_rs.columns = ["Symbol"] + [ts.strftime("%d-%b") for ts in recent_rs.columns[1:]]
     # After you create `recent_rs` as final DataFrame:
