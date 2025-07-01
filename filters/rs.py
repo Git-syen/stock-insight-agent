@@ -22,14 +22,14 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     filtered = df[df["RS"] > 105].copy()
     #filtered = df
 
-    # Ensure single RS per Symbol per Timestamp by taking last entry per day
+    # Ensure single RS value per Symbol per Timestamp by taking the last
     filtered = (
         filtered.sort_values("Timestamp")
         .groupby(["Symbol", "Timestamp"], as_index=False)
         .last()
     )
 
-    # Get last 10 unique-date RS values per Symbol
+    # Proceed to get last 10 dates' RS per symbol
     recent_rs = (
         filtered
         .sort_values(["Symbol", "Timestamp"])
@@ -40,13 +40,11 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
         .reset_index()
     )
 
-    # Rename columns using actual dates
-    recent_rs.columns = ["Symbol"] + [ts.strftime("%d-%b") for ts in recent_rs.columns[1:]]
-    # After you create `recent_rs` as final DataFrame:
-    rs_cols = recent_rs.columns[1:]  # skip 'Symbol'
-    # last_10_cols = rs_cols[-10:]
-    last_10_cols = sorted(rs_cols[-10:], key=lambda x: pd.to_datetime(x, format="%d-%b"))
-    recent_rs = recent_rs[["Symbol"] + list(last_10_cols)]
+    # Sort date columns and rename
+    date_cols = sorted(recent_rs.columns[1:], key=lambda x: pd.to_datetime(x))
+    recent_rs.columns = ["Symbol"] + [d.strftime("%d-%b") for d in date_cols]
+    recent_rs = recent_rs[["Symbol"] + [d.strftime("%d-%b") for d in date_cols]]
+
 
 
     return recent_rs
