@@ -25,7 +25,8 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
     )
 
     # Filter for strong RS
-    filtered = df[df["RS"] > 105].copy()
+    # filtered = df[df["RS"] > 105].copy()
+    filtered = df
 
     # Drop duplicate Symbol-Date combos (e.g., intraday issues)
     filtered = (
