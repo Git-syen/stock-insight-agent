@@ -30,4 +30,4 @@ filters = {
 for name, result_df in filters.items():
     filename = f"outputs/{name.replace(' ', '_').lower()}.csv"
     result_df.to_csv(filename, index=False)
-    update_notion(name, f"https://raw.githubusercontent.com/YOUR_USERNAME/stock-insight-agent/main/{filename}")
+    update_notion(name, f"https://github.com/Git-syen/stock-insight-agent/tree/main/outputs/{filename}")
