@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import ta
+
 
 def run_price_volume_filter(df: pd.DataFrame, lookback: int = 14, vol_avg_period: int = 14, vol_multiplier: float = 1.5) -> pd.DataFrame:
     df = df.copy()
@@ -9,13 +9,13 @@ def run_price_volume_filter(df: pd.DataFrame, lookback: int = 14, vol_avg_period
     df["Timestamp"] = pd.to_datetime(df["Timestamp"])
     df = df.sort_values(["Symbol", "Timestamp"])
 
-    # Volume spike condition
-    df["VolumeAvg"] = df["Volume"].rolling(window=vol_avg_period).mean()
+    # Volume spike condition (per symbol)
+    df["VolumeAvg"] = df.groupby("Symbol")["Volume"].transform(lambda x: x.rolling(window=vol_avg_period).mean())
     df["VolSpike"] = df["Volume"] > (df["VolumeAvg"] * vol_multiplier)
-    
-    # Breakout & Breakdown logic
-    df["HighClose"] = ta.highest(df["Close"].shift(1), length=lookback)
-    df["LowClose"] = ta.lowest(df["Close"].shift(1), length=lookback)
+
+    # Use pandas rolling max/min
+    df["HighClose"] = df.groupby("Symbol")["Close"].transform(lambda x: x.shift(1).rolling(lookback).max())
+    df["LowClose"] = df.groupby("Symbol")["Close"].transform(lambda x: x.shift(1).rolling(lookback).min())
    
 
     df["Breakout"] = (df["Close"] > df["HighClose"]) & df["VolSpike"]
