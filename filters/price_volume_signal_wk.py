@@ -44,11 +44,11 @@ def run_weekly_price_volume_filter(
     ).astype(object)
 
     # Filter signals only
-    signal_df = df[df["Signal"] != "Other"].copy()
+    signal_df = df[df["Signal"].notna()].copy()
 
     # Signal priority
-    priority = {"Breakout": 2, "Breakdown": 1}
-    signal_df["Priority"] = signal_df["Signal"].map(priority)
+    priority = {"Breakout": 2, "Breakdown": 1, "Other": 0}
+    signal_df["Priority"] = signal_df["Signal"].map(priority).fillna(0).astype(int)
 
     # Keep top priority signal per Symbol-Date
     signal_df = (
@@ -56,6 +56,7 @@ def run_weekly_price_volume_filter(
                  .drop_duplicates(subset=["Symbol", "Date"], keep="first")
                  .drop(columns="Priority")
     )
+
 
     # Last 10 signals per symbol
     recent_signals = (
