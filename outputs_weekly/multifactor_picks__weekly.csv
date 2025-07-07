@@ -1,77 +1,77 @@
-Symbol
-63MOONS
-ABDL
-ABSLAMC
-ACMESOLAR
-AGIIL
-APOLLO
-ASAHIINDIA
-ASTRAMICRO
-ASTRAZEN
-AWHCL
-AYMSYNTEX
-BALAJITELE
-BBOX
-BERGEPAINT
-CCL
-CDSL
-CEATLTD
-CENTUM
-CIGNITITEC
-COSMOFIRST
-DIVISLAB
-DODLA
-DYCL
-ECLERX
-ERIS
-FAZE3Q
-FEDERALBNK
-FORTIS
-FOSECOIND
-GILLETTE
-GLAXO
-HDFCAMC
-HDFCLIFE
-HPL
-HUBTOWN
-ICRA
-INTERARCH
-KERNEX
-KITEX
-KPRMILL
-KRBL
-MANORAMA
-MAXHEALTH
-MAZDOCK
-MRF
-NDRAUTO
-NIBE
-NITCO
-OPTIEMUS
-PAGEIND
-PFIZER
-PGHL
-PIIND
-PNBHOUSING
-PRECWIRE
-RACLGEAR
-RAMCOCEM
-RAMRAT
-RELINFRA
-RPOWER
-SAILIFE
-SBICARD
-SBILIFE
-SEQUENT
-SERVOTECH
-SHILPAMED
-SHREEPUSHK
-SHRIPISTON
-SUDARSCHEM
-TFCILTD
-TI
-UNIMECH
-UTIAMC
-WINDMACHIN
-WOCKPHARMA
-ZOTA
+Symbol,Sector,Mktcap
+63MOONS,IT - Software/Consulting,SmallCap
+ABDL,Beverages - Alcohol,SmallCap
+ABSLAMC,Financials - AMC,SmallCap
+ACMESOLAR,Power - Green - IPP,SmallCap
+AGIIL,Real Estate,SmallCap
+APOLLO,Defense - Technology & Electronics,SmallCap
+ASAHIINDIA,Auto - Glass/Body,SmallCap
+ASTRAMICRO,Defense - Technology & Electronics,SmallCap
+ASTRAZEN,Healthcare - Formulations - Specialty,SmallCap
+AWHCL,Industial Products - Water/Waster Management,SmallCap
+AYMSYNTEX,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap
+BALAJITELE,Media - Entertainment,SmallCap
+BBOX,IT - Services,SmallCap
+BERGEPAINT,Consumption - Paints,MidCap
+CCL,Agri - Tea/Coffee,SmallCap
+CDSL,IT - Platform - Exchange/RTA,SmallCap
+CEATLTD,Auto - Tyres,SmallCap
+CENTUM,Electronics - EMS,SmallCap
+CIGNITITEC,IT - Services,SmallCap
+COSMOFIRST,Packaging - Flex,SmallCap
+DIVISLAB,Healthcare - API/Drug,LargeCap
+DODLA,Consumption - Dairy,SmallCap
+DYCL,Power - Wiring,SmallCap
+ECLERX,IT - Services,SmallCap
+ERIS,Healthcare - Formulations,SmallCap
+FAZE3Q,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap
+FEDERALBNK,Financials - Private Bank,MidCap
+FORTIS,Healthcare - Hospitals,MidCap
+FOSECOIND,Chemicals - Specialty - Misc,SmallCap
+GILLETTE,Consumption - Personal,SmallCap
+GLAXO,Healthcare - Formulations - OTC,MidCap
+HDFCAMC,Financials - AMC,MidCap
+HDFCLIFE,Financials - Life,LargeCap
+HPL,Power - Wiring,SmallCap
+HUBTOWN,Real Estate,SmallCap
+ICRA,Financials - Ratings,SmallCap
+INTERARCH,Infra - Construction,SmallCap
+KERNEX,Railways,SmallCap
+KITEX,Textiles - Exports,SmallCap
+KPRMILL,Textiles - Mfg (Spin/Yarn/Integrated),MidCap
+KRBL,Agri - Rice,SmallCap
+MANORAMA,Consumption - Foods/Drinks,SmallCap
+MAXHEALTH,Healthcare - Hospitals,MidCap
+MAZDOCK,Defense - Ship,MidCap
+MRF,Auto - Tyres,MidCap
+NDRAUTO,Auto - Drivetrain,SmallCap
+NIBE,Defense - Mfg,SmallCap
+NITCO,Infra - Ceramics/Granites,SmallCap
+OPTIEMUS,Telecom - Equipments,SmallCap
+PAGEIND,Textiles - Innerwear,MidCap
+PFIZER,Healthcare - Formulations,SmallCap
+PGHL,Healthcare - Naturals/OTC/Consumers,SmallCap
+PIIND,Agrochem - Pesticides,MidCap
+PNBHOUSING,Financials - Housing,SmallCap
+PRECWIRE,Metals - Copper,SmallCap
+RACLGEAR,Auto - Drivetrain,SmallCap
+RAMCOCEM,Infra - Cement,SmallCap
+RAMRAT,Power - Wiring,SmallCap
+RELINFRA,Power - Integrated Utility,SmallCap
+RPOWER,Power - Generation,SmallCap
+SAILIFE,Healthcare - CRAMS/CDMO,SmallCap
+SBICARD,Financials - NBFC,MidCap
+SBILIFE,Financials - Life,LargeCap
+SEQUENT,Healthcare - Animals,SmallCap
+SERVOTECH,Electronics - Components,SmallCap
+SHILPAMED,Healthcare - CRAMS/CDMO,SmallCap
+SHREEPUSHK,Chemicals - Dyes,SmallCap
+SHRIPISTON,Auto - Drivetrain,SmallCap
+SUDARSCHEM,Chemicals - Dyes,SmallCap
+TFCILTD,Financials - Institute - Infra,SmallCap
+TI,Beverages - Alcohol,SmallCap
+UNIMECH,Defense - Mfg,SmallCap
+UTIAMC,Financials - AMC,SmallCap
+WINDMACHIN,Industial Products - Machinery,SmallCap
+WOCKPHARMA,Healthcare - Formulations,SmallCap
+ZOTA,Healthcare - Naturals/OTC/Consumers,SmallCap
