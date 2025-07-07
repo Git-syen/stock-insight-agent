@@ -34,4 +34,4 @@ filters = {
 for name, result_df in filters.items():
     filename = f"outputs_weekly/{safe_filename(name)}.csv"
     result_df.to_csv(filename, index=False)
-    update_notion(name, f"https://github.com/Git-syen/stock-insight-agent/blob/main/{filename}", preview_df=result_df)
+    update_notion(name, f"https://github.com/Git-syen/stock-insight-agent/blob/main/{filename}")
