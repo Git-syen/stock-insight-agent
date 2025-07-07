@@ -15,7 +15,18 @@ def run_momentum_filter(df: pd.DataFrame) -> pd.DataFrame:
         (df['EMA_21'] > df['EMA_50']) &
         (df['ADX'] > 20) &
         (df['RSI'] > 50) & (df['RSI'] < 70)
-    ]
+    ].copy()
 
-    # Return the relevant columns for shortlisted stocks
-    return filtered[['Symbol', 'EMA_21', 'EMA_50', 'ADX', 'RSI']].drop_duplicates(subset='Symbol').reset_index(drop=True)
+    # Drop duplicates to keep latest per Symbol
+    filtered = filtered.sort_values("Timestamp").drop_duplicates(subset="Symbol", keep="last")
+
+    # Merge Sector and Mktcap from reference Excel
+    try:
+        ref_df = pd.read_excel("data_ref/NSE_Stocks.xlsx", sheet_name=0)
+        ref_df = ref_df[["Symbol", "Sector", "Mktcap"]].drop_duplicates()
+        filtered = filtered.merge(ref_df, on="Symbol", how="left")
+    except Exception as e:
+        print("⚠️ Sector/Mktcap merge failed:", e)
+
+    # Return final columns
+    return filtered[["Symbol", "Sector", "Mktcap", "EMA_21", "EMA_50", "ADX", "RSI"]].reset_index(drop=True)

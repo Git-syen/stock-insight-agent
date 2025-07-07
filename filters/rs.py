@@ -73,7 +73,16 @@ def run_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 252
         on="Symbol", how="left"
     )
 
-    # Rename column to make it clear
-    recent_rs = recent_rs.rename(columns={"RS_52W_High": "RS_52W_High"})
+    # Merge Sector and Mktcap from reference Excel
+    try:
+        ref_df = pd.read_excel("data_ref/NSE_Stocks.xlsx", sheet_name=0)
+        ref_df = ref_df[["Symbol", "Sector", "Mktcap"]].drop_duplicates()
+        recent_rs = recent_rs.merge(ref_df, on="Symbol", how="left")
+    except Exception as e:
+        print("⚠️ Sector/Mktcap merge failed:", e)
+
+    # Rearranged columns
+    cols = ["Symbol", "Sector", "Mktcap"] + recent_rs.columns.difference(["Symbol", "Sector", "Mktcap"]).tolist()
+    recent_rs = recent_rs[cols]
 
     return recent_rs
