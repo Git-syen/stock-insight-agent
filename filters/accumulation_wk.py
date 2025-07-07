@@ -16,7 +16,7 @@ def run_weekly_accumulation_filter(df: pd.DataFrame, cmf_period: int = 10, high_
     mf_volume = mf_multiplier * df["Volume"]
 
     df["CMF"] = (
-        mf_volume.rolling(window=cmf_period).sum() / 
+        mf_volume.rolling(window=cmf_period).sum() /
         df["Volume"].rolling(window=cmf_period).sum()
     ).round(2)
 
@@ -57,12 +57,27 @@ def run_weekly_accumulation_filter(df: pd.DataFrame, cmf_period: int = 10, high_
 
     # Format column names
     recent_cmf.columns = ["Symbol"] + [pd.to_datetime(c).strftime("%d-%b") for c in recent_cmf.columns[1:]]
+
+    # Limit to last 10 columns + CMF_52D_High
     recent_cmf = recent_cmf[["Symbol"] + recent_cmf.columns[-10:].tolist()]
 
-    # Add CMF_52D_High column
+    # Add CMF_52D_High
     recent_cmf = recent_cmf.merge(
         latest_df[["Symbol", "CMF_52D_High"]],
         on="Symbol", how="left"
     )
+
+    # Add Sector & Mktcap info
+    try:
+        ref_df = pd.read_excel("data_ref/NSE_Stocks.xlsx", sheet_name=0)
+        ref_df = ref_df[["Symbol", "Sector", "Mktcap"]].drop_duplicates()
+        recent_cmf = recent_cmf.merge(ref_df, on="Symbol", how="left")
+    except Exception as e:
+        print("⚠️ Sector/Mktcap merge failed:", e)
+
+    # Reorder columns: Symbol, Sector, Mktcap, Dates..., CMF_52D_High
+    cols = recent_cmf.columns.tolist()
+    ordered_cols = ["Symbol", "Sector", "Mktcap"] + [c for c in cols if c not in ("Symbol", "Sector", "Mktcap", "CMF_52D_High")] + ["CMF_52D_High"]
+    recent_cmf = recent_cmf[ordered_cols]
 
     return recent_cmf
