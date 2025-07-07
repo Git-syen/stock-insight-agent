@@ -26,7 +26,15 @@ def run_weekly_momentum_filter(df: pd.DataFrame) -> pd.DataFrame:
         (latest_df['EMA_21'] > latest_df['EMA_50']) &
         (latest_df['ADX'] > 20) &
         (latest_df['RSI'] > 50) & (latest_df['RSI'] < 70)
-    ]
+    ].copy()
 
-    # Return filtered stocks with relevant indicator values
-    return filtered[['Symbol', 'EMA_21', 'EMA_50', 'ADX', 'RSI']].reset_index(drop=True)
+    # Add Sector & Mktcap info
+    try:
+        ref_df = pd.read_excel("data_ref/NSE_Stocks.xlsx", sheet_name=0)
+        ref_df = ref_df[["Symbol", "Sector", "Mktcap"]].drop_duplicates()
+        filtered = filtered.merge(ref_df, on="Symbol", how="left")
+    except Exception as e:
+        print("⚠️ Sector/Mktcap merge failed:", e)
+
+    # Reorder columns
+    return filtered[["Symbol", "Sector", "Mktcap", "EMA_21", "EMA_50", "ADX", "RSI"]].reset_index(drop=True)

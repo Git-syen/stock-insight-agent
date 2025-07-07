@@ -57,7 +57,6 @@ def run_weekly_price_volume_filter(
                  .drop(columns="Priority")
     )
 
-
     # Last 10 signals per symbol
     recent_signals = (
         signal_df
@@ -80,4 +79,16 @@ def run_weekly_price_volume_filter(
     # Keep only symbols with at least 1 breakout
     recent_signals = recent_signals[recent_signals["BreakoutCount"] > 0]
 
-    return recent_signals
+    # Add Sector and Mktcap
+    try:
+        ref_df = pd.read_excel("data_ref/NSE_Stocks.xlsx", sheet_name=0)
+        ref_df = ref_df[["Symbol", "Sector", "Mktcap"]].drop_duplicates()
+        recent_signals = recent_signals.merge(ref_df, on="Symbol", how="left")
+    except Exception as e:
+        print("⚠️ Sector/Mktcap merge failed:", e)
+
+    # Reorder columns
+    cols = recent_signals.columns.tolist()
+    static_cols = ["Symbol", "Sector", "Mktcap"]
+    signal_cols = [col for col in cols if col not in static_cols + ["BreakoutCount"]]
+    return recent_signals[static_cols + signal_cols + ["BreakoutCount"]]

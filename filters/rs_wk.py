@@ -68,4 +68,15 @@ def run_weekly_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: in
         on="Symbol", how="left"
     )
 
-    return recent_rs
+    # Add Sector & Mktcap
+    try:
+        ref_df = pd.read_excel("data_ref/NSE_Stocks.xlsx", sheet_name=0)
+        ref_df = ref_df[["Symbol", "Sector", "Mktcap"]].drop_duplicates()
+        recent_rs = recent_rs.merge(ref_df, on="Symbol", how="left")
+    except Exception as e:
+        print("⚠️ Sector/Mktcap merge failed:", e)
+
+    # Reorder columns
+    static_cols = ["Symbol", "Sector", "Mktcap"]
+    value_cols = [col for col in recent_rs.columns if col not in static_cols + ["RS_52W_High"]]
+    return recent_rs[static_cols + value_cols + ["RS_52W_High"]]

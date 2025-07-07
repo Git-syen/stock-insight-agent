@@ -19,5 +19,15 @@ def run_weekly_multifactor_filter(df: pd.DataFrame, index_df: pd.DataFrame) -> p
         set(price_action['Symbol'])
     )
 
-    # Return as DataFrame
-    return pd.DataFrame(sorted(common_symbols), columns=["Symbol"])
+    # Convert to DataFrame
+    result_df = pd.DataFrame(sorted(common_symbols), columns=["Symbol"])
+
+    # Merge Sector and Mktcap from reference file
+    try:
+        ref_df = pd.read_excel("data_ref/NSE_Stocks.xlsx", sheet_name=0)
+        ref_df = ref_df[["Symbol", "Sector", "Mktcap"]].drop_duplicates()
+        result_df = result_df.merge(ref_df, on="Symbol", how="left")
+    except Exception as e:
+        print("⚠️ Sector/Mktcap merge failed:", e)
+
+    return result_df
