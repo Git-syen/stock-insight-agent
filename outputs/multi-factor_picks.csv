@@ -1,126 +1,126 @@
-Symbol
-360ONE
-AADHARHFC
-ABBOTINDIA
-ABCAPITAL
-ABSLAMC
-AEROFLEX
-AFFLE
-AGIIL
-AIIL
-AKZOINDIA
-AMBER
-APOLLOHOSP
-ASTERDM
-AUBANK
-AWHCL
-BANCOINDIA
-BEL
-BERGEPAINT
-BHARTIARTL
-BHARTIHEXA
-BLUESTARCO
-CARTRADE
-CCL
-CHOLAHLDNG
-CLSEL
-CUB
-CUPID
-DALBHARAT
-DCMSHRIRAM
-DECCANCE
-DEEPAKFERT
-DOMS
-EICHERMOT
-EIDPARRY
-FOSECOIND
-GALLANTT
-GLENMARK
-GMRP&UI
-HDFCBANK
-HDFCLIFE
-HEXT
-HINDPETRO
-HOMEFIRST
-HPL
-HSCL
-HUBTOWN
-HYUNDAI
-ICICIBANK
-ICICIGI
-INDIAGLYCO
-INDIGO
-INDOSTAR
-INDRAMEDCO
-INDUSTOWER
-INSECTICID
-IOLCP
-ITDCEM
-JASH
-JKCEMENT
-JKLAKSHMI
-JUBLFOOD
-KALYANKJIL
-KARURVYSYA
-KAYNES
-KINGFA
-KOTAKBANK
-KPRMILL
-KRBL
-KRN
-KRSNAA
-LAURUSLABS
-LLOYDSENT
-LLOYDSME
-LTF
-LTFOODS
-MAHSCOOTER
-MAHSEAMLES
-MANORAMA
-MARATHON
-MAXHEALTH
-MBAPL
-MCX
-MFSL
-MOTILALOFS
-MPHASIS
-NAVINFLUOR
-NAZARA
-NDRAUTO
-NESCO
-NH
-NITCO
-NUVAMA
-NYKAA
-PAGEIND
-PARAGMILK
-PFOCUS
-PGIL
-PILANIINVS
-POCL
-POONAWALLA
-PRABHA
-PRIVISCL
-PSPPROJECT
-RANEHOLDIN
-SANATHAN
-SANGAMIND
-SBILIFE
-SHARDACROP
-SHREECEM
-SHRIPISTON
-SHRIRAMFIN
-SMLISUZU
-SPMLINFRA
-SRF
-SWARAJENG
-SYRMA
-TFCILTD
-TORNTPHARM
-TVSMOTOR
-UNIVCABLES
-UPL
-VIJAYA
-WAAREEENER
-WELENT
-ZOTA
+Symbol,Sector,Mktcap
+360ONE,Financials - WMC,MidCap
+AADHARHFC,Financials - Housing,SmallCap
+ABBOTINDIA,Healthcare - Formulations - OTC,MidCap
+ABCAPITAL,Financials - Diversified,MidCap
+ABSLAMC,Financials - AMC,SmallCap
+AEROFLEX,Metals - Pipe & Tube,SmallCap
+AFFLE,IT - Services,SmallCap
+AGIIL,Real Estate,SmallCap
+AIIL,Financials - NBFC,SmallCap
+AKZOINDIA,Consumption - Paints,SmallCap
+AMBER,Consumption - Appliances,SmallCap
+APOLLOHOSP,Healthcare - Hospitals,LargeCap
+ASTERDM,Healthcare - Hospitals,SmallCap
+AUBANK,Financials - Private Bank,MidCap
+AWHCL,Industial Products - Water/Waster Management,SmallCap
+BANCOINDIA,Auto - Drivetrain,SmallCap
+BEL,Defense - Technology & Electronics,LargeCap
+BERGEPAINT,Consumption - Paints,MidCap
+BHARTIARTL,Telecom - Mobile/FixedLine,LargeCap
+BHARTIHEXA,Telecom - Mobile/FixedLine,MidCap
+BLUESTARCO,Consumption - Appliances,MidCap
+CARTRADE,IT - Platform - Ecommerce,SmallCap
+CCL,Agri - Tea/Coffee,SmallCap
+CHOLAHLDNG,Financials - Insurance & Lending,SmallCap
+CLSEL,Agri - Rice,SmallCap
+CUB,Financials - Private Bank,SmallCap
+CUPID,Consumption - Personal,SmallCap
+DALBHARAT,Infra - Cement,MidCap
+DCMSHRIRAM,Agri - Sugar,SmallCap
+DECCANCE,Infra - Cement,SmallCap
+DEEPAKFERT,Chemicals - Diversified,SmallCap
+DOMS,Consumption - Stationary,SmallCap
+EICHERMOT,Auto - 2W,LargeCap
+EIDPARRY,Agrochem - Fertilizers,SmallCap
+FOSECOIND,Chemicals - Specialty - Misc,SmallCap
+GALLANTT,Metals - Iron & Steel,SmallCap
+GLENMARK,Healthcare - Formulations - Generic,MidCap
+GMRP&UI,Infra - Heavy Engineering,SmallCap
+HDFCBANK,Financials - Private Bank,LargeCap
+HDFCLIFE,Financials - Life,LargeCap
+HEXT,IT - Enterprise,SmallCap
+HINDPETRO,Refineries & Marketing,MidCap
+HOMEFIRST,Financials - Housing,SmallCap
+HPL,Power - Wiring,SmallCap
+HSCL,Chemicals - Carbon,SmallCap
+HUBTOWN,Real Estate,SmallCap
+HYUNDAI,Auto - Cars/UVs,LargeCap
+ICICIBANK,Financials - Private Bank,LargeCap
+ICICIGI,Financials - Gen Insurance,LargeCap
+INDIAGLYCO,Chemicals - Bulk,SmallCap
+INDIGO,Transport - Misc,LargeCap
+INDOSTAR,Financials - NBFC,SmallCap
+INDRAMEDCO,Healthcare - Hospitals,SmallCap
+INDUSTOWER,Telecom - Infra,MidCap
+INSECTICID,Agrochem - Pesticides,SmallCap
+IOLCP,Healthcare - API/Drug,SmallCap
+ITDCEM,Infra - Construction,SmallCap
+JASH,Industial Products - Water/Waster Management,SmallCap
+JKCEMENT,Infra - Cement,MidCap
+JKLAKSHMI,Infra - Cement,SmallCap
+JUBLFOOD,Leisure - Restaurants,MidCap
+KALYANKJIL,Consumption - Jewelry,MidCap
+KARURVYSYA,Financials - Private Bank,SmallCap
+KAYNES,Electronics - EMS,SmallCap
+KINGFA,Industrial Products - Plastic,SmallCap
+KOTAKBANK,Financials - Private Bank,LargeCap
+KPRMILL,Textiles - Mfg (Spin/Yarn/Integrated),MidCap
+KRBL,Agri - Rice,SmallCap
+KRN,Industrial Products - Misc,SmallCap
+KRSNAA,Healthcare - Diagnostics,SmallCap
+LAURUSLABS,Healthcare - API/Drug,SmallCap
+LLOYDSENT,Metals - Iron & Steel,SmallCap
+LLOYDSME,Metals - Iron & Steel,MidCap
+LTF,Financials - NBFC,MidCap
+LTFOODS,Agri - Rice,SmallCap
+MAHSCOOTER,Financials - Holding/Investing,SmallCap
+MAHSEAMLES,Metals - Pipe & Tube,SmallCap
+MANORAMA,Consumption - Foods/Drinks,SmallCap
+MARATHON,Real Estate,SmallCap
+MAXHEALTH,Healthcare - Hospitals,MidCap
+MBAPL,Agrochem - Fertilizers,SmallCap
+MCX,IT - Platform - Exchange/RTA,SmallCap
+MFSL,Financials - Life,MidCap
+MOTILALOFS,Financials - Broking,MidCap
+MPHASIS,IT - Software/Consulting,MidCap
+NAVINFLUOR,Chemicals - Specialty - Refrigeration,SmallCap
+NAZARA,IT - Gaming/Entertainment,SmallCap
+NDRAUTO,Auto - Drivetrain,SmallCap
+NESCO,Real Estate,SmallCap
+NH,Healthcare - Hospitals,SmallCap
+NITCO,Infra - Ceramics/Granites,SmallCap
+NUVAMA,Financials - WMC,SmallCap
+NYKAA,IT - Platform - Ecommerce,MidCap
+PAGEIND,Textiles - Innerwear,MidCap
+PARAGMILK,Consumption - Dairy,SmallCap
+PFOCUS,Media - Entertainment,SmallCap
+PGIL,Textiles - Exports,SmallCap
+PILANIINVS,Financials - Holding/Investing,SmallCap
+POCL,Metals - Non Ferrous,SmallCap
+POONAWALLA,Financials - NBFC,SmallCap
+PRABHA,Oil and Gas - Upstream,SmallCap
+PRIVISCL,Chemicals - Specialty - FMCG,SmallCap
+PSPPROJECT,Infra - Residential & Commercial Buildings,SmallCap
+RANEHOLDIN,Auto - Drivetrain,SmallCap
+SANATHAN,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap
+SANGAMIND,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap
+SBILIFE,Financials - Life,LargeCap
+SHARDACROP,Agrochem - Pesticides,SmallCap
+SHREECEM,Infra - Cement,LargeCap
+SHRIPISTON,Auto - Drivetrain,SmallCap
+SHRIRAMFIN,Financials - NBFC,LargeCap
+SMLISUZU,Auto - CV,SmallCap
+SPMLINFRA,Infra - Water Infra,SmallCap
+SRF,Chemicals - Specialty - Diversified,MidCap
+SWARAJENG,Industrial - Pumps/Engines,SmallCap
+SYRMA,Electronics - EMS,SmallCap
+TFCILTD,Financials - Institute - Infra,SmallCap
+TORNTPHARM,Healthcare - Formulations,LargeCap
+TVSMOTOR,Auto - 2W,LargeCap
+UNIVCABLES,Power - Wiring,SmallCap
+UPL,Agrochem - Pesticides,MidCap
+VIJAYA,Healthcare - Diagnostics,SmallCap
+WAAREEENER,Power - Green Equipment,MidCap
+WELENT,Infra - Road & Highways,SmallCap
+ZOTA,Healthcare - Naturals/OTC/Consumers,SmallCap
