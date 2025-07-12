@@ -1,17 +1,15 @@
 Symbol,Sector,Mktcap
-63MOONS,IT - Software/Consulting,SmallCap
-ABDL,Beverages - Alcohol,SmallCap
 ABSLAMC,Financials - AMC,SmallCap
-ACMESOLAR,Power - Green - IPP,SmallCap
 AGIIL,Real Estate,SmallCap
-APOLLO,Defense - Technology & Electronics,SmallCap
 ASAHIINDIA,Auto - Glass/Body,SmallCap
 ASTRAMICRO,Defense - Technology & Electronics,SmallCap
 ASTRAZEN,Healthcare - Formulations - Specialty,SmallCap
 AWHCL,Industial Products - Water/Waster Management,SmallCap
 AYMSYNTEX,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap
 BALAJITELE,Media - Entertainment,SmallCap
+BANCOINDIA,Auto - Drivetrain,SmallCap
 BBOX,IT - Services,SmallCap
+BDL,Defense - Mfg,MidCap
 BERGEPAINT,Consumption - Paints,MidCap
 CCL,Agri - Tea/Coffee,SmallCap
 CDSL,IT - Platform - Exchange/RTA,SmallCap
@@ -19,59 +17,82 @@ CEATLTD,Auto - Tyres,SmallCap
 CENTUM,Electronics - EMS,SmallCap
 CIGNITITEC,IT - Services,SmallCap
 COSMOFIRST,Packaging - Flex,SmallCap
+CUB,Financials - Private Bank,SmallCap
+DBREALTY,Real Estate,SmallCap
+DECCANCE,Infra - Cement,SmallCap
+DEEPAKFERT,Chemicals - Diversified,SmallCap
 DIVISLAB,Healthcare - API/Drug,LargeCap
 DODLA,Consumption - Dairy,SmallCap
 DYCL,Power - Wiring,SmallCap
 ECLERX,IT - Services,SmallCap
+EDELWEISS,Financials - Diversified,SmallCap
 ERIS,Healthcare - Formulations,SmallCap
 FAZE3Q,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap
-FEDERALBNK,Financials - Private Bank,MidCap
+FIEMIND,Auto - Lighting & Electronics,SmallCap
 FORTIS,Healthcare - Hospitals,MidCap
-FOSECOIND,Chemicals - Specialty - Misc,SmallCap
 GILLETTE,Consumption - Personal,SmallCap
 GLAXO,Healthcare - Formulations - OTC,MidCap
+GOODLUCK,Metals - Pipe & Tube,SmallCap
+GVT&D,Power - Equipment,MidCap
 HDFCAMC,Financials - AMC,MidCap
 HDFCLIFE,Financials - Life,LargeCap
 HPL,Power - Wiring,SmallCap
-HUBTOWN,Real Estate,SmallCap
-ICRA,Financials - Ratings,SmallCap
+INSECTICID,Agrochem - Pesticides,SmallCap
 INTERARCH,Infra - Construction,SmallCap
 KERNEX,Railways,SmallCap
+KFINTECH,IT - Platform - Exchange/RTA,SmallCap
 KITEX,Textiles - Exports,SmallCap
+KOLTEPATIL,Real Estate,SmallCap
 KPRMILL,Textiles - Mfg (Spin/Yarn/Integrated),MidCap
 KRBL,Agri - Rice,SmallCap
+KRISHANA,Agrochem - Fertilizers,SmallCap
+LLOYDSME,Metals - Iron & Steel,MidCap
+MAHSCOOTER,Financials - Holding/Investing,SmallCap
+MANAPPURAM,Financials - NBFC,SmallCap
 MANORAMA,Consumption - Foods/Drinks,SmallCap
 MAXHEALTH,Healthcare - Hospitals,MidCap
 MAZDOCK,Defense - Ship,MidCap
-MRF,Auto - Tyres,MidCap
+MCX,IT - Platform - Exchange/RTA,SmallCap
+MOL,Agrochem - Pesticides,SmallCap
+MOTILALOFS,Financials - Broking,MidCap
+NAVA,Power - Misc,SmallCap
+NAZARA,IT - Gaming/Entertainment,SmallCap
 NDRAUTO,Auto - Drivetrain,SmallCap
 NIBE,Defense - Mfg,SmallCap
-NITCO,Infra - Ceramics/Granites,SmallCap
+OBEROIRLTY,Real Estate,MidCap
 OPTIEMUS,Telecom - Equipments,SmallCap
 PAGEIND,Textiles - Innerwear,MidCap
 PFIZER,Healthcare - Formulations,SmallCap
+PFOCUS,Media - Entertainment,SmallCap
 PGHL,Healthcare - Naturals/OTC/Consumers,SmallCap
-PIIND,Agrochem - Pesticides,MidCap
-PNBHOUSING,Financials - Housing,SmallCap
+POWERINDIA,Power - Equipment,MidCap
 PRECWIRE,Metals - Copper,SmallCap
+PRIVISCL,Chemicals - Specialty - FMCG,SmallCap
 RACLGEAR,Auto - Drivetrain,SmallCap
 RAMCOCEM,Infra - Cement,SmallCap
 RAMRAT,Power - Wiring,SmallCap
 RELINFRA,Power - Integrated Utility,SmallCap
 RPOWER,Power - Generation,SmallCap
-SAILIFE,Healthcare - CRAMS/CDMO,SmallCap
 SBICARD,Financials - NBFC,MidCap
 SBILIFE,Financials - Life,LargeCap
 SEQUENT,Healthcare - Animals,SmallCap
 SERVOTECH,Electronics - Components,SmallCap
+SHARDACROP,Agrochem - Pesticides,SmallCap
 SHILPAMED,Healthcare - CRAMS/CDMO,SmallCap
-SHREEPUSHK,Chemicals - Dyes,SmallCap
 SHRIPISTON,Auto - Drivetrain,SmallCap
-SUDARSCHEM,Chemicals - Dyes,SmallCap
-TFCILTD,Financials - Institute - Infra,SmallCap
+SJS,Auto - Wheels ,SmallCap
+SOLARINDS,Defense - Explosives,MidCap
+SPAL,Textiles - Exports,SmallCap
+STEELCAS,Metals - Casting/Forging,SmallCap
+SUVEN,Healthcare - CRAMS/CDMO,SmallCap
+SUZLON,Power - Green Equipment,MidCap
+TECHNOE,Industial Products - Power Transmission & Distribution,SmallCap
+THYROCARE,Healthcare - Diagnostics,SmallCap
 TI,Beverages - Alcohol,SmallCap
+TIL,Industial Products - Material Handling/Mining,SmallCap
 UNIMECH,Defense - Mfg,SmallCap
 UTIAMC,Financials - AMC,SmallCap
+V2RETAIL,Consumption - Retail,SmallCap
+VMART,Consumption - Retail,SmallCap
 WINDMACHIN,Industial Products - Machinery,SmallCap
 WOCKPHARMA,Healthcare - Formulations,SmallCap
-ZOTA,Healthcare - Naturals/OTC/Consumers,SmallCap
