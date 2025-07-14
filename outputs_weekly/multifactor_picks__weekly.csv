@@ -1,6 +1,8 @@
 Symbol,Sector,Mktcap
+63MOONS,IT - Software/Consulting,SmallCap
 ABSLAMC,Financials - AMC,SmallCap
 AGIIL,Real Estate,SmallCap
+APOLLO,Defense - Technology & Electronics,SmallCap
 ASAHIINDIA,Auto - Glass/Body,SmallCap
 ASTRAMICRO,Defense - Technology & Electronics,SmallCap
 ASTRAZEN,Healthcare - Formulations - Specialty,SmallCap
@@ -11,6 +13,7 @@ BANCOINDIA,Auto - Drivetrain,SmallCap
 BBOX,IT - Services,SmallCap
 BDL,Defense - Mfg,MidCap
 BERGEPAINT,Consumption - Paints,MidCap
+CARERATING,Financials - Ratings,SmallCap
 CCL,Agri - Tea/Coffee,SmallCap
 CDSL,IT - Platform - Exchange/RTA,SmallCap
 CEATLTD,Auto - Tyres,SmallCap
@@ -30,17 +33,18 @@ ERIS,Healthcare - Formulations,SmallCap
 FAZE3Q,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap
 FIEMIND,Auto - Lighting & Electronics,SmallCap
 FORTIS,Healthcare - Hospitals,MidCap
+FOSECOIND,Chemicals - Specialty - Misc,SmallCap
 GILLETTE,Consumption - Personal,SmallCap
 GLAXO,Healthcare - Formulations - OTC,MidCap
 GOODLUCK,Metals - Pipe & Tube,SmallCap
+GRSE,Defense - Ship,SmallCap
 GVT&D,Power - Equipment,MidCap
 HDFCAMC,Financials - AMC,MidCap
 HDFCLIFE,Financials - Life,LargeCap
-HPL,Power - Wiring,SmallCap
-INSECTICID,Agrochem - Pesticides,SmallCap
+HUBTOWN,Real Estate,SmallCap
+HYUNDAI,Auto - Cars/UVs,LargeCap
 INTERARCH,Infra - Construction,SmallCap
 KERNEX,Railways,SmallCap
-KFINTECH,IT - Platform - Exchange/RTA,SmallCap
 KITEX,Textiles - Exports,SmallCap
 KOLTEPATIL,Real Estate,SmallCap
 KPRMILL,Textiles - Mfg (Spin/Yarn/Integrated),MidCap
@@ -49,12 +53,9 @@ KRISHANA,Agrochem - Fertilizers,SmallCap
 LLOYDSME,Metals - Iron & Steel,MidCap
 MAHSCOOTER,Financials - Holding/Investing,SmallCap
 MANAPPURAM,Financials - NBFC,SmallCap
-MANORAMA,Consumption - Foods/Drinks,SmallCap
 MAXHEALTH,Healthcare - Hospitals,MidCap
-MAZDOCK,Defense - Ship,MidCap
 MCX,IT - Platform - Exchange/RTA,SmallCap
 MOL,Agrochem - Pesticides,SmallCap
-MOTILALOFS,Financials - Broking,MidCap
 NAVA,Power - Misc,SmallCap
 NAZARA,IT - Gaming/Entertainment,SmallCap
 NDRAUTO,Auto - Drivetrain,SmallCap
@@ -62,9 +63,12 @@ NIBE,Defense - Mfg,SmallCap
 OBEROIRLTY,Real Estate,MidCap
 OPTIEMUS,Telecom - Equipments,SmallCap
 PAGEIND,Textiles - Innerwear,MidCap
+PARAS,Defense - Technology & Electronics,SmallCap
+PEL,Financials - NBFC,SmallCap
 PFIZER,Healthcare - Formulations,SmallCap
 PFOCUS,Media - Entertainment,SmallCap
 PGHL,Healthcare - Naturals/OTC/Consumers,SmallCap
+POONAWALLA,Financials - NBFC,SmallCap
 POWERINDIA,Power - Equipment,MidCap
 PRECWIRE,Metals - Copper,SmallCap
 PRIVISCL,Chemicals - Specialty - FMCG,SmallCap
@@ -82,17 +86,13 @@ SHILPAMED,Healthcare - CRAMS/CDMO,SmallCap
 SHRIPISTON,Auto - Drivetrain,SmallCap
 SJS,Auto - Wheels ,SmallCap
 SOLARINDS,Defense - Explosives,MidCap
-SPAL,Textiles - Exports,SmallCap
-STEELCAS,Metals - Casting/Forging,SmallCap
-SUVEN,Healthcare - CRAMS/CDMO,SmallCap
+SUDARSCHEM,Chemicals - Dyes,SmallCap
 SUZLON,Power - Green Equipment,MidCap
 TECHNOE,Industial Products - Power Transmission & Distribution,SmallCap
-THYROCARE,Healthcare - Diagnostics,SmallCap
 TI,Beverages - Alcohol,SmallCap
 TIL,Industial Products - Material Handling/Mining,SmallCap
 UNIMECH,Defense - Mfg,SmallCap
 UTIAMC,Financials - AMC,SmallCap
 V2RETAIL,Consumption - Retail,SmallCap
-VMART,Consumption - Retail,SmallCap
 WINDMACHIN,Industial Products - Machinery,SmallCap
 WOCKPHARMA,Healthcare - Formulations,SmallCap
