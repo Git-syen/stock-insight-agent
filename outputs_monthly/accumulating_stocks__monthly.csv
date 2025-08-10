@@ -1,0 +1,795 @@
+Symbol,Sector,Mktcap,Nov-2024,Dec-2024,Jan-2025,Feb-2025,Mar-2025,Apr-2025,May-2025,Jun-2025,Jul-2025,Aug-2025,CMF_12M_High
+360ONE,Financials - WMC,MidCap,0.33,0.3,0.01,0.12,0.23,0.23,0.24,0.35,0.1,0.05,0.35
+3MINDIA,Others,MidCap,0.01,-0.23,-0.3,-0.38,-0.17,-0.24,-0.17,-0.14,-0.05,0.27,0.27
+5PAISA,Financials - Broking,SmallCap,-0.13,-0.17,-0.15,-0.38,-0.42,-0.26,-0.12,0.02,-0.05,0.03,0.03
+63MOONS,IT - Software/Consulting,SmallCap,0.63,0.52,0.38,0.45,0.52,0.21,0.07,0.18,0.17,0.17,0.63
+AADHARHFC,Financials - Housing,SmallCap,0.11,-0.11,-0.12,-0.04,-0.05,0.05,0.03,0.21,0.27,0.34,0.34
+AARTIDRUGS,Healthcare - API/Drug,SmallCap,-0.13,-0.13,-0.1,-0.47,-0.42,-0.32,0.01,-0.02,-0.0,0.05,0.05
+AARTIIND,Chemicals - Specialty - Diversified,SmallCap,-0.25,-0.4,-0.31,-0.31,-0.27,-0.13,0.06,0.2,-0.05,0.05,0.2
+AARTIPHARM,Healthcare - CRAMS/CDMO,SmallCap,0.3,0.41,0.14,0.12,0.16,0.13,0.26,0.17,0.24,0.23,0.41
+AAVAS,Financials - Housing,SmallCap,-0.07,-0.23,0.07,-0.07,0.34,0.38,0.39,0.46,0.27,0.36,0.46
+ABB,Power - Equipment,LargeCap,0.25,0.09,-0.01,-0.35,-0.27,-0.07,-0.13,-0.05,-0.09,0.15,0.4
+ABBOTINDIA,Healthcare - Formulations - OTC,MidCap,0.4,0.43,0.27,0.3,0.29,0.27,0.31,0.31,0.44,0.19,0.44
+ABCAPITAL,Financials - Diversified,MidCap,0.22,-0.0,0.03,-0.13,-0.17,0.13,0.31,0.61,0.52,0.62,0.62
+ABDL,Beverages - Alcohol,SmallCap,0.07,0.09,0.31,-0.02,0.07,0.04,0.07,-0.13,0.07,0.19,0.34
+ABREL,Paper,SmallCap,0.46,0.32,0.23,0.14,-0.13,0.0,0.03,0.22,0.12,0.18,0.52
+ABSLAMC,Financials - AMC,SmallCap,0.4,0.36,0.26,0.06,0.24,0.05,0.12,0.23,0.34,0.5,0.5
+ACE,Auto - Construction,SmallCap,0.16,0.2,0.26,0.18,0.25,0.18,0.13,-0.09,-0.04,0.14,0.26
+ACI,Chemicals - Specialty - Diversified,SmallCap,0.3,0.23,-0.01,0.02,-0.02,0.11,0.1,0.13,0.16,0.24,0.3
+ACMESOLAR,Power - Green - IPP,SmallCap,0.31,0.02,0.03,-0.03,-0.05,-0.02,-0.12,0.06,0.05,0.14,0.31
+ACUTAAS,Healthcare - API/Drug,SmallCap,0.58,0.55,0.71,0.5,0.48,0.32,0.23,0.28,0.14,0.29,0.71
+ADANIENSOL,Power - Transmission,LargeCap,-0.18,-0.16,-0.23,-0.11,0.03,0.04,0.01,0.07,-0.02,0.07,0.07
+ADANIENT,Metals - Diversified,LargeCap,-0.09,-0.0,-0.14,-0.11,-0.12,-0.13,-0.0,-0.03,0.05,0.23,0.23
+ADANIGREEN,Power - Green - IPP,LargeCap,-0.01,-0.26,-0.3,-0.45,-0.23,-0.21,-0.12,0.1,0.05,0.29,0.29
+ADANIPORTS,Infra - Ports,LargeCap,0.15,-0.01,-0.16,-0.16,-0.1,-0.04,0.11,0.23,0.25,0.4,0.4
+ADANIPOWER,Power - Generation,LargeCap,-0.15,-0.06,-0.14,-0.03,-0.04,0.01,-0.11,-0.04,-0.03,0.11,0.11
+AEROFLEX,Metals - Pipe & Tube,SmallCap,0.05,-0.13,0.05,-0.1,-0.04,0.04,-0.04,0.51,0.27,0.39,0.51
+AFFLE,IT - Services,SmallCap,0.53,0.43,0.2,-0.12,-0.08,-0.0,0.02,0.08,0.19,0.52,0.53
+AGARIND,Chemicals - Petro,SmallCap,0.26,0.04,0.07,-0.04,0.03,0.01,-0.22,-0.22,-0.06,0.1,0.26
+AGARWALEYE,Healthcare - Hospitals,SmallCap,,,,-0.27,-0.14,-0.19,-0.28,-0.16,-0.13,0.05,0.05
+AGI,Packaging - Rigid,SmallCap,0.21,0.13,-0.01,-0.24,-0.23,-0.18,-0.17,-0.2,0.34,0.49,0.49
+AGIIL,Real Estate,SmallCap,0.36,0.45,0.39,0.28,0.22,0.3,0.23,0.39,0.55,0.58,0.58
+AHLUCONT,Infra - Residential & Commercial Buildings,SmallCap,-0.05,-0.22,-0.41,-0.52,-0.25,-0.17,-0.11,0.08,0.12,0.39,0.39
+AIIL,Financials - NBFC,SmallCap,0.37,0.2,0.05,-0.32,-0.22,-0.12,0.29,0.34,0.57,0.66,0.66
+AKUMS,Healthcare - CRAMS/CDMO,SmallCap,-0.45,-0.33,-0.33,-0.37,-0.28,-0.09,0.04,0.04,-0.03,0.09,0.09
+AKZOINDIA,Consumption - Paints,SmallCap,0.3,0.23,0.23,0.05,0.05,-0.12,-0.08,0.18,0.32,0.33,0.5
+ALEMBICLTD,Healthcare - API/Drug,SmallCap,0.22,0.02,-0.17,-0.49,-0.29,-0.32,-0.24,0.11,0.04,0.12,0.22
+ALICON,Auto - Drivetrain,SmallCap,-0.03,-0.24,-0.32,-0.62,-0.59,-0.52,-0.15,-0.04,-0.09,0.04,0.2
+ALKEM,Healthcare - Formulations,MidCap,0.13,0.12,0.02,-0.34,-0.25,-0.08,-0.1,-0.13,0.01,0.17,0.17
+ALKYLAMINE,Chemicals - Specialty - Pharma,SmallCap,0.06,-0.11,-0.24,-0.33,-0.53,-0.51,-0.32,0.05,0.31,0.36,0.36
+ALLDIGI,Tech - BPO,SmallCap,0.08,-0.05,0.02,-0.19,0.0,0.08,-0.28,-0.18,-0.15,0.03,0.3
+AMBER,Consumption - Appliances,SmallCap,0.04,0.1,-0.03,-0.13,-0.02,-0.09,0.01,-0.12,0.2,0.41,0.41
+AMBUJACEM,Infra - Cement,LargeCap,0.13,-0.14,-0.2,-0.21,-0.17,-0.11,-0.13,0.11,0.11,0.24,0.24
+AMRUTANJAN,Healthcare - Naturals/OTC/Consumers,SmallCap,0.35,0.29,0.27,0.11,-0.15,0.0,-0.02,0.02,0.06,0.15,0.35
+ANANDRATHI,Financials - WMC,SmallCap,0.2,0.03,-0.05,0.08,0.11,0.07,0.06,0.25,0.5,0.49,0.5
+ANANTRAJ,Real Estate,SmallCap,0.47,0.49,0.02,-0.24,-0.3,-0.29,-0.07,-0.1,-0.0,0.14,0.62
+ANGELONE,Financials - Broking,SmallCap,0.2,0.03,-0.01,-0.14,-0.09,-0.24,-0.14,-0.04,-0.06,0.01,0.2
+ANURAS,Chemicals - Specialty - Pharma,SmallCap,0.18,0.02,-0.1,-0.28,0.07,0.34,0.47,0.63,0.57,0.67,0.67
+APARINDS,Power - Equipment,MidCap,0.38,0.35,0.02,-0.23,-0.32,-0.18,-0.1,-0.07,0.01,0.17,0.4
+APCOTEXIND,Industrial Products - Rubber,SmallCap,-0.04,-0.23,-0.4,-0.64,-0.02,-0.01,0.13,0.38,0.49,0.53,0.53
+APLAPOLLO,Metals - Pipe & Tube,MidCap,0.18,0.18,0.29,0.25,0.2,0.31,0.37,0.19,0.13,0.09,0.37
+APLLTD,Healthcare - Formulations,SmallCap,0.21,0.21,-0.14,-0.11,-0.1,0.02,0.14,0.21,0.19,0.26,0.26
+APOLLO,Defense - Technology & Electronics,SmallCap,-0.2,0.0,0.04,0.03,0.14,0.14,0.45,0.33,0.32,0.43,0.45
+APOLLOHOSP,Healthcare - Hospitals,LargeCap,0.35,0.36,0.18,-0.17,-0.14,-0.1,-0.01,0.03,0.2,0.37,0.37
+ARIHANTSUP,Real Estate,SmallCap,0.22,0.26,0.44,0.22,0.07,0.11,0.04,-0.08,-0.22,0.04,0.44
+ARKADE,Real Estate,SmallCap,-0.54,-0.14,-0.15,-0.18,0.07,0.16,0.2,0.07,-0.0,0.06,0.2
+ARMANFIN,Financials - NBFC,SmallCap,-0.3,-0.33,-0.14,-0.24,-0.16,0.02,0.1,0.28,0.15,0.21,0.28
+ARTEMISMED,Healthcare - Hospitals,SmallCap,0.65,0.53,0.33,0.08,0.19,0.1,-0.05,0.06,-0.03,0.13,0.65
+ARVINDFASN,Textiles - Fashion Retail,SmallCap,0.28,0.1,0.02,-0.25,-0.58,-0.51,-0.39,-0.17,0.18,0.31,0.4
+ASAHIINDIA,Auto - Glass/Body,SmallCap,0.37,0.35,0.32,0.23,-0.13,0.13,0.17,0.11,0.24,0.3,0.37
+ASHAPURMIN,Mining - Coal/Minerals,SmallCap,-0.12,-0.23,-0.18,-0.25,-0.15,-0.1,-0.12,0.1,0.3,0.49,0.49
+ASHOKA,Infra - Road & Highways,SmallCap,0.09,0.15,0.01,-0.07,0.17,0.17,0.15,-0.06,-0.01,0.21,0.21
+ASHOKLEY,Auto - CV,MidCap,0.29,0.06,-0.2,-0.28,-0.18,0.09,-0.01,0.17,0.11,0.13,0.62
+ASIANENE,Oil and Gas - Field Services,SmallCap,0.14,0.08,-0.01,-0.29,-0.15,-0.15,-0.14,-0.28,0.2,0.23,0.23
+ASIANPAINT,Consumption - Paints,LargeCap,0.07,-0.09,-0.28,-0.48,-0.44,-0.26,-0.25,0.01,-0.07,0.17,0.44
+ASKAUTOLTD,Auto - Electricals & Batteries,SmallCap,0.39,0.24,0.25,0.01,0.29,0.02,-0.04,0.2,0.12,0.27,0.39
+ASTERDM,Healthcare - Hospitals,SmallCap,0.38,0.53,0.44,0.24,0.38,0.39,0.27,0.26,0.14,0.22,0.53
+ASTRAMICRO,Defense - Technology & Electronics,SmallCap,0.07,-0.17,-0.05,-0.4,-0.19,0.01,0.24,0.1,-0.01,0.05,0.26
+ATGL,Utility - Gas Distribution,MidCap,-0.08,0.07,0.01,0.02,0.15,0.19,0.13,0.11,0.18,0.27,0.27
+ATHERENERG,Auto - 2W,SmallCap,,,,,,,0.15,0.17,0.04,0.15,0.17
+ATUL,Chemicals - Specialty - Diversified,SmallCap,0.37,0.23,-0.16,-0.34,-0.15,0.16,0.29,0.42,0.42,0.65,0.65
+AUBANK,Financials - Private Bank,MidCap,0.16,0.04,0.23,0.11,0.02,0.27,0.33,0.49,0.28,0.25,0.55
+AVADHSUGAR,Agri - Sugar,SmallCap,0.4,0.31,0.23,-0.14,-0.21,0.11,0.01,0.06,0.05,0.16,0.48
+AVALON,Electronics - EMS,SmallCap,0.57,0.47,0.21,0.15,0.18,0.22,-0.09,-0.1,0.15,0.2,0.57
+AVANTIFEED,Agri - Animal Feed,SmallCap,-0.11,-0.03,0.15,0.34,0.51,0.56,0.5,0.36,0.19,0.24,0.56
+AVL,Consumption - Retail,SmallCap,0.01,-0.5,-0.43,-0.26,-0.12,-0.09,-0.17,-0.15,0.17,0.22,0.22
+AVTNPL,Agri - Misc,SmallCap,-0.17,-0.25,-0.23,-0.63,-0.4,-0.31,-0.27,-0.19,-0.06,0.03,0.03
+AWHCL,Industial Products - Water/Waster Management,SmallCap,0.34,0.23,-0.17,-0.16,-0.12,-0.42,-0.09,0.12,0.02,0.2,0.39
+AXISCADES,IT - Services,SmallCap,0.01,0.23,0.26,0.06,0.12,0.18,0.37,0.27,0.31,0.39,0.39
+BAJAJ-AUTO,Auto - 2W,LargeCap,-0.1,-0.22,-0.24,-0.44,-0.49,-0.24,0.01,0.07,-0.09,0.08,0.39
+BAJAJCON,Consumption - Personal,SmallCap,-0.23,-0.56,-0.52,-0.62,-0.54,-0.53,-0.34,0.28,0.06,0.12,0.28
+BAJAJELEC,Consumption - Appliances,SmallCap,-0.25,-0.54,-0.53,-0.68,-0.71,-0.49,0.08,0.17,0.11,0.25,0.25
+BAJAJFINSV,Financials - Diversified,LargeCap,0.33,0.14,0.05,-0.02,0.05,0.1,0.24,0.47,0.38,0.33,0.47
+BAJAJHFL,Financials - Housing,LargeCap,-0.55,-0.58,-0.52,-0.53,-0.28,-0.12,-0.16,-0.0,-0.1,0.01,0.01
+BAJAJHLDNG,Financials - Holding/Investing,LargeCap,0.03,0.0,0.01,-0.15,0.03,0.11,0.2,0.28,0.21,0.32,0.32
+BAJAJINDEF,Industial Products - Material Handling/Mining,SmallCap,,,,0.26,0.23,0.05,-0.02,0.76,0.47,0.46,0.76
+BAJEL,Power - EPC,SmallCap,0.05,-0.09,-0.1,-0.09,-0.23,-0.13,-0.06,0.06,0.05,0.25,0.25
+BALAJITELE,Media - Entertainment,SmallCap,0.36,-0.09,-0.27,-0.34,-0.2,-0.22,-0.27,0.01,0.05,0.15,0.36
+BALAMINES,Chemicals - Specialty - Pharma,SmallCap,0.09,-0.03,-0.28,-0.34,-0.43,-0.38,-0.29,0.14,0.21,0.29,0.29
+BALMLAWRIE,Others,SmallCap,0.25,0.08,-0.15,-0.41,-0.22,-0.08,-0.06,0.02,-0.06,0.15,0.25
+BALRAMCHIN,Agri - Sugar,SmallCap,0.49,0.43,0.34,0.09,-0.11,-0.03,0.03,0.13,0.16,0.23,0.54
+BALUFORGE,Metals - Casting/Forging,SmallCap,0.29,0.22,-0.03,-0.39,-0.11,-0.24,0.04,0.09,0.12,0.31,0.32
+BANCOINDIA,Auto - Drivetrain,SmallCap,0.54,0.41,0.35,0.27,0.29,0.28,0.1,0.35,0.24,0.38,0.54
+BANDHANBNK,Financials - Private Bank,MidCap,0.04,-0.14,-0.36,-0.35,-0.23,-0.05,0.11,0.38,0.2,0.25,0.38
+BANKBARODA,Financials - PSU Bank,LargeCap,0.2,0.07,0.02,-0.17,-0.13,-0.2,-0.05,0.14,0.23,0.4,0.4
+BANKINDIA,Financials - PSU Bank,MidCap,0.06,-0.0,0.1,0.0,0.2,0.18,0.31,0.34,0.03,0.19,0.34
+BANSALWIRE,Metals - Pipe & Tube,SmallCap,0.21,0.29,0.41,0.08,0.0,0.04,-0.19,0.02,-0.1,0.02,0.41
+BASF,Chemicals - Specialty - Diversified,SmallCap,0.08,-0.11,-0.29,-0.33,-0.42,-0.46,-0.09,0.1,0.18,0.26,0.29
+BAYERCROP,Agrochem - Pesticides,SmallCap,0.11,-0.12,-0.33,-0.19,-0.21,-0.37,0.16,0.34,0.33,0.3,0.34
+BBOX,IT - Services,SmallCap,0.6,0.47,-0.06,-0.13,-0.07,-0.1,-0.13,-0.08,0.08,0.23,0.6
+BBTC,Consumption - FMCG Conglomerates ,SmallCap,0.52,0.4,0.27,0.13,-0.19,-0.28,-0.07,0.02,-0.06,0.06,0.54
+BDL,Defense - Mfg,MidCap,0.01,-0.35,-0.04,-0.18,0.08,0.32,0.5,0.48,0.29,0.36,0.5
+BEL,Defense - Technology & Electronics,LargeCap,0.37,0.18,0.26,0.14,0.29,0.35,0.39,0.56,0.37,0.56,0.56
+BELRISE,Auto - Drivetrain,SmallCap,,,,,,,0.41,0.34,0.3,0.07,0.41
+BEML,Defense - Mfg,SmallCap,0.01,-0.2,0.0,-0.04,0.22,0.19,0.35,0.29,0.14,0.23,0.35
+BEPL,Chemicals - Specialty - Plastics,SmallCap,0.13,-0.03,-0.15,-0.51,-0.29,-0.12,-0.01,0.11,0.15,0.35,0.35
+BERGEPAINT,Consumption - Paints,MidCap,0.44,0.2,0.08,-0.0,-0.23,-0.08,0.01,0.33,0.21,0.24,0.44
+BHARATFORG,Auto - Forgings,MidCap,-0.08,-0.27,-0.49,-0.57,-0.3,-0.13,0.07,0.18,0.12,0.27,0.28
+BHARATRAS,Agrochem - Pesticides,SmallCap,0.03,-0.06,-0.05,-0.37,0.08,-0.08,-0.35,0.2,0.12,0.12,0.2
+BHARATWIRE,Metals - Wires,SmallCap,0.2,0.19,0.15,-0.18,0.14,0.07,0.01,0.18,0.09,0.13,0.2
+BHARTIARTL,Telecom - Mobile/FixedLine,LargeCap,0.38,0.19,0.16,-0.16,-0.13,0.1,-0.01,0.2,0.09,0.1,0.54
+BHARTIHEXA,Telecom - Mobile/FixedLine,MidCap,0.12,0.1,0.03,-0.18,-0.14,0.05,0.15,0.3,0.3,0.53,0.53
+BHEL,Power - Equipment,MidCap,0.23,0.02,-0.07,-0.13,-0.1,0.05,0.07,0.22,0.22,0.44,0.44
+BIKAJI,Consumption - Foods/Drinks,SmallCap,0.13,-0.05,-0.08,-0.25,-0.33,-0.18,-0.07,0.02,-0.01,0.1,0.38
+BIOCON,Healthcare - Biotech,MidCap,0.29,0.14,-0.07,-0.26,-0.11,-0.05,-0.19,-0.09,0.16,0.27,0.29
+BIRLAMONEY,Financials - Broking,SmallCap,0.09,0.09,0.18,0.21,0.24,0.25,0.29,0.0,0.04,0.09,0.29
+BIRLANU,"Furniture, Home Furnishing",SmallCap,0.03,-0.07,-0.2,-0.37,-0.37,-0.18,0.03,0.07,0.14,0.2,0.2
+BLISSGVS,Healthcare - Formulations,SmallCap,0.39,0.32,0.15,0.0,-0.02,-0.03,-0.29,-0.16,0.08,0.25,0.39
+BLKASHYAP,Infra - Construction,SmallCap,0.27,0.12,-0.13,-0.46,-0.17,-0.03,0.03,0.0,0.28,0.4,0.4
+BLS,IT - E-Governance,SmallCap,0.05,0.1,-0.01,-0.25,0.03,-0.19,-0.05,-0.21,-0.07,0.1,0.1
+BLSE,IT - E-Governance,SmallCap,-0.08,-0.11,-0.09,-0.51,-0.4,-0.43,-0.03,-0.0,0.05,0.14,0.14
+BLUSPRING,HR Services / Outsourcing & Workplace Solutions,SmallCap,,,,,,,,-0.31,-0.1,0.02,0.02
+BORORENEW,Power - Green Equipment,SmallCap,0.26,0.23,-0.13,-0.11,-0.07,-0.06,0.08,-0.27,0.06,0.06,0.26
+BOROSCI,Industrial Products - Glass,SmallCap,-0.05,-0.4,-0.38,-0.54,-0.32,-0.43,-0.33,0.1,-0.01,0.06,0.13
+BOSCHLTD,Auto - Electricals & Electronics,LargeCap,0.19,0.03,-0.15,-0.2,-0.37,-0.09,-0.07,0.17,0.61,0.62,0.62
+BPCL,Refineries & Marketing,LargeCap,0.24,0.27,-0.01,-0.29,-0.29,-0.04,0.05,0.18,0.23,0.42,0.42
+BRITANNIA,Consumption - Foods/Drinks,LargeCap,0.04,-0.04,0.06,-0.18,-0.13,0.04,0.21,0.38,0.29,0.44,0.44
+BSE,IT - Platform - Exchange/RTA,MidCap,0.29,0.31,0.19,-0.01,0.21,0.26,0.41,0.39,0.36,0.53,0.53
+CAMLINFINE,Chemicals - Specialty - FMCG,SmallCap,0.23,0.28,0.02,0.08,0.2,0.24,0.3,0.3,0.37,0.47,0.47
+CAMS,IT - Platform - Exchange/RTA,SmallCap,0.15,0.08,-0.21,-0.42,-0.23,-0.15,-0.07,0.08,0.16,0.39,0.39
+CANBK,Financials - PSU Bank,LargeCap,0.31,0.12,0.07,-0.11,-0.18,-0.09,0.08,0.23,0.13,0.27,0.36
+CANFINHOME,Financials - Housing,SmallCap,0.15,-0.14,-0.23,-0.39,-0.38,-0.32,-0.18,-0.09,0.07,0.36,0.36
+CANTABIL,Textiles - Fashion Retail,SmallCap,-0.04,0.01,-0.06,-0.1,-0.04,-0.08,-0.04,-0.13,-0.17,0.09,0.09
+CAPLIPOINT,Healthcare - CRAMS/CDMO,SmallCap,0.37,0.36,0.25,-0.1,0.24,0.15,0.09,0.02,0.11,0.36,0.37
+CARERATING,Financials - Ratings,SmallCap,0.41,0.33,0.38,0.33,0.27,-0.07,0.32,0.21,0.13,0.2,0.41
+CARRARO,Auto - Drivetrain,SmallCap,,0.03,-0.09,-0.62,-0.65,-0.28,-0.19,-0.07,-0.02,0.32,0.32
+CARTRADE,IT - Platform - Ecommerce,SmallCap,0.08,0.23,0.32,0.28,0.19,0.18,-0.01,0.09,0.2,0.3,0.32
+CARYSIL,Consumption - Kitchen/ Accessories,SmallCap,0.03,-0.12,-0.11,-0.48,-0.11,-0.13,0.16,0.13,0.17,0.22,0.22
+CCL,Agri - Tea/Coffee,SmallCap,0.09,0.05,-0.13,-0.31,-0.04,-0.07,0.58,0.58,0.58,0.61,0.61
+CDSL,IT - Platform - Exchange/RTA,SmallCap,0.39,0.21,0.0,-0.17,-0.02,0.01,0.1,0.31,0.31,0.5,0.5
+CEATLTD,Auto - Tyres,SmallCap,0.23,0.04,0.0,-0.07,-0.15,0.08,0.09,0.21,0.07,0.12,0.23
+CENTENKA,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,-0.04,-0.13,-0.16,-0.45,-0.28,-0.21,-0.27,0.04,0.1,0.16,0.19
+CENTUM,Electronics - EMS,SmallCap,0.23,0.26,0.1,-0.08,0.09,0.1,0.32,0.3,0.32,0.46,0.46
+CERA,Infra - Ceramics/Granites,SmallCap,-0.21,-0.37,-0.35,-0.37,-0.08,-0.07,0.08,0.11,0.01,0.09,0.11
+CESC,Power - Integrated Utility,SmallCap,0.19,0.06,-0.03,-0.17,-0.16,-0.09,-0.11,-0.03,0.03,0.02,0.3
+CEWATER,Waste Management,SmallCap,,-0.16,-0.31,-0.25,-0.62,-0.46,-0.42,-0.2,-0.21,0.05,0.05
+CGPOWER,Power - Equipment,LargeCap,-0.03,-0.26,-0.29,-0.29,-0.23,0.03,0.11,0.21,0.17,0.27,0.44
+CHENNPETRO,Refineries & Marketing,SmallCap,-0.29,-0.24,-0.11,-0.2,0.11,0.26,0.27,0.3,0.03,0.05,0.3
+CHOICEIN,Financials - Holding/Investing,SmallCap,0.5,0.57,0.48,0.21,0.23,0.19,0.31,0.24,0.36,0.5,0.63
+CHOLAHLDNG,Financials - Insurance & Lending,SmallCap,0.11,-0.11,-0.01,0.14,0.02,0.27,0.28,0.55,0.37,0.29,0.55
+CIGNITITEC,IT - Services,SmallCap,0.11,-0.05,-0.21,-0.32,-0.27,-0.1,-0.1,0.1,0.37,0.49,0.49
+CIPLA,Healthcare - Formulations,LargeCap,0.16,0.32,0.33,0.09,0.03,0.15,-0.0,-0.16,-0.09,0.05,0.33
+CLSEL,Agri - Rice,SmallCap,0.22,0.3,0.22,0.3,0.03,0.09,0.19,0.1,0.0,0.09,0.3
+CMSINFO,IT - Services,SmallCap,0.35,0.1,-0.13,-0.01,-0.2,-0.22,0.0,0.15,0.13,0.08,0.55
+COALINDIA,Mining - Coal/Minerals,LargeCap,0.12,0.02,-0.02,-0.09,-0.08,0.05,0.17,0.24,-0.06,0.01,0.42
+COFORGE,IT - Enterprise,MidCap,0.74,0.7,0.35,0.14,0.17,0.13,0.15,0.18,0.28,0.37,0.74
+CONCOR,Transport - Logistics,MidCap,-0.03,-0.12,-0.1,-0.11,-0.01,-0.01,0.27,0.29,0.08,0.22,0.29
+CONTROLPR,IT - Hardware,SmallCap,0.1,0.06,-0.01,0.02,-0.1,-0.03,0.01,0.2,0.04,0.07,0.2
+COROMANDEL,Agrochem - Fertilizers,MidCap,0.47,0.52,0.39,0.1,0.28,0.35,0.05,0.04,0.19,0.27,0.62
+COSMOFIRST,Packaging - Flex,SmallCap,0.04,-0.11,-0.27,-0.15,-0.16,-0.17,0.15,0.16,0.23,0.32,0.32
+CRAFTSMAN,Auto - Electricals & Electronics,SmallCap,0.35,0.06,-0.13,-0.1,-0.08,0.04,0.15,0.23,0.51,0.5,0.51
+CRISIL,Financials - Ratings,MidCap,0.47,0.48,0.4,0.2,0.07,-0.23,-0.07,0.02,0.01,0.17,0.48
+CROMPTON,Consumption - Appliances,SmallCap,0.22,0.18,-0.11,-0.5,-0.25,-0.06,-0.05,0.04,0.01,0.2,0.5
+CSBBANK,Financials - Private Bank,SmallCap,-0.16,-0.39,-0.16,-0.18,-0.03,0.15,0.22,0.37,0.48,0.51,0.51
+CUB,Financials - Private Bank,SmallCap,0.57,0.4,0.34,0.17,0.31,0.04,0.04,0.3,0.21,0.41,0.57
+CUMMINSIND,Industrial - Pumps/Engines,MidCap,0.25,0.02,-0.06,-0.31,-0.23,-0.16,0.07,0.28,0.41,0.69,0.69
+CUPID,Consumption - Personal,SmallCap,-0.18,-0.24,-0.46,-0.37,-0.46,0.1,0.35,0.44,0.64,0.73,0.73
+CYIENTDLM,Electronics - EMS,SmallCap,0.0,-0.29,-0.5,-0.48,-0.22,-0.2,-0.18,-0.11,-0.04,0.1,0.1
+DABUR,Consumption - Personal,LargeCap,-0.11,-0.29,-0.26,-0.45,-0.28,-0.02,0.08,0.24,0.31,0.45,0.45
+DALBHARAT,Infra - Cement,MidCap,0.29,0.17,0.41,0.14,0.15,0.31,0.21,0.43,0.21,0.33,0.43
+DAMCAPITAL,Financials - Broking,SmallCap,,-0.55,-0.56,-0.62,-0.49,-0.47,-0.33,-0.27,-0.11,0.03,0.03
+DATAMATICS,IT - Services,SmallCap,0.31,0.22,0.09,-0.36,-0.15,-0.12,-0.15,-0.16,0.63,0.61,0.63
+DATAPATTNS,Defense - Technology & Electronics,SmallCap,0.02,-0.17,-0.12,-0.34,0.17,0.33,0.34,0.26,0.24,0.34,0.34
+DBCORP,Media - Publishing,SmallCap,-0.07,-0.19,-0.2,-0.37,-0.3,-0.31,-0.15,0.06,0.04,0.4,0.4
+DBL,Infra - Road & Highways,SmallCap,0.29,0.01,0.04,-0.14,0.11,0.1,0.13,0.14,0.08,0.11,0.29
+DBREALTY,Real Estate,SmallCap,-0.08,-0.18,-0.41,-0.41,-0.15,-0.02,0.02,0.28,0.2,0.29,0.29
+DCAL,Healthcare - CRAMS/CDMO,SmallCap,0.54,0.35,0.19,0.04,0.18,0.1,-0.05,-0.09,0.02,0.14,0.54
+DCBBANK,Financials - Private Bank,SmallCap,0.3,0.09,0.39,0.22,0.21,0.18,0.25,0.37,0.13,0.22,0.39
+DCMSHRIRAM,Agri - Sugar,SmallCap,-0.0,0.05,0.06,-0.1,-0.0,-0.02,0.23,0.27,0.4,0.42,0.42
+DCW,Chemicals - Petro,SmallCap,0.26,0.24,0.1,-0.09,-0.19,-0.36,-0.33,-0.03,-0.05,0.06,0.29
+DECCANCE,Infra - Cement,SmallCap,0.2,-0.0,-0.35,-0.03,-0.15,-0.11,-0.24,-0.0,0.27,0.29,0.29
+DEEDEV,Industial Products - Process Equipment & Fabrication,SmallCap,-0.22,-0.11,-0.39,-0.3,-0.13,-0.22,-0.26,0.17,0.12,0.25,0.25
+DEEPAKFERT,Chemicals - Diversified,SmallCap,0.48,0.39,0.19,0.05,0.04,-0.1,-0.17,0.07,0.23,0.49,0.49
+DEEPAKNTR,Chemicals - Specialty - Diversified,MidCap,0.15,-0.04,-0.35,-0.52,-0.51,-0.37,-0.38,-0.21,-0.27,0.04,0.15
+DEEPINDS,Oil and Gas - Field Services,SmallCap,0.44,0.33,0.34,0.14,0.16,0.06,-0.09,0.07,0.09,0.42,0.44
+DELHIVERY,Transport - Logistics,SmallCap,0.05,-0.16,-0.29,-0.53,-0.51,-0.02,0.16,0.33,0.38,0.6,0.6
+DHAMPURSUG,Agri - Sugar,SmallCap,0.26,0.24,0.26,-0.03,-0.35,-0.21,-0.02,0.11,0.0,0.11,0.34
+DHANUKA,Agrochem - Pesticides,SmallCap,0.1,-0.16,-0.17,-0.33,-0.03,-0.06,0.24,0.44,0.51,0.4,0.51
+DIACABS,Power - Wiring,SmallCap,0.39,0.06,-0.25,-0.35,-0.39,-0.51,-0.02,0.69,0.6,0.56,0.69
+DIVGIITTS,Auto - Drivetrain,SmallCap,-0.36,-0.39,-0.28,-0.15,-0.08,-0.22,-0.48,-0.11,-0.02,0.08,0.08
+DIVISLAB,Healthcare - API/Drug,LargeCap,0.66,0.59,0.42,0.2,0.13,0.21,0.21,0.26,0.27,0.37,0.7
+DIXON,Consumption - Electronics,MidCap,0.44,0.35,0.18,0.01,-0.14,0.06,-0.28,-0.17,0.16,0.2,0.62
+DLF,Real Estate,LargeCap,0.33,0.18,-0.07,-0.2,-0.22,-0.09,0.05,0.13,0.1,0.22,0.33
+DLINKINDIA,IT - Hardware,SmallCap,0.15,-0.0,-0.3,-0.43,-0.33,-0.29,-0.27,0.22,0.14,0.25,0.26
+DMART,Consumption - Retail,LargeCap,-0.4,-0.45,-0.5,-0.59,-0.45,-0.25,-0.24,-0.01,0.15,0.34,0.34
+DODLA,Consumption - Dairy,SmallCap,0.14,0.03,-0.01,-0.19,0.01,0.11,0.18,0.35,0.04,0.08,0.35
+DOLPHIN,Oil and Gas - Field Services,SmallCap,-0.02,0.16,-0.29,-0.58,-0.39,-0.15,-0.1,0.0,0.01,0.63,0.63
+DOMS,Consumption - Stationary,SmallCap,0.29,-0.04,-0.06,-0.26,-0.1,-0.09,-0.21,0.05,-0.01,0.12,0.34
+DPABHUSHAN,Consumption - Jewelry,SmallCap,0.21,0.12,0.2,0.11,-0.2,-0.5,-0.3,-0.21,0.01,0.18,0.33
+DREDGECORP,Engineering - Dredging,SmallCap,-0.03,-0.29,-0.19,-0.17,-0.32,-0.16,0.51,0.43,0.39,0.45,0.51
+DRREDDY,Healthcare - Formulations,LargeCap,0.24,0.21,0.04,-0.2,-0.21,-0.04,0.15,-0.07,0.03,0.23,0.24
+DYNAMATECH,Defense - Mfg,SmallCap,0.43,0.42,0.36,0.16,0.06,0.12,0.05,0.03,0.01,0.02,0.43
+E2E,IT - Cloud Infra,SmallCap,0.3,0.26,0.07,-0.42,-0.33,-0.15,0.04,0.01,-0.03,0.16,0.54
+ECLERX,IT - Services,SmallCap,0.46,0.3,0.28,0.13,0.03,0.06,0.01,0.16,0.38,0.56,0.56
+ECOSMOBLTY,HR Services / Outsourcing & Workplace Solutions,SmallCap,-0.31,-0.34,-0.35,-0.39,-0.53,-0.45,0.02,0.16,0.07,0.22,0.22
+EDELWEISS,Financials - Diversified,SmallCap,0.46,0.45,0.37,-0.02,-0.39,-0.36,-0.06,0.17,0.04,0.09,0.46
+EICHERMOT,Auto - 2W,LargeCap,0.45,0.46,0.43,0.15,0.12,0.07,-0.07,0.07,-0.06,0.15,0.5
+EIDPARRY,Agrochem - Fertilizers,SmallCap,0.34,0.19,0.13,-0.06,-0.1,-0.07,-0.15,0.19,0.36,0.55,0.55
+EIHAHOTELS,Leisure - Hotels,SmallCap,0.05,-0.43,-0.52,-0.37,-0.17,-0.15,-0.21,-0.07,-0.03,0.06,0.06
+EIHOTEL,Leisure - Hotels,SmallCap,0.01,0.03,-0.12,-0.14,-0.1,0.03,-0.07,-0.14,-0.09,0.08,0.08
+EKC,Industrial Products - Misc,SmallCap,0.23,0.14,-0.06,-0.24,-0.24,-0.18,-0.41,-0.09,-0.09,0.08,0.23
+ELECON,Electronics - Components,SmallCap,0.24,0.08,0.01,-0.17,-0.25,0.09,0.17,0.1,0.01,0.1,0.42
+ELECTCAST,Metals - Casting/Forging,SmallCap,0.01,-0.12,-0.4,-0.61,-0.45,-0.33,-0.25,0.09,-0.03,0.04,0.13
+ELGIEQUIP,Industrial - Pumps/Engines,SmallCap,0.2,0.09,0.11,-0.19,0.09,0.06,0.13,0.14,0.13,0.16,0.2
+EMAMILTD,Consumption - Personal,MidCap,0.23,0.19,0.01,-0.16,0.02,0.09,-0.03,0.03,0.07,0.15,0.47
+EMBDL,Real Estate,SmallCap,0.05,-0.19,-0.03,-0.13,-0.11,-0.09,-0.12,0.07,-0.12,0.04,0.12
+EMCURE,Healthcare - Formulations,SmallCap,-0.43,-0.13,0.13,-0.16,-0.02,-0.03,0.18,-0.07,0.2,0.28,0.28
+EMUDHRA,IT - E-Governance,SmallCap,0.16,0.03,-0.12,0.0,-0.04,-0.05,0.04,0.12,0.41,0.19,0.41
+ENDURANCE,Auto - Electricals & Batteries,MidCap,-0.17,-0.33,-0.41,-0.43,-0.23,-0.38,-0.02,0.36,0.32,0.37,0.37
+ENGINERSIN,Infra - Consulting,SmallCap,-0.06,-0.27,-0.21,-0.17,-0.07,0.02,0.1,0.33,0.18,0.3,0.33
+EPACK,Consumption - Appliances,SmallCap,0.46,0.41,0.31,0.28,-0.12,-0.21,-0.13,-0.26,0.1,0.18,0.48
+EPIGRAL,Chemicals - Specialty - Diversified,SmallCap,0.36,0.3,0.24,0.21,0.01,0.02,-0.08,0.02,0.03,0.11,0.36
+EPL,Packaging - Misc,SmallCap,0.33,0.18,0.14,-0.12,-0.26,-0.51,-0.17,0.05,0.05,0.27,0.33
+ERIS,Healthcare - Formulations,SmallCap,0.37,0.24,0.04,-0.36,-0.21,-0.13,-0.06,-0.05,0.01,0.21,0.53
+ESABINDIA,Industial Products - Fabrication,SmallCap,-0.18,-0.31,-0.4,-0.29,-0.31,-0.18,-0.13,-0.04,-0.06,0.08,0.08
+ESCORTS,Auto - Tractors,MidCap,0.22,0.15,0.13,0.05,-0.02,0.06,0.06,0.19,0.01,0.25,0.51
+ETERNAL,IT - Platform - Ecommerce,LargeCap,0.13,-0.06,-0.27,-0.28,-0.46,-0.26,-0.26,-0.09,0.16,0.2,0.2
+EUREKAFORB,Consumption - Appliances,SmallCap,0.25,0.16,0.1,0.03,0.03,-0.02,0.06,0.08,0.05,0.12,0.44
+EVEREADY,Consumption - Misc,SmallCap,0.15,0.11,-0.04,-0.28,-0.22,-0.07,-0.12,-0.13,0.24,0.3,0.3
+EXCELINDUS,Chemicals - Specialty - Diversified,SmallCap,0.04,-0.09,-0.17,-0.65,-0.45,-0.39,-0.0,0.16,0.16,0.3,0.35
+EXIDEIND,Auto - Electricals & Batteries,MidCap,-0.04,-0.3,-0.16,-0.2,-0.31,-0.14,-0.21,-0.09,-0.09,0.01,0.46
+EXPLEOSOL,IT - Services,SmallCap,0.23,0.05,-0.07,-0.47,-0.56,-0.5,-0.33,0.01,-0.02,0.11,0.23
+FACT,Agrochem - Fertilizers,SmallCap,0.09,-0.18,-0.03,-0.13,-0.07,0.17,0.13,0.09,0.09,0.15,0.17
+FCL,Chemicals - Specialty - Misc,SmallCap,0.15,0.02,0.03,-0.18,-0.37,-0.24,-0.26,0.04,-0.05,0.13,0.17
+FEDERALBNK,Financials - Private Bank,MidCap,0.65,0.5,0.28,0.3,0.23,0.02,0.01,0.23,0.19,0.3,0.65
+FEDFINA,Financials - NBFC,SmallCap,-0.01,-0.14,-0.16,-0.09,-0.11,-0.01,-0.16,0.09,0.41,0.38,0.41
+FIEMIND,Auto - Lighting & Electronics,SmallCap,0.31,0.2,0.13,-0.08,-0.33,-0.22,-0.06,0.35,0.23,0.26,0.4
+FINCABLES,Power - Wiring,SmallCap,-0.32,-0.5,-0.54,-0.68,-0.23,-0.18,-0.08,0.02,-0.0,0.22,0.33
+FINEORG,Chemicals - Specialty - Diversified,SmallCap,0.12,-0.06,-0.18,-0.28,-0.04,0.01,-0.02,0.1,0.15,0.35,0.35
+FINPIPE,Infra - Plastic Products,SmallCap,-0.04,-0.07,-0.17,-0.3,-0.23,-0.24,-0.0,-0.01,0.02,0.08,0.17
+FLAIR,Consumption - Stationary,SmallCap,0.09,-0.17,-0.28,-0.35,-0.29,-0.16,-0.16,0.08,0.39,0.47,0.47
+FLUOROCHEM,Chemicals - Specialty - Refrigeration,MidCap,0.22,0.14,0.05,0.13,-0.14,-0.05,-0.13,-0.01,0.19,0.17,0.33
+FMGOETZE,Auto - Drivetrain,SmallCap,0.22,-0.12,-0.25,-0.35,-0.38,-0.36,0.08,0.44,0.27,0.33,0.44
+FORCEMOT,Auto - Cars/UVs,SmallCap,0.18,0.06,-0.17,-0.08,0.14,0.0,0.41,0.58,0.42,0.44,0.58
+FORTIS,Healthcare - Hospitals,MidCap,0.43,0.45,0.38,0.19,0.18,0.15,0.22,0.29,0.48,0.62,0.62
+FOSECOIND,Chemicals - Specialty - Misc,SmallCap,0.15,-0.05,-0.26,-0.16,-0.27,-0.37,-0.06,0.25,0.41,0.37,0.41
+FSL,Tech - BPO,SmallCap,0.09,0.07,-0.15,-0.14,-0.01,-0.0,0.01,-0.08,0.14,0.23,0.23
+FUSION,Financials - MFI,SmallCap,-0.51,-0.54,-0.45,-0.47,-0.36,-0.08,-0.01,0.16,0.06,0.1,0.16
+GABRIEL,Auto - Suspension & Axles,SmallCap,0.42,0.2,0.17,-0.2,0.15,0.2,0.29,0.46,0.47,0.53,0.53
+GAIL,Utility - Gas Transmission,LargeCap,0.36,0.15,-0.06,-0.27,-0.27,-0.02,0.0,0.11,-0.02,0.12,0.6
+GALLANTT,Metals - Iron & Steel,SmallCap,0.35,0.18,0.31,-0.38,0.03,0.13,0.11,0.29,0.56,0.51,0.56
+GANDHAR,Refineries & Marketing,SmallCap,0.1,-0.05,-0.09,-0.31,-0.21,-0.27,-0.23,-0.0,-0.01,0.07,0.1
+GARFIBRES,Textiles - Tech,SmallCap,0.28,0.34,0.31,0.28,0.26,0.34,0.09,0.03,-0.01,0.02,0.34
+GARUDA,Infra - Residential & Commercial Buildings,SmallCap,-0.58,0.09,-0.02,-0.08,-0.1,0.1,0.15,-0.21,0.31,0.37,0.37
+GENESYS,IT - Services,SmallCap,0.47,0.32,0.16,-0.15,-0.07,-0.1,-0.23,-0.22,-0.16,0.07,0.47
+GEPIL,Power - Equipment,SmallCap,0.13,-0.21,-0.2,-0.24,-0.19,-0.18,-0.18,0.07,0.1,0.16,0.16
+GICHSGFIN,Financials - Housing,SmallCap,0.16,-0.06,-0.3,-0.32,-0.34,-0.22,-0.15,0.06,-0.03,0.05,0.16
+GICRE,Financials - Gen Insurance,MidCap,0.3,0.1,-0.21,-0.27,-0.2,-0.17,-0.22,-0.21,-0.02,0.12,0.3
+GILLETTE,Consumption - Personal,SmallCap,0.14,0.12,0.04,-0.21,-0.09,-0.3,-0.22,-0.08,-0.04,0.29,0.29
+GIPCL,Power - Generation,SmallCap,0.24,0.01,-0.04,-0.29,-0.14,-0.1,-0.11,0.18,0.18,0.31,0.31
+GLAND,Healthcare - CRAMS/CDMO,MidCap,-0.19,-0.28,-0.52,-0.29,-0.13,-0.17,-0.13,0.02,0.27,0.19,0.27
+GLAXO,Healthcare - Formulations - OTC,MidCap,-0.01,-0.2,-0.51,0.05,0.14,0.2,0.32,0.35,0.41,0.41,0.41
+GLENMARK,Healthcare - Formulations - Generic,MidCap,0.31,0.34,0.15,-0.22,-0.05,-0.11,0.12,0.23,0.35,0.47,0.57
+GLOBUSSPR,Beverages - Alcohol,SmallCap,0.35,0.31,0.26,0.04,-0.06,0.05,0.1,0.18,0.24,0.25,0.5
+GMRAIRPORT,Infra - Airport Services,MidCap,0.3,0.05,-0.14,-0.15,-0.16,0.14,-0.09,0.07,0.1,0.18,0.3
+GMRP&UI,Infra - Heavy Engineering,SmallCap,0.37,0.44,0.36,-0.01,-0.08,0.03,-0.04,-0.08,-0.07,0.11,0.44
+GNA,Auto - Suspension & Axles,SmallCap,-0.04,-0.11,-0.17,-0.43,-0.21,-0.19,-0.14,-0.07,-0.05,0.09,0.09
+GNFC,Chemicals - Diversified,SmallCap,0.27,0.17,0.06,-0.1,-0.07,0.01,-0.05,0.16,0.09,0.26,0.27
+GODAVARIB,Chemicals - Diversified,SmallCap,0.33,0.11,0.04,0.03,0.03,-0.2,-0.46,-0.25,-0.05,0.1,0.33
+GODFRYPHLP,Consumption - Cigarettes,SmallCap,0.09,0.03,0.13,-0.48,-0.4,-0.35,-0.3,-0.24,-0.18,0.27,0.27
+GODIGIT,Financials - Gen Insurance,SmallCap,0.2,0.0,-0.23,-0.32,-0.4,-0.37,-0.26,-0.1,0.41,0.4,0.41
+GODREJAGRO,Agri - Animal Feed,SmallCap,0.07,-0.13,-0.58,-0.51,-0.22,0.03,0.24,0.23,0.3,0.32,0.32
+GODREJCP,Consumption - Personal,LargeCap,-0.07,-0.26,-0.28,-0.48,-0.28,-0.09,-0.14,-0.09,0.02,0.13,0.13
+GODREJPROP,Real Estate,MidCap,-0.04,-0.34,-0.39,-0.48,-0.43,-0.2,-0.08,0.02,-0.06,0.08,0.23
+GOKULAGRO,Agri - Edible Oils,SmallCap,0.29,0.24,0.19,-0.11,0.36,0.25,-0.02,0.16,0.18,0.22,0.36
+GOLDIAM,Consumption - Jewelry,SmallCap,0.27,0.23,0.19,-0.2,-0.21,-0.08,-0.04,-0.08,-0.17,0.14,0.27
+GOODLUCK,Metals - Pipe & Tube,SmallCap,0.11,-0.03,-0.1,-0.5,-0.34,-0.22,-0.03,0.24,0.27,0.39,0.39
+GPIL,Metals - Iron & Steel,SmallCap,0.08,-0.09,-0.12,-0.07,-0.22,-0.3,-0.25,-0.09,0.04,0.14,0.32
+GPPL,Infra - Ports,SmallCap,0.16,0.0,-0.31,-0.44,-0.26,-0.29,-0.11,-0.0,-0.02,0.09,0.16
+GPTHEALTH,Healthcare - Hospitals,SmallCap,-0.08,-0.11,-0.22,-0.33,0.14,0.08,-0.07,-0.25,0.25,0.17,0.25
+GPTINFRA,Infra - Heavy Engineering,SmallCap,0.16,0.08,0.01,-0.14,0.14,0.12,0.08,0.04,0.07,0.09,0.19
+GRAPHITE,Metals - Foundry Support,SmallCap,0.12,0.09,0.07,0.02,-0.01,0.02,0.13,0.21,0.28,0.33,0.33
+GRASIM,Infra - Cement,LargeCap,0.41,0.13,0.22,-0.01,-0.04,0.09,-0.1,0.18,0.03,0.16,0.41
+GRAVITA,Metals - Non Ferrous,SmallCap,0.31,0.06,0.0,-0.32,-0.22,-0.1,-0.23,-0.01,0.04,0.11,0.38
+GREAVESCOT,Industrial - Pumps/Engines,SmallCap,0.33,0.35,0.29,0.15,0.14,0.13,0.1,-0.17,-0.22,0.01,0.35
+GREENPLY,Infra - Laminates,SmallCap,0.19,-0.0,-0.16,-0.44,-0.39,-0.11,0.1,0.16,0.15,0.2,0.29
+GRINDWELL,Industial Products - Abrasives ,SmallCap,-0.32,-0.51,-0.34,-0.41,-0.29,-0.14,0.19,0.28,-0.02,0.07,0.28
+GRINFRA,Infra - Road & Highways,SmallCap,0.2,0.05,-0.04,-0.08,0.24,0.26,0.27,0.28,0.27,0.35,0.35
+GRMOVER,Agri - Rice,SmallCap,0.19,0.12,0.23,-0.04,0.23,0.35,0.35,0.46,0.25,0.27,0.46
+GRSE,Defense - Ship,SmallCap,0.14,-0.33,-0.28,-0.27,0.1,0.33,0.52,0.36,0.29,0.37,0.52
+GSFC,Agrochem - Fertilizers,SmallCap,0.07,-0.16,-0.08,-0.14,0.06,0.1,-0.02,0.12,0.03,0.31,0.31
+GSPL,Utility - Gas Transmission,SmallCap,0.36,0.32,0.22,-0.35,-0.32,-0.16,-0.17,-0.09,-0.03,0.12,0.36
+GUFICBIO,Healthcare - API/Drug,SmallCap,0.14,0.16,0.14,-0.09,0.01,-0.13,0.14,-0.0,0.14,0.27,0.27
+GUJGASLTD,Utility - Gas Distribution,MidCap,-0.18,-0.33,-0.49,-0.54,-0.39,-0.17,-0.12,-0.08,-0.16,0.15,0.15
+GUJTHEM,Healthcare - API/Drug,SmallCap,,,,-0.04,-0.1,-0.09,-0.23,0.27,0.4,0.36,0.4
+GULFOILLUB,Petro - Lubricants,SmallCap,0.3,0.23,0.18,-0.07,-0.03,0.11,0.1,0.08,0.05,0.04,0.3
+GVT&D,Power - Equipment,MidCap,-0.07,-0.02,-0.05,-0.17,-0.14,-0.05,0.23,0.18,0.37,0.56,0.56
+HAL,Defense - Mfg,LargeCap,0.12,-0.2,-0.1,-0.27,-0.02,0.16,0.18,0.17,0.11,0.29,0.29
+HAPPSTMNDS,IT - Software/Consulting,SmallCap,-0.27,-0.14,-0.15,-0.35,-0.49,-0.42,-0.34,0.02,0.02,0.14,0.14
+HAPPYFORGE,Auto - Drivetrain,SmallCap,0.11,-0.24,-0.23,-0.24,-0.3,-0.23,-0.03,0.06,-0.1,0.03,0.41
+HARSHA,Industial Products - Precision Components,SmallCap,0.13,-0.21,-0.29,-0.3,-0.4,-0.42,-0.24,0.06,0.07,0.07,0.21
+HBLENGINE,Railways,SmallCap,0.08,-0.2,-0.27,-0.44,-0.26,-0.24,-0.13,0.07,-0.02,0.19,0.19
+HCG,Healthcare - Hospitals,SmallCap,0.4,0.24,0.32,0.21,0.22,0.16,-0.05,0.07,0.14,0.26,0.4
+HCLTECH,IT - Software/Consulting,LargeCap,0.48,0.36,-0.07,-0.32,-0.36,-0.09,-0.08,-0.01,-0.03,0.1,0.48
+HDFCAMC,Financials - AMC,MidCap,0.01,-0.18,-0.34,-0.61,-0.44,-0.24,-0.0,0.23,0.46,0.6,0.6
+HDFCBANK,Financials - Private Bank,LargeCap,0.2,0.0,0.16,0.21,0.27,0.25,0.21,0.43,0.56,0.55,0.56
+HDFCLIFE,Financials - Life,LargeCap,0.41,0.13,-0.06,-0.33,-0.18,-0.0,0.17,0.49,0.36,0.57,0.57
+HEG,Metals - Foundry Support,SmallCap,0.23,0.03,-0.07,-0.04,-0.05,0.02,0.09,0.3,0.4,0.35,0.4
+HEIDELBERG,Infra - Cement,SmallCap,0.04,-0.05,-0.15,-0.25,-0.16,-0.33,-0.2,-0.03,0.07,0.13,0.13
+HERANBA,Agrochem - Pesticides,SmallCap,0.21,0.14,0.05,-0.55,-0.52,-0.71,-0.68,-0.41,-0.01,0.21,0.3
+HERITGFOOD,Consumption - Dairy,SmallCap,0.03,0.08,-0.07,-0.22,-0.38,-0.23,-0.2,0.14,0.14,0.23,0.23
+HEROMOTOCO,Auto - 2W,LargeCap,-0.02,-0.25,-0.12,-0.41,-0.25,-0.08,0.06,0.16,-0.03,0.18,0.26
+HINDALCO,Metals - Aluminium,LargeCap,0.29,0.06,0.07,0.0,-0.12,0.0,0.04,0.27,0.28,0.19,0.58
+HINDCOPPER,Metals - Copper,SmallCap,0.17,0.13,0.19,-0.17,-0.31,-0.19,0.01,0.27,0.09,0.18,0.27
+HINDPETRO,Refineries & Marketing,MidCap,0.19,0.35,0.15,-0.18,-0.19,0.03,0.08,0.17,0.17,0.37,0.39
+HINDUNILVR,Consumption - FMCG Conglomerates ,LargeCap,0.06,0.01,0.08,-0.13,-0.12,0.04,-0.04,0.01,-0.01,0.12,0.14
+HINDWAREAP,Infra - Ceramics/Granites,SmallCap,-0.1,-0.38,-0.58,-0.45,-0.09,0.0,0.17,0.33,0.36,0.53,0.53
+HIRECT,Electronics - Automation,SmallCap,0.56,0.47,0.41,0.32,0.27,0.01,0.19,0.16,0.39,0.38,0.56
+HITECHGEAR,Auto - Drivetrain,SmallCap,0.09,0.08,-0.11,-0.49,-0.12,-0.17,-0.14,0.02,0.11,0.19,0.19
+HLEGLAS,Industial Products - Glasslined Equipments,SmallCap,0.02,-0.27,-0.21,-0.24,-0.03,0.04,0.28,0.47,0.45,0.51,0.51
+HNDFDS,Consumption - FMCG Conglomerates ,SmallCap,0.34,0.25,0.14,-0.03,-0.23,-0.18,-0.05,0.13,0.05,0.19,0.38
+HONASA,Consumption - Personal,SmallCap,-0.35,-0.42,-0.44,-0.56,-0.39,-0.21,0.12,0.22,0.26,0.33,0.33
+HONAUT,Electronics - Automation,MidCap,-0.39,-0.33,-0.29,-0.34,-0.24,-0.03,0.15,0.08,0.06,0.22,0.22
+HONDAPOWER,Industial Products - Electrical & Power Equipment,SmallCap,0.16,-0.12,-0.18,-0.26,-0.44,-0.31,0.16,0.24,0.13,0.18,0.25
+HPL,Power - Wiring,SmallCap,0.29,0.18,-0.11,-0.3,-0.17,-0.19,0.02,0.19,0.09,0.14,0.29
+HSCL,Chemicals - Carbon,SmallCap,0.36,0.39,0.31,0.13,-0.16,0.01,0.12,0.33,0.15,0.19,0.54
+HUBTOWN,Real Estate,SmallCap,0.35,0.19,-0.04,-0.15,-0.29,-0.41,-0.39,0.48,0.65,0.64,0.65
+HUDCO,Financials - Institute - Infra,MidCap,0.04,-0.18,-0.25,-0.26,-0.08,-0.03,0.02,0.1,0.03,0.28,0.28
+HYUNDAI,Auto - Cars/UVs,LargeCap,-0.07,-0.09,-0.16,-0.26,-0.21,-0.05,-0.11,0.1,0.16,0.48,0.48
+ICEMAKE,Transport - Cold chain,SmallCap,0.02,-0.2,-0.25,-0.08,0.06,-0.02,0.05,0.09,0.16,0.17,0.31
+ICICIBANK,Financials - Private Bank,LargeCap,0.34,0.11,0.17,-0.07,0.07,0.17,0.13,0.33,0.38,0.54,0.54
+ICICIGI,Financials - Gen Insurance,LargeCap,0.33,0.05,-0.16,-0.44,-0.32,-0.07,0.06,0.32,0.27,0.42,0.42
+ICICIPRULI,Financials - Life,LargeCap,0.58,0.42,0.1,-0.25,-0.36,-0.08,0.02,0.15,0.02,0.16,0.58
+ICRA,Financials - Ratings,SmallCap,0.16,0.08,0.28,0.11,-0.1,-0.04,0.1,0.14,0.02,0.07,0.28
+IDBI,Financials - Private Bank,SmallCap,0.14,0.11,-0.18,-0.16,0.07,0.01,0.21,0.43,0.24,0.33,0.43
+IDEAFORGE,Defense - Technology & Electronics,SmallCap,-0.25,-0.62,-0.31,-0.56,-0.58,-0.36,0.24,0.2,0.14,0.16,0.24
+IDFCFIRSTB,Financials - Private Bank,MidCap,0.07,-0.11,0.01,-0.09,-0.18,0.02,0.11,0.27,0.07,0.16,0.27
+IFBIND,Consumption - Appliances,SmallCap,-0.14,-0.29,-0.45,-0.53,-0.29,0.06,0.06,-0.01,0.08,0.23,0.23
+IFCI,Financials - Institute - Infra,SmallCap,0.23,0.18,-0.28,-0.32,-0.13,-0.11,0.23,0.29,0.23,0.31,0.31
+IFGLEXPOR,Metals - Foundry Support,SmallCap,-0.19,-0.4,-0.28,-0.5,-0.45,-0.48,0.05,0.18,-0.02,0.03,0.18
+IGIL,Others,SmallCap,,0.23,-0.05,-0.14,0.04,-0.01,0.04,-0.09,0.1,0.24,0.24
+IGL,Utility - Gas Distribution,MidCap,0.02,0.15,0.06,-0.01,-0.02,0.09,0.34,0.2,0.18,0.26,0.34
+IIFL,Financials - NBFC,SmallCap,-0.06,-0.38,-0.39,-0.53,-0.2,-0.13,0.08,0.23,0.19,0.3,0.3
+IIFLCAPS,Financials - Broking,SmallCap,0.38,0.33,0.24,-0.06,-0.34,-0.34,-0.05,0.14,0.12,0.19,0.61
+IMFA,Metals - Ferro Alloys,SmallCap,0.31,0.26,0.04,0.01,-0.12,-0.14,-0.48,-0.06,0.04,0.17,0.31
+IMPAL,Auto - Misc,SmallCap,0.26,0.15,-0.05,-0.23,-0.3,-0.28,-0.13,0.09,-0.03,0.07,0.26
+INDIACEM,Infra - Cement,SmallCap,0.61,0.48,0.02,0.11,0.15,0.16,0.07,-0.17,0.24,0.33,0.61
+INDIAGLYCO,Chemicals - Bulk,SmallCap,0.28,0.16,-0.12,-0.54,-0.45,-0.11,0.08,0.26,0.19,0.39,0.53
+INDIAMART,IT - Platform - Catalogue Retail,SmallCap,-0.14,-0.27,-0.47,-0.67,-0.64,-0.47,-0.4,-0.26,0.04,0.18,0.18
+INDIANB,Financials - PSU Bank,MidCap,0.24,0.14,0.16,0.11,0.29,0.14,0.22,0.44,0.22,0.33,0.44
+INDIANHUME,Industial Products - Water/Waster Management,SmallCap,0.17,-0.02,-0.29,-0.55,-0.11,-0.03,0.06,0.17,0.05,0.11,0.17
+INDIASHLTR,Financials - Housing,SmallCap,-0.03,-0.05,-0.14,0.04,0.31,0.47,0.47,0.4,0.24,0.18,0.47
+INDIGO,Transport - Misc,LargeCap,0.14,0.2,0.11,0.01,0.26,0.47,0.3,0.41,0.46,0.43,0.47
+INDIGOPNTS,Consumption - Paints,SmallCap,-0.26,-0.27,-0.31,-0.34,-0.15,-0.59,-0.26,-0.09,-0.04,0.08,0.08
+INDNIPPON,Auto - Electricals & Batteries,SmallCap,0.17,-0.17,-0.23,-0.41,-0.24,-0.2,-0.07,0.19,0.1,0.19,0.19
+INDOAMIN,Chemicals - Specialty - Diversified,SmallCap,0.51,0.39,0.28,0.15,-0.55,-0.4,-0.34,0.16,0.15,0.2,0.61
+INDOCO,Healthcare - Formulations,SmallCap,0.04,-0.04,-0.17,-0.36,-0.23,-0.16,-0.27,-0.23,0.02,0.12,0.12
+INDOSTAR,Financials - NBFC,SmallCap,0.17,-0.02,-0.13,-0.28,-0.1,-0.06,0.15,0.47,0.35,0.37,0.47
+INDRAMEDCO,Healthcare - Hospitals,SmallCap,0.34,0.42,0.34,-0.05,0.08,0.19,0.21,0.19,0.2,0.3,0.45
+INGERRAND,Industrial - Pumps/Engines,SmallCap,0.15,0.01,-0.05,-0.23,-0.12,-0.06,-0.13,0.01,-0.04,0.14,0.15
+INNOVACAP,Healthcare - CRAMS/CDMO,SmallCap,0.54,0.51,0.3,0.25,0.29,0.25,0.05,-0.21,-0.1,0.04,0.54
+INOXGREEN,Power - Green - Misc,SmallCap,0.31,0.28,0.21,-0.01,-0.12,0.13,0.39,0.23,0.24,0.35,0.4
+INOXINDIA,Industrial Products - Misc,SmallCap,-0.21,-0.38,-0.4,-0.16,-0.14,-0.14,-0.04,0.01,0.04,0.17,0.17
+INOXWIND,Power - Equipment,SmallCap,0.34,0.25,0.11,-0.21,-0.15,-0.12,0.05,0.07,-0.1,0.05,0.34
+INSECTICID,Agrochem - Pesticides,SmallCap,0.34,0.18,0.11,-0.23,-0.19,-0.26,-0.0,0.31,0.39,0.46,0.46
+INTELLECT,IT - Software/Consulting,SmallCap,-0.31,0.02,-0.11,-0.16,-0.11,0.01,0.19,0.08,0.31,0.38,0.38
+INTERARCH,Infra - Construction,SmallCap,0.07,0.32,0.33,0.51,0.31,0.05,0.31,0.28,0.34,0.46,0.51
+IOC,Refineries & Marketing,LargeCap,0.26,0.17,-0.06,-0.25,-0.34,-0.04,-0.11,0.09,0.03,0.15,0.26
+IOLCP,Healthcare - API/Drug,SmallCap,0.07,-0.01,-0.14,-0.29,-0.43,-0.37,-0.19,-0.04,0.31,0.32,0.32
+IPCALAB,Healthcare - Formulations - Generic,MidCap,0.3,0.52,0.29,0.08,0.04,0.07,0.11,-0.16,-0.02,0.24,0.52
+IPL,Agrochem - Pesticides,SmallCap,0.04,-0.11,-0.24,-0.6,-0.44,-0.39,0.14,0.33,0.36,0.36,0.36
+IRCON,Railways,SmallCap,-0.2,-0.35,-0.02,-0.08,0.03,-0.0,0.09,0.05,-0.15,0.02,0.09
+IRCTC,IT - Platform - Tour & Travel,MidCap,-0.07,-0.24,-0.03,-0.11,-0.06,0.12,0.12,0.26,-0.01,0.17,0.26
+IREDA,Financials - Institute - Power,MidCap,0.16,0.11,-0.05,-0.03,-0.05,0.02,0.07,0.02,-0.04,0.05,0.25
+IRFC,Railways,LargeCap,-0.1,-0.16,-0.07,-0.09,0.02,-0.13,-0.01,0.13,-0.08,0.12,0.13
+IRMENERGY,Utility - Gas Distribution,SmallCap,-0.34,-0.33,-0.44,-0.51,-0.2,-0.15,-0.04,0.07,0.0,0.08,0.08
+ISGEC,Industial Products - Process Equipment & Fabrication,SmallCap,0.36,0.02,-0.28,-0.36,-0.18,-0.14,-0.13,0.01,0.02,0.26,0.36
+ITCHOTELS,Leisure - Hotels,SmallCap,,,-0.34,-0.54,-0.22,-0.18,-0.01,0.06,0.03,0.23,0.23
+ITDC,Leisure - Hotels,SmallCap,0.11,-0.2,-0.21,-0.26,0.07,0.07,0.1,0.12,0.13,0.3,0.3
+ITDCEM,Infra - Construction,SmallCap,0.09,-0.01,0.04,-0.05,0.07,0.17,0.39,0.5,0.35,0.25,0.5
+ITI,Telecom - Equipments,SmallCap,0.06,0.32,0.0,-0.01,0.0,0.0,0.01,-0.66,0.32,0.3,0.32
+IXIGO,IT - Platform - Tour & Travel,SmallCap,-0.23,0.0,0.05,-0.11,-0.03,0.06,0.18,0.08,0.59,0.66,0.66
+JAGSNPHARM,Healthcare - Formulations,SmallCap,0.5,0.27,0.28,0.08,0.11,-0.05,-0.18,-0.05,0.11,0.29,0.5
+JAMNAAUTO,Auto - Suspension & Axles,SmallCap,-0.16,-0.26,-0.64,-0.63,-0.39,-0.34,-0.2,-0.01,-0.03,0.18,0.18
+JBCHEPHARM,Healthcare - Formulations,SmallCap,0.22,0.25,0.07,0.02,0.15,0.08,0.17,0.05,0.23,0.24,0.25
+JBMA,Auto - Body,SmallCap,-0.24,-0.47,-0.27,-0.46,-0.19,-0.01,0.08,0.08,-0.03,0.08,0.08
+JGCHEM,Chemicals - Specialty - Rubber,SmallCap,0.17,0.07,-0.05,-0.36,-0.3,-0.21,-0.32,-0.01,0.2,0.26,0.33
+JINDALSTEL,Metals - Iron & Steel,LargeCap,0.06,-0.06,-0.13,-0.04,-0.08,0.13,0.23,0.28,0.39,0.33,0.39
+JIOFIN,Financials - NBFC,LargeCap,0.14,-0.13,-0.16,-0.31,-0.22,-0.0,0.0,0.21,0.42,0.62,0.62
+JKCEMENT,Infra - Cement,MidCap,0.28,0.2,0.28,0.07,0.22,0.27,0.27,0.28,0.31,0.54,0.54
+JKLAKSHMI,Infra - Cement,SmallCap,0.17,-0.0,-0.11,-0.17,-0.02,-0.12,-0.1,0.07,0.12,0.23,0.23
+JKTYRE,Auto - Tyres,SmallCap,0.02,-0.23,-0.23,-0.24,-0.31,-0.12,0.1,0.13,0.07,0.15,0.15
+JMFINANCIL,Financials - Diversified,SmallCap,0.33,0.25,0.19,0.1,-0.36,-0.19,-0.01,0.31,0.14,0.27,0.67
+JSL,Metals - Iron & Steel,MidCap,0.31,0.11,0.21,-0.09,-0.47,-0.24,-0.13,0.02,0.04,0.08,0.49
+JSWHL,Financials - Holding/Investing,SmallCap,0.06,0.06,0.07,0.04,0.04,-0.01,0.26,0.21,0.19,0.18,0.26
+JSWINFRA,Infra - Ports,MidCap,0.43,0.19,0.12,0.14,0.15,0.1,0.02,0.15,0.09,0.08,0.48
+JSWSTEEL,Metals - Iron & Steel,LargeCap,0.38,0.03,0.06,-0.03,-0.11,0.02,0.05,0.38,0.32,0.36,0.44
+JTEKTINDIA,Auto - Drivetrain,SmallCap,0.25,-0.07,-0.19,0.02,-0.01,0.04,-0.05,0.13,-0.01,0.04,0.25
+JUBLCPL,Chemicals - Specialty - FMCG,SmallCap,,,,-0.33,-0.27,-0.35,-0.71,0.69,0.31,0.38,0.69
+JUBLFOOD,Leisure - Restaurants,MidCap,0.42,0.42,0.27,-0.05,0.04,0.25,-0.02,-0.09,-0.13,0.08,0.49
+JUBLINGREA,Chemicals - Specialty - Pharma,SmallCap,0.31,0.28,0.13,0.13,-0.14,-0.06,-0.13,0.12,0.16,0.21,0.35
+JUBLPHARMA,Healthcare - CRAMS/CDMO,SmallCap,0.53,0.46,0.42,0.17,-0.05,-0.18,0.06,0.33,0.38,0.53,0.53
+JWL,Railways,SmallCap,0.18,-0.32,-0.32,-0.51,-0.25,-0.27,-0.25,-0.19,-0.11,0.24,0.42
+JYOTHYLAB,Consumption - Misc,SmallCap,0.06,-0.01,-0.11,-0.22,-0.21,-0.06,-0.02,0.1,-0.05,0.09,0.1
+KAJARIACER,Infra - Ceramics/Granites,SmallCap,0.09,-0.12,-0.41,-0.48,-0.59,-0.37,0.05,0.09,0.17,0.31,0.31
+KALAMANDIR,Textiles - Fashion Retail,SmallCap,0.04,-0.23,-0.12,-0.32,-0.23,-0.36,-0.16,0.21,0.15,0.18,0.21
+KALYANKJIL,Consumption - Jewelry,MidCap,0.29,0.3,-0.07,-0.33,-0.34,-0.21,-0.27,-0.28,-0.05,0.34,0.39
+KANSAINER,Consumption - Paints,SmallCap,0.26,0.24,-0.13,-0.23,-0.33,-0.27,-0.38,-0.27,-0.09,0.06,0.26
+KARURVYSYA,Financials - Private Bank,SmallCap,0.58,0.47,0.45,0.32,0.42,0.3,0.23,0.5,0.28,0.4,0.58
+KAYNES,Electronics - EMS,SmallCap,0.39,0.41,0.06,-0.05,-0.06,0.01,-0.07,-0.08,0.19,0.3,0.41
+KDDL,Consumption - Jewelry,SmallCap,-0.06,-0.17,-0.38,-0.15,0.28,0.28,0.18,0.26,0.16,0.05,0.28
+KEC,Railways,SmallCap,0.54,0.47,0.33,0.01,-0.02,-0.06,-0.05,0.0,0.03,0.15,0.54
+KEI,Power - Wiring,MidCap,0.07,0.03,-0.06,-0.35,-0.42,-0.21,-0.16,-0.13,-0.06,0.14,0.22
+KERNEX,Railways,SmallCap,0.16,0.17,0.05,-0.0,0.2,0.03,0.04,-0.03,-0.04,0.01,0.2
+KFINTECH,IT - Platform - Exchange/RTA,SmallCap,0.13,0.25,0.02,-0.15,-0.09,0.09,-0.03,0.01,0.02,0.11,0.25
+KICL,Financials - Holding/Investing,SmallCap,0.17,-0.45,-0.52,-0.59,-0.47,-0.42,-0.2,-0.07,-0.06,0.1,0.48
+KIMS,Healthcare - Hospitals,SmallCap,0.4,0.27,0.22,-0.05,0.07,0.13,0.21,0.31,0.38,0.48,0.48
+KINGFA,Industrial Products - Plastic,SmallCap,0.5,0.54,0.23,0.07,0.2,0.26,0.31,0.27,0.39,0.48,0.54
+KIRLOSBROS,Industrial - Pumps/Engines,SmallCap,0.49,0.34,0.16,0.07,0.05,-0.06,-0.24,0.12,0.1,0.24,0.49
+KIRLOSENG,Industrial - Pumps/Engines,SmallCap,0.09,-0.16,-0.14,-0.51,-0.19,-0.13,0.14,0.15,0.17,0.38,0.38
+KIRLOSIND,Power - Green - Misc,SmallCap,0.03,-0.07,-0.18,-0.4,-0.52,-0.69,0.17,0.35,0.26,0.29,0.35
+KITEX,Textiles - Exports,SmallCap,0.74,0.69,0.64,0.5,0.39,0.14,-0.06,0.11,0.04,0.09,0.74
+KOKUYOCMLN,Consumption - Stationary,SmallCap,0.24,0.15,-0.04,-0.59,-0.4,-0.37,-0.3,0.17,0.08,0.11,0.24
+KOLTEPATIL,Real Estate,SmallCap,-0.28,-0.34,-0.3,-0.65,-0.28,-0.07,0.06,0.25,0.19,0.3,0.3
+KOTHARIPET,Chemicals - Petro,SmallCap,0.37,0.32,0.18,-0.32,-0.2,-0.22,-0.14,0.01,-0.05,0.03,0.37
+KPEL,Power - Green - EPC,SmallCap,0.13,-0.26,-0.4,-0.6,-0.5,-0.49,-0.02,0.03,0.09,0.13,0.13
+KPIGREEN,Power - Green - IPP,SmallCap,-0.22,-0.2,-0.25,-0.28,-0.28,-0.32,-0.05,-0.03,0.02,0.08,0.08
+KPIL,Infra - Heavy Engineering,SmallCap,0.25,0.32,0.06,-0.21,-0.09,-0.05,0.08,0.06,0.07,0.29,0.32
+KRBL,Agri - Rice,SmallCap,0.07,0.07,0.04,-0.25,0.03,0.06,0.05,0.18,0.11,0.39,0.39
+KRISHANA,Agrochem - Fertilizers,SmallCap,-0.17,-0.53,-0.44,-0.21,0.09,0.35,0.35,0.41,0.5,0.46,0.5
+KRSNAA,Healthcare - Diagnostics,SmallCap,0.47,0.43,0.34,0.22,0.14,-0.14,-0.45,-0.22,0.05,0.15,0.47
+KSB,Industrial - Pumps/Engines,SmallCap,-0.2,-0.27,-0.16,-0.33,-0.22,-0.13,-0.11,-0.13,-0.17,0.08,0.08
+KSCL,Agri - Seeds,SmallCap,-0.13,-0.2,-0.44,-0.18,0.16,0.17,0.22,0.14,0.08,0.03,0.22
+KSL,Metals - Iron & Steel,SmallCap,-0.04,0.0,0.18,0.17,0.1,0.06,0.07,0.23,0.18,0.28,0.28
+LALPATHLAB,Healthcare - Diagnostics,SmallCap,0.2,0.13,-0.08,-0.41,-0.37,-0.14,-0.14,-0.21,-0.02,0.19,0.61
+LAOPALA,Consumption - Homeware,SmallCap,-0.06,-0.16,-0.17,-0.41,-0.53,-0.49,-0.41,-0.23,-0.12,0.1,0.1
+LAURUSLABS,Healthcare - API/Drug,SmallCap,0.46,0.53,0.52,0.27,0.48,0.34,0.25,0.25,0.27,0.47,0.53
+LAXMIDENTL,Healthcare - Equipments,SmallCap,,,0.26,0.22,0.23,0.05,-0.32,-0.24,-0.15,0.11,0.26
+LEMONTREE,Leisure - Hotels,SmallCap,0.14,0.22,0.08,-0.08,0.01,0.06,-0.04,-0.19,-0.1,0.09,0.22
+LICHSGFIN,Financials - Housing,MidCap,-0.01,-0.29,-0.14,-0.17,0.12,0.19,0.05,0.23,-0.01,0.1,0.23
+LICI,Financials - Life,LargeCap,0.2,0.12,-0.31,-0.34,-0.14,-0.04,0.12,0.39,0.38,0.58,0.58
+LINDEINDIA,Chemicals - Misc,MidCap,-0.25,-0.22,-0.03,0.07,-0.11,0.01,0.18,0.17,0.09,0.13,0.18
+LLOYDSENGG,Industial Products - Process Equipment & Fabrication,SmallCap,0.27,0.15,-0.04,-0.14,-0.2,-0.26,-0.03,0.22,0.08,0.15,0.41
+LLOYDSENT,Metals - Iron & Steel,SmallCap,0.28,0.09,-0.35,-0.16,0.01,0.06,0.17,0.33,0.29,0.41,0.41
+LLOYDSME,Metals - Iron & Steel,MidCap,0.37,0.47,0.37,0.24,0.18,0.18,0.21,0.19,0.32,0.49,0.49
+LMW,Industial Products - Machinery,SmallCap,0.14,0.19,0.25,0.13,0.03,0.17,0.1,0.04,-0.05,0.07,0.25
+LT,Infra - Heavy Engineering,LargeCap,0.39,0.34,0.14,-0.06,0.06,0.01,0.08,0.25,0.35,0.62,0.62
+LTF,Financials - NBFC,MidCap,0.14,-0.14,-0.04,-0.1,-0.22,0.02,0.03,0.4,0.11,0.17,0.4
+LTFOODS,Agri - Rice,SmallCap,0.4,0.33,0.2,-0.07,0.18,0.18,0.27,0.5,0.39,0.44,0.5
+LTIM,IT - Enterprise,LargeCap,0.28,0.01,-0.01,-0.35,-0.4,-0.06,-0.05,0.12,0.04,0.19,0.28
+LUMAXIND,Auto - Lighting & Electronics,SmallCap,0.12,0.01,0.01,-0.23,0.09,0.08,0.46,0.61,0.55,0.41,0.61
+LUMAXTECH,Auto - Lighting & Electronics,SmallCap,0.29,0.17,0.09,0.09,0.03,0.07,0.33,0.51,0.6,0.61,0.61
+LXCHEM,Chemicals - Specialty - Pharma,SmallCap,0.04,-0.01,-0.04,-0.55,-0.29,-0.41,-0.14,-0.12,0.05,0.15,0.15
+M&M,Auto - Cars/UVs,LargeCap,0.15,0.08,-0.01,-0.22,-0.37,-0.1,-0.2,-0.12,-0.09,0.12,0.53
+MAHABANK,Financials - PSU Bank,MidCap,0.06,-0.0,-0.0,-0.06,-0.06,0.0,0.01,0.29,0.23,0.37,0.37
+MAHSCOOTER,Financials - Holding/Investing,SmallCap,0.1,-0.03,-0.12,-0.23,-0.29,-0.05,0.19,0.2,0.34,0.39,0.41
+MAHSEAMLES,Metals - Pipe & Tube,SmallCap,0.21,0.01,-0.08,-0.27,-0.2,-0.29,-0.3,-0.08,-0.04,0.09,0.21
+MAITHANALL,Metals - Ferro Alloys,SmallCap,-0.04,-0.12,-0.0,-0.27,-0.41,-0.35,-0.14,0.17,0.12,0.19,0.19
+MAMATA,Industial Products - Machinery,SmallCap,,-0.14,-0.49,-0.61,-0.64,-0.53,-0.35,-0.38,0.42,0.45,0.45
+MANAPPURAM,Financials - NBFC,SmallCap,0.07,0.09,0.22,0.24,0.32,0.45,0.51,0.5,0.39,0.38,0.51
+MANGCHEFER,Agrochem - Fertilizers,SmallCap,0.39,0.27,0.17,0.13,0.17,0.33,0.4,0.37,0.48,0.55,0.55
+MANGLMCEM,Infra - Cement,SmallCap,0.29,0.36,0.16,-0.11,0.18,0.24,0.21,0.0,0.01,0.2,0.36
+MANINDS,Metals - Pipe & Tube,SmallCap,-0.05,-0.18,-0.32,-0.37,-0.01,0.02,0.32,0.47,0.51,0.58,0.58
+MANINFRA,Infra - Residential & Commercial Buildings,SmallCap,0.45,0.34,0.22,0.11,0.13,0.08,-0.12,-0.05,-0.03,0.09,0.45
+MANKIND,Healthcare - Formulations - OTC,MidCap,-0.06,-0.02,0.02,-0.33,-0.15,-0.17,-0.11,-0.25,0.03,0.13,0.13
+MANORAMA,Consumption - Foods/Drinks,SmallCap,0.42,0.33,0.29,0.15,0.25,0.29,0.38,0.51,0.27,0.27,0.51
+MARATHON,Real Estate,SmallCap,0.38,0.16,-0.06,-0.13,-0.23,-0.23,-0.26,0.33,0.38,0.39,0.39
+MARICO,Agri - Edible Oils,MidCap,0.07,0.23,0.17,0.15,0.13,0.39,0.26,0.25,0.13,0.21,0.39
+MARKSANS,Healthcare - Formulations - Generic,SmallCap,0.62,0.52,0.38,0.14,0.1,0.08,-0.0,0.18,0.07,0.2,0.62
+MARUTI,Auto - Cars/UVs,LargeCap,-0.12,-0.13,-0.13,-0.13,-0.33,0.01,-0.04,0.03,-0.15,0.02,0.03
+MASFIN,Financials - NBFC,SmallCap,-0.03,0.09,0.17,-0.02,-0.02,-0.01,0.32,0.34,0.13,0.23,0.34
+MASTERTR,Financials - Broking,SmallCap,-0.29,-0.45,-0.66,-0.73,-0.3,-0.2,-0.11,-0.41,0.07,0.2,0.2
+MAXHEALTH,Healthcare - Hospitals,MidCap,0.15,0.07,0.02,-0.12,-0.08,-0.24,-0.21,-0.13,-0.1,0.07,0.15
+MAYURUNIQ,Leather Products,SmallCap,0.01,-0.14,-0.22,-0.19,-0.07,-0.24,0.11,0.08,-0.04,0.06,0.11
+MAZDOCK,Defense - Ship,MidCap,0.07,-0.26,-0.31,-0.22,-0.05,0.23,0.21,0.35,0.2,0.3,0.35
+MBAPL,Agrochem - Fertilizers,SmallCap,-0.08,0.08,0.35,0.32,0.28,0.25,0.41,0.45,0.44,0.42,0.45
+MCX,IT - Platform - Exchange/RTA,SmallCap,0.58,0.4,0.16,-0.14,-0.07,-0.04,0.14,0.48,0.35,0.44,0.58
+MEDANTA,Healthcare - Hospitals,MidCap,0.11,-0.13,-0.21,-0.15,0.06,-0.21,-0.24,-0.08,0.1,0.17,0.17
+MEDIASSIST,Financials - Misc,SmallCap,0.14,0.03,-0.04,-0.19,-0.26,-0.26,-0.16,0.07,-0.07,0.08,0.14
+MEDPLUS,IT - Platform - Healthcare/Pharma,SmallCap,0.27,0.27,0.24,0.08,0.28,0.34,0.05,0.02,0.16,0.3,0.34
+METROPOLIS,Healthcare - Diagnostics,SmallCap,0.37,0.22,-0.0,-0.3,-0.44,-0.34,-0.35,-0.33,-0.05,0.23,0.37
+MFSL,Financials - Life,MidCap,0.48,0.37,0.36,0.2,0.14,0.13,0.42,0.6,0.41,0.63,0.63
+MHRIL,Leisure - Hotels,SmallCap,-0.18,-0.37,-0.41,-0.41,-0.35,-0.28,-0.08,-0.06,-0.06,0.03,0.03
+MIDHANI,Defense - Mfg,SmallCap,0.11,-0.15,-0.12,-0.15,-0.15,0.04,0.23,0.2,-0.02,0.03,0.23
+MMTC,Others,SmallCap,0.07,-0.01,-0.42,-0.5,-0.38,-0.27,0.38,0.42,0.48,0.53,0.53
+MOIL,Mining - Coal/Minerals,SmallCap,-0.22,-0.35,-0.29,-0.23,-0.36,-0.25,-0.1,0.03,0.09,0.2,0.2
+MOL,Agrochem - Pesticides,SmallCap,-0.01,-0.09,-0.2,-0.52,-0.46,-0.44,-0.2,0.12,0.09,0.18,0.18
+MOLDTKPAC,Packaging - Rigid,SmallCap,-0.2,-0.43,-0.6,-0.61,-0.67,-0.51,-0.19,0.01,0.16,0.2,0.2
+MOREPENLAB,Healthcare - Formulations - OTC,SmallCap,0.16,0.05,-0.01,-0.43,-0.36,-0.15,-0.03,0.03,0.01,0.07,0.25
+MOSCHIP,IT - Hardware,SmallCap,,,,0.06,-0.21,-0.64,-0.39,-0.26,-0.02,0.01,0.06
+MOTHERSON,Auto - Glass/Body,LargeCap,0.23,-0.04,-0.13,-0.43,-0.6,-0.33,-0.09,0.05,0.04,0.28,0.6
+MOTILALOFS,Financials - Broking,MidCap,0.18,0.12,-0.14,-0.31,-0.29,-0.41,-0.21,-0.12,0.06,0.29,0.29
+MPHASIS,IT - Software/Consulting,MidCap,0.24,0.02,-0.15,-0.41,-0.28,0.04,0.03,0.28,0.36,0.52,0.52
+MRF,Auto - Tyres,MidCap,0.31,0.24,-0.12,-0.12,-0.08,0.22,0.05,0.09,0.2,0.32,0.32
+MSTCLTD,IT - Platform - Ecommerce,SmallCap,-0.04,-0.19,-0.31,-0.34,-0.11,-0.1,-0.14,0.05,-0.0,0.19,0.19
+MUFIN,Financials - NBFC,SmallCap,-0.09,-0.21,-0.23,-0.29,-0.32,-0.24,-0.26,-0.14,-0.02,0.01,0.01
+MUKANDLTD,Metals - Iron & Steel,SmallCap,0.09,0.04,-0.24,-0.2,-0.46,-0.36,-0.18,0.14,0.07,0.14,0.14
+MUTHOOTFIN,Financials - NBFC,MidCap,0.46,0.49,0.53,0.18,0.23,0.2,0.17,0.21,0.08,0.25,0.57
+MUTHOOTMF,Financials - MFI,SmallCap,0.01,-0.2,-0.29,-0.45,-0.73,-0.46,-0.5,-0.17,-0.04,0.02,0.13
+NACLIND,Agrochem - Pesticides,SmallCap,-0.31,-0.05,0.16,0.2,0.48,0.48,0.45,0.44,0.45,0.48,0.48
+NAM-INDIA,Financials - AMC,MidCap,0.14,-0.04,-0.2,-0.35,-0.19,-0.18,-0.04,0.11,0.21,0.4,0.4
+NAUKRI,IT - Platform - Catalogue Retail,LargeCap,0.51,0.36,0.22,-0.09,-0.09,0.13,0.03,0.03,0.0,0.14,0.51
+NAVA,Power - Misc,SmallCap,0.38,0.2,0.03,-0.03,0.1,0.08,0.16,0.58,0.63,0.69,0.69
+NAVINFLUOR,Chemicals - Specialty - Refrigeration,SmallCap,0.25,0.1,0.17,0.21,0.17,0.4,0.23,0.37,0.1,0.23,0.4
+NAVKARCORP,Transport - Logistics,SmallCap,0.4,0.35,0.07,-0.04,0.14,0.11,0.07,-0.04,0.3,0.37,0.4
+NAVNETEDUL,Media - Publishing,SmallCap,-0.05,-0.14,-0.3,0.0,0.19,0.15,0.07,-0.01,0.04,0.01,0.19
+NAZARA,IT - Gaming/Entertainment,SmallCap,0.03,-0.14,-0.21,-0.17,-0.05,0.02,0.26,0.27,0.27,0.36,0.36
+NBCC,Infra - Construction,SmallCap,0.16,0.08,0.08,-0.02,0.07,0.23,0.33,0.36,0.13,0.3,0.36
+NCC,Infra - Construction,SmallCap,0.31,0.12,-0.2,-0.39,-0.08,-0.07,-0.03,0.04,-0.04,0.33,0.37
+NDRAUTO,Auto - Drivetrain,SmallCap,0.2,0.15,0.08,-0.29,-0.39,-0.3,-0.03,0.53,0.35,0.39,0.53
+NDTV,Media - TV Broadcast,SmallCap,-0.21,-0.15,-0.27,-0.21,-0.21,-0.2,-0.08,-0.06,0.02,0.07,0.07
+NELCAST,Metals - Casting/Forging,SmallCap,-0.05,-0.18,-0.22,-0.34,-0.38,-0.39,-0.07,0.2,0.24,0.22,0.24
+NELCO,Telecom - Equipments,SmallCap,0.27,0.19,0.11,-0.26,-0.02,0.0,-0.04,-0.04,-0.08,0.01,0.27
+NESCO,Real Estate,SmallCap,0.2,0.09,-0.0,-0.22,-0.08,-0.1,-0.37,0.03,0.39,0.51,0.51
+NESTLEIND,Consumption - FMCG Conglomerates ,LargeCap,-0.21,-0.38,-0.16,-0.25,-0.29,-0.05,-0.04,0.29,0.11,0.24,0.29
+NETWEB,IT - Hardware,SmallCap,-0.02,-0.23,-0.27,-0.44,-0.37,-0.39,0.12,0.15,0.4,0.17,0.4
+NFL,Agrochem - Fertilizers,SmallCap,0.04,-0.14,-0.21,-0.37,-0.22,-0.09,-0.03,-0.02,-0.06,0.05,0.07
+NH,Healthcare - Hospitals,SmallCap,0.08,0.0,0.09,0.11,0.53,0.53,0.43,0.49,0.32,0.27,0.53
+NHPC,Power - Generation,MidCap,-0.25,-0.28,-0.23,-0.24,-0.14,-0.04,0.03,0.14,-0.02,0.1,0.22
+NIACL,Financials - Gen Insurance,MidCap,0.21,0.13,-0.24,-0.38,-0.22,-0.05,-0.06,0.06,0.27,0.21,0.27
+NIITLTD,IT - Education,SmallCap,0.36,0.29,0.2,-0.06,0.08,0.18,-0.24,-0.19,-0.14,0.01,0.36
+NITCO,Infra - Ceramics/Granites,SmallCap,0.44,0.38,0.35,0.35,0.51,0.21,0.24,0.52,0.26,0.29,0.52
+NIVABUPA,Financials - Gen Insurance,SmallCap,0.04,-0.29,-0.24,-0.29,-0.25,-0.16,0.09,0.08,0.08,0.1,0.1
+NLCINDIA,Power - Generation,MidCap,0.35,0.25,0.12,0.03,0.03,0.03,0.01,0.01,0.09,0.18,0.36
+NMDC,Mining - Coal/Minerals,MidCap,0.09,-0.09,-0.08,-0.07,-0.18,-0.13,-0.04,0.18,0.13,0.21,0.26
+NORTHARC,Financials - NBFC,SmallCap,-0.49,-0.7,-0.71,-0.71,-0.58,-0.18,-0.04,0.32,0.11,0.12,0.32
+NPST,IT - Fintech,SmallCap,0.33,0.24,0.1,-0.19,-0.02,-0.19,-0.13,-0.02,0.11,0.42,0.42
+NRBBEARING,Industrial Products - Bearings,SmallCap,0.09,-0.29,-0.3,-0.43,-0.36,-0.32,-0.24,0.2,0.19,0.32,0.32
+NSIL,Financials - Holding/Investing,SmallCap,0.12,-0.11,-0.17,-0.24,-0.24,-0.22,-0.18,0.01,0.04,0.19,0.37
+NTPC,Power - Generation,LargeCap,0.4,0.19,0.0,-0.07,-0.17,-0.05,-0.07,0.11,0.06,0.08,0.55
+NUCLEUS,IT - Product - Software,SmallCap,0.01,-0.12,-0.27,-0.61,-0.57,-0.38,0.06,0.11,0.21,0.22,0.22
+NUVAMA,Financials - WMC,SmallCap,0.27,0.03,-0.11,-0.19,-0.11,-0.16,-0.03,0.28,0.1,0.12,0.31
+NUVOCO,Infra - Cement,SmallCap,0.22,0.04,0.06,0.0,-0.1,-0.2,0.04,0.18,0.43,0.5,0.5
+NYKAA,IT - Platform - Ecommerce,MidCap,-0.06,-0.2,-0.27,-0.53,-0.25,-0.12,0.12,0.31,0.31,0.49,0.49
+OBEROIRLTY,Real Estate,MidCap,0.31,0.44,0.2,0.12,0.12,0.08,0.16,0.03,0.01,0.15,0.46
+OFSS,IT - Product - Software,MidCap,0.39,0.27,0.03,-0.27,-0.17,0.04,0.02,-0.06,0.02,0.11,0.39
+OIL,Oil and Gas - Upstream,MidCap,0.17,0.02,-0.09,-0.65,-0.46,-0.17,-0.1,-0.15,-0.07,0.09,0.22
+OLECTRA,Auto - CV,SmallCap,-0.07,-0.26,-0.02,0.02,-0.03,0.05,0.02,0.08,-0.03,0.04,0.08
+ONESOURCE,Healthcare - Formulations,SmallCap,,,-0.09,-0.28,-0.59,-0.28,-0.08,0.1,0.15,0.45,0.45
+ONGC,Oil and Gas - Upstream,LargeCap,0.25,0.11,-0.07,-0.26,-0.1,0.12,0.11,0.12,-0.0,0.1,0.25
+OPTIEMUS,Telecom - Equipments,SmallCap,0.66,0.62,0.44,0.06,-0.34,-0.1,-0.0,0.03,0.04,0.13,0.66
+PAGEIND,Textiles - Innerwear,MidCap,0.23,0.19,-0.03,-0.27,-0.3,-0.19,-0.16,-0.08,0.11,0.38,0.38
+PANACEABIO,Healthcare - Biotech,SmallCap,0.33,0.29,0.22,-0.02,0.06,0.15,0.04,-0.01,-0.0,0.11,0.33
+PARADEEP,Agrochem - Fertilizers,SmallCap,0.18,0.06,-0.05,-0.1,0.04,0.04,0.13,0.09,0.32,0.44,0.44
+PARAGMILK,Consumption - Dairy,SmallCap,-0.07,-0.16,-0.21,-0.25,-0.31,-0.21,0.02,0.18,0.21,0.25,0.25
+PARKHOTELS,Leisure - Hotels,SmallCap,0.14,0.01,-0.02,-0.05,-0.07,-0.04,-0.22,-0.05,-0.05,0.01,0.14
+PATANJALI,Agri - Edible Oils,MidCap,0.27,0.12,-0.01,-0.1,0.29,0.2,0.04,0.02,0.14,0.11,0.3
+PAYTM,IT - Fintech,MidCap,0.57,0.59,0.41,0.24,0.22,0.09,0.12,0.04,0.37,0.49,0.59
+PEL,Financials - NBFC,SmallCap,0.6,0.45,0.29,0.06,0.07,0.04,0.01,0.1,0.09,0.17,0.6
+PENIND,Industial Products - Precision Components,SmallCap,0.25,0.07,-0.06,-0.02,0.1,0.09,-0.03,0.18,0.19,0.19,0.25
+PERSISTENT,IT - Software/Consulting,MidCap,0.54,0.42,0.29,0.07,0.09,0.32,0.25,0.29,0.14,0.24,0.54
+PFC,Financials - Institute - Power,LargeCap,0.23,0.16,0.04,-0.26,-0.12,-0.08,-0.22,-0.01,-0.06,0.12,0.35
+PFIZER,Healthcare - Formulations,SmallCap,0.03,0.25,-0.01,-0.35,-0.33,-0.13,0.21,0.11,0.06,0.29,0.29
+PFOCUS,Media - Entertainment,SmallCap,0.25,0.09,-0.37,-0.43,-0.6,-0.35,-0.17,0.62,0.01,0.02,0.62
+PGHL,Healthcare - Naturals/OTC/Consumers,SmallCap,-0.03,-0.2,-0.21,-0.3,-0.43,-0.49,-0.22,-0.1,-0.07,0.16,0.22
+PIDILITIND,Chemicals - Specialty - FMCG,LargeCap,0.16,-0.07,-0.11,-0.2,-0.25,-0.06,0.08,0.26,0.16,0.36,0.38
+PIIND,Agrochem - Pesticides,MidCap,0.26,-0.0,-0.26,-0.56,-0.46,-0.31,-0.09,0.15,0.25,0.53,0.53
+PILANIINVS,Financials - Holding/Investing,SmallCap,0.33,0.02,-0.1,-0.29,-0.3,-0.39,-0.25,0.19,0.19,0.27,0.53
+PITTIENG,Electronics - Components,SmallCap,0.44,0.13,-0.08,-0.33,-0.21,-0.26,-0.35,-0.11,-0.09,0.05,0.54
+PIXTRANS,Industrial Products - Rubber,SmallCap,0.4,0.37,0.36,0.37,0.4,0.33,-0.19,-0.03,-0.07,0.1,0.4
+PNB,Financials - PSU Bank,LargeCap,0.03,-0.05,-0.12,-0.19,-0.05,0.07,0.12,0.32,0.19,0.37,0.37
+PNBGILTS,Financials - Misc,SmallCap,0.38,-0.22,-0.31,-0.51,-0.39,-0.2,-0.14,0.03,0.08,0.1,0.38
+PNCINFRA,Infra - Road & Highways,SmallCap,-0.51,-0.24,-0.24,-0.25,-0.28,-0.1,0.03,-0.01,-0.06,0.14,0.14
+POCL,Metals - Non Ferrous,SmallCap,0.47,0.41,-0.03,-0.44,-0.14,0.03,-0.07,0.17,0.52,0.53,0.53
+POLICYBZR,IT - Fintech,MidCap,0.22,0.2,0.1,-0.17,0.06,0.11,0.07,-0.04,0.06,0.24,0.24
+POLYCAB,Power - Wiring,MidCap,0.3,0.36,0.01,-0.31,-0.23,-0.05,-0.06,0.04,0.11,0.39,0.55
+POONAWALLA,Financials - NBFC,SmallCap,-0.13,-0.13,0.03,-0.1,0.02,-0.16,-0.03,0.28,0.28,0.43,0.43
+POWERGRID,Power - Transmission,LargeCap,0.13,-0.1,-0.17,-0.25,-0.21,-0.07,-0.23,0.0,-0.06,0.11,0.32
+POWERINDIA,Power - Equipment,MidCap,-0.02,-0.1,0.08,-0.04,-0.07,0.09,0.32,0.36,0.36,0.43,0.43
+POWERMECH,Industial Products - Process Equipment & Fabrication,SmallCap,0.35,0.32,0.13,-0.2,-0.03,0.0,0.07,0.2,0.23,0.39,0.39
+PRAKASH,Metals - Pipe & Tube,SmallCap,0.06,-0.09,-0.15,-0.45,-0.2,-0.19,-0.22,-0.13,-0.01,0.03,0.06
+PRECWIRE,Metals - Copper,SmallCap,0.18,-0.0,-0.05,-0.23,-0.34,-0.36,-0.14,0.04,0.08,0.14,0.26
+PREMEXPLN,Defense - Explosives,SmallCap,0.05,-0.26,-0.26,-0.35,-0.32,-0.1,0.31,0.04,-0.02,0.01,0.31
+PREMIERENE,Power - Green Equipment,MidCap,0.18,0.31,0.27,0.19,0.22,0.32,0.13,-0.0,-0.08,0.07,0.32
+PRESTIGE,Real Estate,MidCap,0.24,0.1,0.02,-0.36,-0.38,-0.21,-0.16,-0.04,-0.08,0.13,0.39
+PRICOLLTD,Auto - Electricals & Electronics,SmallCap,0.4,0.25,0.16,-0.02,0.2,0.13,0.08,0.19,0.1,0.07,0.4
+PRINCEPIPE,Infra - Plastic Products,SmallCap,-0.42,-0.49,-0.53,-0.53,-0.59,-0.44,0.12,0.21,0.18,0.26,0.26
+PRIVISCL,Chemicals - Specialty - FMCG,SmallCap,0.34,0.14,0.17,0.14,0.24,0.25,0.43,0.22,0.29,0.3,0.43
+PRSMJOHNSN,Infra - Cement,SmallCap,0.0,-0.04,-0.05,-0.08,-0.28,-0.4,-0.23,0.07,-0.01,0.12,0.12
+PRUDENT,Financials - WMC,SmallCap,0.1,0.01,-0.12,-0.38,-0.12,-0.21,-0.04,-0.03,0.11,0.46,0.46
+PSPPROJECT,Infra - Residential & Commercial Buildings,SmallCap,0.01,-0.18,-0.23,-0.23,-0.15,-0.1,-0.34,0.18,0.11,0.09,0.18
+PTC,Power - Misc,SmallCap,-0.07,-0.25,-0.35,-0.35,-0.04,0.07,0.05,0.3,0.24,0.29,0.3
+PTCIL,Industrial Products - Precision Components,SmallCap,0.27,0.2,0.03,-0.14,-0.06,-0.07,0.03,0.07,0.26,0.47,0.47
+PUNJABCHEM,Agrochem - Pesticides,SmallCap,0.16,-0.1,-0.06,-0.17,0.21,0.29,0.34,0.44,0.32,0.25,0.44
+PURVA,Real Estate,SmallCap,0.09,-0.27,-0.33,-0.34,-0.24,-0.38,-0.21,0.02,0.14,0.16,0.42
+QPOWER,Power - Equipment,SmallCap,,,,-0.26,-0.39,-0.37,0.16,0.32,0.17,0.28,0.32
+RADICO,Beverages - Alcohol,SmallCap,0.31,0.37,0.3,0.13,0.38,0.37,0.27,-0.01,0.2,0.31,0.38
+RAILTEL,Railways,SmallCap,-0.03,-0.22,0.08,-0.12,-0.06,-0.08,0.18,0.14,0.01,0.11,0.18
+RAIN,Chemicals - Petro,SmallCap,0.18,0.06,-0.11,-0.27,-0.3,-0.24,-0.25,-0.24,-0.04,0.14,0.28
+RALLIS,Agrochem - Pesticides,SmallCap,0.08,-0.05,-0.08,-0.21,-0.2,-0.22,0.02,0.15,0.53,0.56,0.56
+RAMCOCEM,Infra - Cement,SmallCap,0.54,0.44,0.47,0.28,0.3,0.15,-0.03,0.21,0.29,0.4,0.54
+RAMCOIND,Infra - Cement,SmallCap,0.31,0.14,0.17,0.11,0.15,0.1,-0.25,-0.04,0.04,0.09,0.31
+RAMCOSYS,IT - Product - Software,SmallCap,0.07,-0.34,-0.42,-0.6,-0.45,-0.41,-0.23,0.06,0.12,0.21,0.21
+RAMKY,Infra - Construction,SmallCap,0.45,0.37,-0.05,-0.18,-0.09,-0.09,-0.19,0.12,0.08,0.13,0.45
+RAMRAT,Power - Wiring,SmallCap,0.27,0.22,0.27,-0.32,-0.38,-0.42,0.11,0.16,0.35,0.4,0.4
+RBA,Leisure - Restaurants,SmallCap,-0.14,-0.07,-0.12,-0.26,-0.49,-0.12,-0.15,-0.03,-0.03,0.1,0.1
+RBLBANK,Financials - Private Bank,SmallCap,-0.28,-0.43,-0.21,-0.31,-0.15,0.12,0.29,0.58,0.57,0.61,0.61
+RCF,Agrochem - Fertilizers,SmallCap,0.08,-0.07,-0.15,-0.27,-0.11,0.01,-0.04,0.07,0.07,0.21,0.21
+REDINGTON,IT - Hardware,SmallCap,0.37,0.26,0.06,-0.08,0.0,0.04,-0.06,0.03,0.02,0.12,0.37
+RELIANCE,Refineries & Marketing,LargeCap,-0.05,-0.33,-0.28,-0.45,-0.32,0.05,0.02,0.26,0.13,0.24,0.26
+RELIGARE,Financials - Insurance & Lending,SmallCap,0.45,0.24,0.03,-0.33,-0.5,-0.48,-0.45,-0.52,-0.19,0.01,0.45
+RELINFRA,Power - Integrated Utility,SmallCap,0.35,0.34,0.2,0.26,-0.14,-0.01,0.19,0.29,0.32,0.48,0.48
+RELTD,Power - Green - Misc,SmallCap,-0.33,0.05,0.09,0.07,-0.07,-0.17,0.38,0.19,0.15,0.24,0.38
+REPCOHOME,Financials - Housing,SmallCap,0.11,-0.2,-0.31,-0.56,-0.4,-0.11,-0.16,0.11,0.03,0.12,0.21
+RHIM,Metals - Foundry Support,SmallCap,-0.25,-0.23,-0.22,-0.36,0.21,0.05,0.08,0.05,0.08,0.07,0.21
+RIIL,Transport - Misc,SmallCap,0.17,-0.09,-0.19,-0.24,-0.29,-0.17,-0.25,-0.16,-0.08,0.01,0.17
+RKFORGE,Auto - Forgings,SmallCap,0.23,0.04,-0.06,-0.39,-0.4,-0.57,-0.46,-0.05,0.01,0.08,0.24
+ROHLTD,Leisure - Hotels,SmallCap,0.24,0.22,0.1,-0.13,-0.11,-0.12,-0.1,-0.11,0.01,0.06,0.24
+ROSSTECH,Defense - Technology & Electronics,SmallCap,,-0.19,-0.29,-0.28,-0.4,-0.6,-0.51,-0.33,0.24,0.41,0.41
+ROTO,Industrial - Pumps/Engines,SmallCap,0.29,0.11,-0.22,-0.13,-0.18,-0.17,-0.04,0.2,0.06,0.12,0.29
+RPGLIFE,Healthcare - Formulations,SmallCap,0.24,0.18,0.11,0.02,-0.09,0.02,0.14,0.36,0.11,0.22,0.39
+RPOWER,Power - Generation,SmallCap,0.08,0.05,-0.09,0.12,-0.11,-0.07,0.34,0.34,0.33,0.38,0.38
+RPSGVENT,Tech - BPO,SmallCap,0.26,0.15,0.05,-0.54,-0.36,-0.27,-0.3,-0.17,0.08,0.17,0.31
+RRKABEL,Power - Wiring,SmallCap,0.07,-0.02,-0.13,-0.3,-0.32,-0.1,0.47,0.45,0.46,0.62,0.62
+RSYSTEMS,IT - Services,SmallCap,-0.1,-0.37,-0.32,-0.52,-0.51,-0.43,-0.41,0.04,-0.01,0.08,0.08
+RTNINDIA,IT - Platform - Ecommerce,SmallCap,-0.05,-0.25,-0.31,-0.45,-0.23,-0.49,-0.39,0.42,0.19,0.24,0.42
+RUSTOMJEE,Real Estate,SmallCap,0.15,0.12,-0.11,-0.38,-0.36,-0.4,-0.1,0.15,0.02,0.09,0.2
+SABTNL,Media - TV Broadcast,SmallCap,1.0,0.62,0.09,0.07,0.11,-0.11,-0.26,0.14,0.15,0.21,1.0
+SAFARI,Consumption - Luggage,SmallCap,0.11,0.11,0.14,-0.28,-0.2,0.01,-0.01,-0.08,-0.04,0.02,0.17
+SAIL,Metals - Iron & Steel,MidCap,0.05,-0.08,-0.22,-0.18,-0.2,-0.02,0.12,0.29,0.2,0.28,0.29
+SAILIFE,Healthcare - CRAMS/CDMO,SmallCap,,0.18,0.12,-0.24,-0.53,-0.13,0.09,-0.1,0.1,0.15,0.18
+SAMHI,Leisure - Hotels,SmallCap,-0.03,-0.08,-0.28,-0.57,-0.55,-0.21,-0.1,-0.03,0.06,0.16,0.16
+SANATHAN,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,,0.0,-0.06,-0.13,-0.55,-0.56,-0.16,0.09,0.15,0.31,0.31
+SANDHAR,Auto - Electricals & Electronics,SmallCap,-0.01,-0.15,-0.56,-0.55,-0.38,-0.28,-0.09,0.03,-0.02,0.1,0.1
+SANGAMIND,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,0.18,0.15,0.06,0.03,0.02,0.09,-0.0,0.13,0.08,0.08,0.18
+SANGHIIND,Infra - Cement,SmallCap,-0.31,-0.64,-0.54,-0.51,-0.2,-0.22,-0.2,0.15,0.15,0.31,0.31
+SANOFICONR,Healthcare - Formulations - OTC,SmallCap,0.07,0.14,0.15,0.09,0.23,0.26,0.36,0.29,0.3,0.43,0.43
+SANSERA,Auto - Suspension & Axles,SmallCap,0.51,0.27,0.11,-0.1,-0.24,-0.18,-0.17,0.06,0.05,0.23,0.51
+SANSTAR,Agri - Misc,SmallCap,0.01,-0.02,-0.06,-0.5,-0.39,-0.24,-0.3,0.12,0.06,0.11,0.12
+SARDAEN,Metals - Iron & Steel,SmallCap,0.38,0.35,0.39,0.11,0.06,0.01,-0.03,-0.03,-0.05,0.04,0.39
+SASKEN,IT - Services,SmallCap,0.34,0.15,0.23,0.26,0.32,0.3,0.07,0.18,0.18,0.24,0.34
+SATINDLTD,Financials - Holding/Investing,SmallCap,0.07,0.05,0.0,-0.13,-0.31,-0.22,-0.23,0.2,0.09,0.18,0.2
+SBCL,Electronics - Components,SmallCap,0.1,-0.02,-0.14,-0.23,-0.38,-0.32,-0.19,-0.06,-0.06,0.21,0.21
+SBFC,Financials - NBFC,SmallCap,0.08,0.1,0.03,0.09,0.17,0.28,0.43,0.45,0.28,0.21,0.45
+SBICARD,Financials - NBFC,MidCap,0.06,-0.1,0.09,0.13,0.25,0.43,0.48,0.46,0.13,0.02,0.48
+SBILIFE,Financials - Life,LargeCap,0.06,-0.22,-0.33,-0.49,-0.37,-0.06,0.15,0.48,0.54,0.67,0.67
+SBIN,Financials - PSU Bank,LargeCap,0.17,0.02,-0.02,-0.07,0.07,-0.03,0.04,0.3,0.15,0.38,0.38
+SCHAEFFLER,Auto - Drivetrain,MidCap,0.06,-0.14,-0.13,-0.07,-0.07,0.35,0.39,0.41,0.3,0.3,0.41
+SCHNEIDER,Power - Equipment,SmallCap,0.15,0.02,0.07,-0.13,-0.13,-0.24,0.01,0.21,0.3,0.44,0.44
+SCI,Transport - Shipping,SmallCap,-0.1,-0.17,0.03,-0.04,-0.02,0.12,0.21,0.23,0.2,0.26,0.26
+SDBL,Beverages - Alcohol,SmallCap,-0.23,-0.2,-0.3,-0.23,-0.14,0.06,0.11,0.2,0.2,0.17,0.2
+SENORES,Healthcare - Formulations,SmallCap,,-0.13,-0.03,-0.17,-0.15,-0.07,-0.06,0.02,0.03,0.16,0.16
+SEQUENT,Healthcare - Animals,SmallCap,0.55,0.54,0.49,0.46,-0.56,-0.39,0.0,0.05,0.03,0.01,0.59
+SGLTL,Industial Products - Glasslined Equipments,SmallCap,,,-0.55,-0.59,-0.49,-0.53,-0.41,-0.43,-0.17,0.02,0.02
+SHALBY,Healthcare - Hospitals,SmallCap,-0.29,-0.35,-0.23,-0.32,-0.3,-0.24,-0.31,-0.16,0.12,0.15,0.15
+SHANKARA,Infra - Retail,SmallCap,0.0,0.02,0.05,0.08,0.28,0.27,0.37,0.42,0.52,0.57,0.57
+SHARDACROP,Agrochem - Pesticides,SmallCap,0.46,0.35,0.08,0.06,0.07,-0.09,0.17,0.25,0.56,0.61,0.61
+SHILPAMED,Healthcare - CRAMS/CDMO,SmallCap,0.33,0.14,-0.06,-0.3,-0.19,-0.2,-0.01,0.07,0.17,0.35,0.36
+SHK,Consumption - Personal,SmallCap,0.2,0.21,0.18,-0.07,-0.39,-0.2,-0.0,0.01,0.14,0.27,0.27
+SHREDIGCEM,Infra - Cement,SmallCap,-0.24,-0.55,-0.31,-0.34,-0.28,-0.07,-0.03,0.14,0.2,0.21,0.21
+SHREECEM,Infra - Cement,LargeCap,0.23,-0.03,0.1,0.14,0.13,0.06,-0.14,0.22,0.04,0.08,0.23
+SHREEPUSHK,Chemicals - Dyes,SmallCap,0.24,0.07,-0.19,-0.35,-0.38,-0.41,-0.38,-0.07,0.1,0.22,0.24
+SHRIPISTON,Auto - Drivetrain,SmallCap,0.3,0.3,0.27,-0.05,0.33,0.27,0.41,0.4,0.3,0.38,0.41
+SHRIRAMPPS,Real Estate,SmallCap,0.18,0.12,-0.0,-0.5,-0.24,-0.16,-0.03,0.08,0.04,0.13,0.18
+SHYAMMETL,Metals - Iron & Steel,SmallCap,0.49,0.41,0.3,0.14,0.08,0.16,-0.01,0.09,0.21,0.24,0.49
+SIGNPOST,Media - Misc,SmallCap,0.19,0.25,0.26,0.34,0.26,0.24,-0.09,0.22,0.1,0.15,0.34
+SILVERTUC,IT - Services,SmallCap,-0.24,-0.07,-0.26,-0.32,-0.37,-0.26,-0.15,-0.22,0.16,0.28,0.28
+SIMPLEXINF,Infra - Construction,SmallCap,0.53,0.49,0.47,0.39,0.2,-0.17,-0.19,-0.19,0.23,0.25,0.53
+SIRCA,Consumption - Paints,SmallCap,0.08,0.11,0.01,0.05,-0.16,-0.16,0.13,0.2,0.49,0.54,0.54
+SIS,HR Services / Outsourcing & Workplace Solutions,SmallCap,-0.18,-0.41,-0.36,-0.24,-0.12,-0.05,0.15,0.25,0.29,0.36,0.36
+SJS,Auto - Wheels ,SmallCap,0.43,0.31,0.18,0.21,0.21,-0.07,-0.02,0.29,0.29,0.38,0.46
+SJVN,Power - Generation,MidCap,-0.06,-0.11,-0.36,-0.3,-0.28,-0.19,-0.25,-0.12,-0.14,0.02,0.05
+SKFINDIA,Industrial Products - Bearings,SmallCap,-0.03,-0.1,-0.12,-0.16,-0.08,0.11,0.23,0.34,0.4,0.48,0.48
+SMCGLOBAL,Financials - Broking,SmallCap,-0.11,-0.19,-0.17,-0.2,-0.4,-0.23,-0.34,0.28,0.2,0.24,0.28
+SMLISUZU,Auto - CV,SmallCap,0.04,-0.1,-0.39,-0.48,0.09,-0.14,0.03,0.24,0.18,0.23,0.24
+SMSPHARMA,Healthcare - API/Drug,SmallCap,0.16,0.09,-0.17,-0.44,-0.41,-0.12,0.03,0.21,0.24,0.36,0.36
+SOLARA,Healthcare - API/Drug,SmallCap,0.7,0.35,-0.03,-0.17,-0.17,-0.22,-0.54,0.04,0.05,0.1,0.7
+SOLARINDS,Defense - Explosives,MidCap,0.11,-0.22,0.14,-0.14,0.05,0.22,0.42,0.61,0.34,0.48,0.61
+SOMANYCERA,Infra - Ceramics/Granites,SmallCap,0.24,-0.08,-0.16,-0.19,-0.41,-0.24,-0.11,0.1,0.1,0.15,0.24
+SONATSOFTW,IT - Software/Consulting,SmallCap,0.3,0.2,-0.07,-0.4,-0.43,0.22,0.06,0.06,0.01,0.05,0.3
+SPARC,Healthcare - CRAMS/CDMO,SmallCap,0.18,-0.28,-0.34,-0.47,0.01,-0.01,0.03,0.04,0.06,0.16,0.18
+SPECTRUM,Industial Products - Electrical & Power Equipment,SmallCap,0.5,0.55,0.68,0.66,0.62,0.55,0.47,0.34,0.31,0.39,0.68
+SPIC,Agrochem - Fertilizers,SmallCap,-0.01,-0.15,-0.06,-0.27,-0.11,-0.16,-0.02,0.28,0.29,0.31,0.31
+SPLPETRO,Chemicals - Petro,SmallCap,0.08,-0.12,-0.26,-0.53,-0.37,-0.04,0.07,0.26,0.22,0.37,0.37
+SPMLINFRA,Infra - Water Infra,SmallCap,0.18,0.15,0.03,-0.09,-0.13,-0.16,-0.15,0.08,0.48,0.43,0.48
+SRF,Chemicals - Specialty - Diversified,MidCap,0.22,0.08,0.15,0.06,0.12,0.32,0.13,0.31,0.05,0.09,0.32
+SRHHYPOLTD,Chemicals - Bulk,SmallCap,0.06,0.03,-0.02,-0.06,-0.31,-0.23,-0.07,0.12,0.12,0.17,0.33
+SSWL,Auto - Wheels ,SmallCap,0.13,-0.08,-0.23,-0.38,-0.33,-0.24,-0.09,0.31,0.14,0.16,0.31
+STANLEY,"Furniture, Home Furnishing",SmallCap,-0.06,0.3,-0.61,-0.53,-0.21,-0.29,-0.22,-0.15,-0.09,0.06,0.3
+STAR,Healthcare - Formulations - Generic,SmallCap,0.63,0.35,0.37,0.11,0.07,0.08,0.21,0.41,0.2,0.32,0.63
+STARCEMENT,Infra - Cement,SmallCap,0.05,0.39,0.34,0.23,0.3,0.3,0.31,-0.16,0.0,0.25,0.39
+STARHEALTH,Financials - Gen Insurance,MidCap,0.02,-0.17,-0.3,-0.57,-0.49,-0.26,0.14,-0.01,0.11,0.21,0.28
+STEELCAS,Metals - Casting/Forging,SmallCap,0.42,0.4,0.6,0.52,0.35,0.19,0.31,0.45,0.3,0.26,0.6
+STLTECH,Telecom - Equipments,SmallCap,-0.3,-0.53,-0.55,-0.48,-0.44,-0.54,-0.48,0.19,0.21,0.25,0.25
+STYLEBAAZA,Textiles - Fashion Retail,SmallCap,-0.19,-0.26,-0.31,-0.33,-0.43,-0.1,-0.21,0.02,0.06,0.21,0.21
+STYRENIX,Chemicals - Specialty - Plastics,SmallCap,0.39,0.31,-0.03,-0.06,0.04,0.09,0.14,-0.12,-0.04,0.05,0.42
+SUBROS,Auto - HVAC/Emotors,SmallCap,0.18,0.1,0.14,-0.43,-0.44,-0.24,-0.01,0.24,0.1,0.1,0.28
+SUDARSCHEM,Chemicals - Dyes,SmallCap,0.38,0.34,0.24,0.1,0.08,0.24,0.19,0.13,0.44,0.55,0.55
+SUMICHEM,Agrochem - Pesticides,SmallCap,0.1,0.05,0.04,0.04,0.2,-0.11,-0.21,-0.06,0.17,0.2,0.2
+SUMMITSEC,Financials - Holding/Investing,SmallCap,0.23,-0.02,-0.16,-0.33,-0.3,-0.22,-0.18,-0.09,-0.04,0.15,0.37
+SUNCLAY,Auto - Drivetrain,SmallCap,0.09,0.07,-0.13,-0.23,-0.26,-0.28,0.1,0.06,0.14,0.28,0.28
+SUNDARMFIN,Financials - NBFC,MidCap,0.13,-0.04,0.15,0.02,-0.08,0.03,0.12,0.29,0.15,0.14,0.29
+SUNDARMHLD,Financials - Insurance & Lending,SmallCap,0.08,0.02,0.05,-0.44,-0.11,-0.13,0.09,0.48,0.32,0.35,0.48
+SUNDRMFAST,Auto - Drivetrain,SmallCap,-0.03,-0.5,-0.44,-0.51,-0.5,-0.24,-0.1,0.17,0.07,0.17,0.18
+SUNFLAG,Metals - Iron & Steel,SmallCap,0.13,0.02,-0.14,-0.03,-0.19,-0.12,-0.12,0.45,0.4,0.43,0.45
+SUNPHARMA,Healthcare - Formulations - Specialty,LargeCap,0.45,0.42,0.17,-0.18,-0.22,0.07,-0.03,-0.14,-0.04,0.06,0.45
+SUPRAJIT,Auto - Electricals & Batteries,SmallCap,-0.09,-0.39,-0.39,-0.31,-0.27,-0.37,-0.18,0.2,0.17,0.17,0.2
+SUPREMEIND,Industrial Products - Plastic,MidCap,-0.22,-0.39,-0.28,-0.42,-0.38,-0.15,-0.02,0.05,0.15,0.3,0.3
+SURYAROSNI,Metals - Pipe & Tube,SmallCap,0.19,0.16,0.18,-0.03,-0.16,-0.17,0.14,0.12,0.16,0.32,0.32
+SUVEN,Healthcare - CRAMS/CDMO,SmallCap,0.16,-0.03,-0.28,-0.46,-0.37,-0.34,0.19,0.26,0.36,0.47,0.47
+SUZLON,Power - Green Equipment,MidCap,0.15,-0.0,-0.14,-0.31,-0.24,-0.03,0.14,0.22,0.14,0.22,0.38
+SWIGGY,IT - Platform - Ecommerce,LargeCap,0.26,0.12,-0.08,-0.31,-0.33,-0.35,-0.32,-0.13,-0.03,0.15,0.26
+SYRMA,Electronics - EMS,SmallCap,0.44,0.38,0.3,0.2,0.28,0.05,0.04,0.14,0.42,0.58,0.58
+TAJGVK,Leisure - Hotels,SmallCap,0.43,0.3,-0.0,0.05,0.08,0.06,0.05,0.01,0.17,0.03,0.43
+TALBROAUTO,Auto - Body,SmallCap,0.34,0.26,-0.28,-0.27,-0.19,-0.16,-0.15,-0.02,-0.01,0.04,0.34
+TANLA,IT - Product - Software,SmallCap,-0.21,-0.36,-0.75,-0.84,-0.67,-0.57,-0.24,-0.23,0.1,0.11,0.11
+TARC,Real Estate,SmallCap,0.37,0.08,-0.15,-0.36,-0.34,-0.23,-0.14,0.03,0.07,0.14,0.4
+TASTYBITE,Consumption - Foods/Drinks,SmallCap,0.07,0.05,0.08,-0.76,-0.74,-0.47,-0.19,-0.02,0.08,0.1,0.17
+TATACHEM,Chemicals - Bulk,SmallCap,0.3,0.21,0.08,-0.03,-0.03,-0.05,0.04,0.14,0.24,0.43,0.43
+TATACOMM,Telecom - Mobile/FixedLine,MidCap,0.39,0.23,-0.02,-0.21,-0.22,-0.01,0.14,0.23,0.12,0.21,0.39
+TATACONSUM,Consumption - FMCG Conglomerates ,LargeCap,-0.07,-0.12,0.02,-0.16,-0.01,0.29,0.21,0.27,0.06,0.23,0.29
+TATAELXSI,IT - Software/Consulting,MidCap,-0.12,-0.21,-0.19,-0.42,-0.51,-0.05,0.1,0.14,0.18,0.24,0.24
+TATAMOTORS,Auto - Cars/UVs,LargeCap,-0.05,-0.25,-0.46,-0.65,-0.52,-0.26,-0.08,-0.06,-0.02,0.1,0.1
+TATAPOWER,Power - Integrated Utility,LargeCap,0.26,0.08,-0.1,-0.15,-0.33,-0.22,-0.1,0.13,0.08,0.16,0.51
+TATASTEEL,Metals - Iron & Steel,LargeCap,0.03,-0.14,-0.08,0.02,-0.08,0.05,0.21,0.38,0.23,0.21,0.38
+TATVA,Chemicals - Specialty - Pharma,SmallCap,-0.18,-0.21,-0.15,-0.1,-0.33,-0.22,0.11,0.13,0.38,0.4,0.4
+TBOTEK,IT - Platform - Tour & Travel,SmallCap,0.33,0.24,0.1,-0.17,-0.23,-0.12,0.09,0.0,0.01,0.11,0.33
+TDPOWERSYS,Power - Equipment,SmallCap,0.33,0.28,0.04,-0.18,-0.02,0.0,0.31,0.21,0.33,0.43,0.43
+TECHM,IT - Software/Consulting,LargeCap,0.19,-0.03,-0.22,-0.48,-0.43,-0.08,-0.09,0.1,-0.04,0.11,0.19
+TECHNOE,Industial Products - Power Transmission & Distribution,SmallCap,0.22,0.06,-0.24,-0.21,-0.18,-0.07,0.13,0.23,0.28,0.38,0.63
+TEGA,Industial Products - Material Handling/Mining,SmallCap,0.03,-0.21,-0.4,-0.43,-0.42,-0.48,-0.13,0.05,0.35,0.5,0.5
+TEXRAIL,Railways,SmallCap,0.17,-0.17,-0.07,-0.13,-0.03,-0.29,-0.15,0.07,-0.09,0.06,0.21
+TFCILTD,Financials - Institute - Infra,SmallCap,0.2,-0.08,-0.13,0.0,0.46,0.61,0.65,0.74,0.86,0.86,0.86
+THANGAMAYL,Consumption - Jewelry,SmallCap,0.37,0.27,0.31,0.23,-0.08,0.08,0.11,0.12,0.15,0.22,0.56
+THEJO,Industial Products - Material Handling/Mining,SmallCap,-0.29,-0.67,-0.63,-0.49,-0.28,-0.2,-0.18,-0.15,0.09,0.15,0.15
+THERMAX,Power - Equipment,MidCap,-0.26,-0.41,-0.33,-0.28,-0.27,-0.22,-0.13,-0.13,0.1,0.14,0.27
+THOMASCOOK,IT - Platform - Tour & Travel,SmallCap,0.34,0.12,-0.06,-0.4,-0.22,-0.27,-0.03,0.01,0.0,0.13,0.34
+THYROCARE,Healthcare - Diagnostics,SmallCap,0.49,0.44,-0.02,-0.17,-0.13,0.02,0.1,0.18,0.56,0.59,0.59
+TI,Beverages - Alcohol,SmallCap,0.33,0.34,0.25,0.01,0.04,0.12,0.06,-0.11,0.27,0.39,0.39
+TIIL,Metals - Casting/Forging,SmallCap,0.12,-0.0,-0.23,-0.37,-0.27,-0.22,0.06,0.18,0.1,0.05,0.3
+TIINDIA,Auto - Forgings,MidCap,0.1,-0.09,-0.03,-0.19,-0.19,0.0,0.11,0.27,0.19,0.31,0.31
+TIL,Industial Products - Material Handling/Mining,SmallCap,0.35,0.11,-0.22,-0.5,0.11,-0.04,0.28,0.39,0.35,0.46,0.53
+TIMETECHNO,Industrial Products - Plastic,SmallCap,0.3,0.28,0.23,-0.02,0.23,0.1,0.06,0.11,0.24,0.36,0.36
+TIMKEN,Industrial Products - Bearings,SmallCap,-0.06,-0.12,-0.25,-0.42,-0.26,-0.22,0.15,0.29,0.21,0.36,0.36
+TIRUMALCHM,Chemicals - Petro,SmallCap,0.33,0.13,-0.14,-0.29,-0.07,-0.09,-0.31,0.09,0.17,0.27,0.33
+TITAGARH,Railways,SmallCap,0.46,-0.04,-0.02,-0.18,0.0,-0.27,-0.09,0.17,0.13,0.28,0.54
+TITAN,Consumption - Jewelry,LargeCap,0.25,0.12,0.05,-0.17,-0.35,-0.08,-0.03,0.26,0.02,0.24,0.26
+TORNTPHARM,Healthcare - Formulations,LargeCap,0.18,0.1,-0.04,-0.29,-0.18,0.08,-0.13,0.07,0.29,0.49,0.49
+TRENT,Consumption - Retail,LargeCap,0.36,0.32,0.1,-0.27,-0.23,-0.09,-0.02,0.09,0.03,0.25,0.52
+TRITURBINE,Power - Equipment,SmallCap,-0.04,-0.14,-0.12,-0.32,-0.15,-0.1,-0.12,-0.02,-0.09,0.05,0.05
+TTML,Telecom - Mobile/FixedLine,SmallCap,0.11,-0.02,-0.24,-0.46,-0.43,-0.39,-0.13,-0.08,-0.05,0.04,0.11
+TVSHLTD,Auto - Electricals & Batteries,SmallCap,0.11,-0.14,-0.25,-0.36,-0.37,-0.23,0.05,0.09,0.13,0.18,0.41
+TVSMOTOR,Auto - 2W,LargeCap,0.3,0.17,0.12,-0.27,-0.18,0.02,0.06,0.28,0.13,0.36,0.49
+UFLEX,Packaging - Flex,SmallCap,0.26,0.13,0.01,-0.69,-0.54,-0.39,-0.18,-0.03,-0.02,0.17,0.36
+ULTRACEMCO,Infra - Cement,LargeCap,0.26,-0.03,-0.06,-0.18,-0.08,-0.02,-0.14,0.04,-0.11,0.07,0.36
+UNIMECH,Defense - Mfg,SmallCap,,-0.36,-0.36,-0.42,-0.38,-0.4,-0.24,-0.18,-0.02,0.19,0.19
+UNIONBANK,Financials - PSU Bank,MidCap,-0.2,-0.11,-0.04,-0.01,0.11,0.13,0.28,0.41,0.26,0.35,0.41
+UNIVCABLES,Power - Wiring,SmallCap,-0.15,0.05,-0.13,0.01,0.15,0.06,0.25,0.18,0.23,0.33,0.33
+UNOMINDA,Auto - Electricals & Batteries,MidCap,0.17,0.05,0.06,-0.24,-0.25,-0.14,-0.17,-0.04,-0.08,0.14,0.24
+UPL,Agrochem - Pesticides,MidCap,0.51,0.24,0.25,0.12,0.04,0.16,-0.0,0.22,0.14,0.1,0.61
+USHAMART,Metals - Wires,SmallCap,0.22,0.13,0.13,0.16,0.17,-0.39,-0.3,0.11,0.17,0.28,0.29
+UTIAMC,Financials - AMC,SmallCap,0.28,0.29,0.2,0.06,0.14,-0.17,0.04,0.19,0.17,0.24,0.32
+UTTAMSUGAR,Agri - Sugar,SmallCap,0.33,0.27,0.15,-0.06,-0.05,0.14,0.19,0.26,0.26,0.34,0.48
+VALIANTORG,Chemicals - Specialty - Diversified,SmallCap,-0.28,-0.35,-0.47,-0.6,-0.4,-0.25,0.06,0.0,0.01,0.06,0.06
+VASCONEQ,Infra - Residential & Commercial Buildings,SmallCap,-0.07,-0.27,-0.63,-0.56,-0.34,-0.31,-0.0,0.16,0.11,0.15,0.16
+VBL,Consumption - Foods/Drinks,LargeCap,0.18,0.11,0.05,-0.21,-0.03,-0.08,-0.28,-0.36,-0.13,0.07,0.18
+VEDL,Metals - Diversified,LargeCap,0.38,0.15,0.14,-0.16,-0.35,-0.22,-0.18,0.09,-0.05,0.13,0.57
+VENTIVE,Leisure - Hotels,SmallCap,,-0.12,0.06,-0.11,-0.03,-0.02,-0.02,-0.02,-0.05,0.16,0.16
+VESUVIUS,Metals - Foundry Support,SmallCap,-0.08,-0.14,-0.03,-0.18,-0.08,0.08,0.27,0.27,0.18,0.23,0.27
+VGUARD,Consumption - Appliances,SmallCap,-0.21,-0.46,-0.49,-0.41,-0.22,-0.17,-0.12,0.02,0.08,0.26,0.26
+VIMTALABS,Healthcare - CRAMS/CDMO,SmallCap,0.33,0.3,0.19,-0.09,0.04,0.04,-0.25,-0.38,0.51,0.42,0.51
+VINATIORGA,Chemicals - Specialty - Pharma,SmallCap,0.32,0.19,-0.07,-0.0,-0.21,-0.15,-0.05,0.12,0.1,0.18,0.43
+VINCOFE,Agri - Tea/Coffee,SmallCap,0.11,-0.06,-0.26,-0.37,-0.06,-0.02,0.38,0.58,0.76,0.76,0.76
+VIPIND,Consumption - Luggage,SmallCap,0.1,0.02,-0.03,-0.18,-0.42,-0.24,-0.23,0.03,0.07,0.11,0.13
+VISHNU,Chemicals - Specialty - Diversified,SmallCap,0.3,0.03,0.03,-0.01,0.03,-0.18,0.21,0.16,0.27,0.24,0.51
+VMM,Consumption - Retail,MidCap,,0.08,0.07,-0.09,-0.04,0.05,0.05,0.34,0.4,0.53,0.53
+VOLTAMP,Power - Equipment,SmallCap,-0.03,-0.14,-0.27,-0.47,-0.33,-0.24,-0.13,0.07,0.03,0.2,0.23
+VOLTAS,Consumption - Appliances,MidCap,0.02,0.01,-0.2,-0.31,-0.24,-0.27,-0.07,-0.04,0.06,0.02,0.46
+VRLLOG,Transport - Logistics,SmallCap,-0.18,-0.27,-0.3,-0.45,-0.5,-0.56,-0.31,-0.18,-0.12,0.12,0.12
+VSSL,Metals - Iron & Steel,SmallCap,0.13,0.01,0.2,-0.01,-0.25,-0.11,0.16,0.17,0.16,0.19,0.31
+VSTTILLERS,Auto - Tractors,SmallCap,0.53,0.51,0.45,0.11,0.14,0.12,0.19,-0.02,0.25,0.33,0.53
+WAAREEENER,Power - Green Equipment,MidCap,-0.24,-0.33,-0.32,-0.31,-0.26,-0.33,-0.0,0.32,0.2,0.23,0.32
+WABAG,Water Supply & Management,SmallCap,0.47,0.16,0.06,-0.02,-0.11,-0.24,-0.13,-0.1,-0.02,0.18,0.5
+WALCHANNAG,Industial Products - Process Equipment & Fabrication,SmallCap,-0.02,0.03,-0.33,-0.3,-0.27,-0.2,0.13,-0.1,-0.1,0.03,0.14
+WCIL,Transport - Logistics,SmallCap,-0.71,-0.72,-0.68,-0.7,-0.6,-0.46,-0.12,0.36,0.27,0.35,0.36
+WEALTH,Financials - WMC,SmallCap,0.2,0.19,-0.11,-0.17,-0.25,-0.45,-0.49,-0.03,0.11,0.17,0.2
+WEBELSOLAR,Power - Green Equipment,SmallCap,0.25,0.3,0.18,-0.03,0.05,-0.18,0.12,0.05,0.07,0.23,0.4
+WELCORP,Metals - Pipe & Tube,SmallCap,0.49,0.5,0.43,0.29,0.28,0.29,0.45,0.3,0.38,0.46,0.5
+WELENT,Infra - Road & Highways,SmallCap,0.25,0.34,0.23,-0.08,-0.02,0.07,-0.01,-0.07,-0.16,0.16,0.51
+WELSPUNLIV,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,0.02,-0.13,-0.44,-0.7,-0.3,-0.14,-0.19,0.04,-0.0,0.04,0.07
+WESTLIFE,Leisure - Restaurants,SmallCap,0.22,0.11,0.09,0.0,-0.34,-0.3,-0.42,0.02,-0.04,0.09,0.22
+WHIRLPOOL,Consumption - Appliances,SmallCap,0.18,0.03,-0.27,-0.61,-0.44,-0.01,-0.06,0.03,0.03,0.21,0.44
+WINDLAS,Healthcare - CRAMS/CDMO,SmallCap,0.35,0.28,0.11,-0.11,0.17,0.05,-0.06,-0.07,-0.01,0.14,0.45
+WINDMACHIN,Industial Products - Machinery,SmallCap,0.46,0.25,0.2,0.07,0.24,0.19,-0.25,0.14,0.15,0.23,0.46
+WSTCSTPAPR,Paper,SmallCap,-0.16,-0.44,-0.21,-0.42,-0.45,-0.32,-0.27,-0.14,-0.13,0.09,0.09
+YATHARTH,Healthcare - Hospitals,SmallCap,0.33,0.17,-0.13,-0.35,-0.31,-0.38,-0.29,-0.17,0.28,0.55,0.55
+YATRA,IT - Platform - Tour & Travel,SmallCap,-0.03,0.12,-0.13,-0.48,-0.04,-0.02,0.13,-0.09,0.13,0.26,0.26
+YUKEN,Industrial - Pumps/Engines,SmallCap,-0.05,-0.19,-0.18,-0.36,-0.22,-0.24,-0.08,0.0,0.01,0.11,0.11
+ZAGGLE,IT - Services,SmallCap,0.21,0.18,0.01,-0.09,-0.18,-0.22,-0.07,-0.11,-0.08,0.12,0.21
+ZEEL,Media - TV Broadcast,SmallCap,0.04,-0.11,-0.28,-0.35,-0.46,-0.36,-0.29,0.04,0.01,0.08,0.13
+ZENSARTECH,IT - Enterprise,SmallCap,0.24,0.03,0.35,-0.02,0.07,0.11,0.14,0.15,-0.15,0.2,0.35
+ZENTEC,Defense - Technology & Electronics,SmallCap,0.45,0.46,0.16,-0.04,0.04,-0.02,0.07,-0.11,-0.12,0.1,0.46
+ZFCVINDIA,Auto - Suspension & Axles,SmallCap,-0.71,-0.53,-0.49,-0.44,-0.34,-0.34,0.17,0.1,0.03,0.03,0.17
+ZOTA,Healthcare - Naturals/OTC/Consumers,SmallCap,0.05,0.14,0.12,0.02,0.06,0.11,0.19,0.08,0.22,0.35,0.35
+ZYDUSLIFE,Healthcare - Formulations,LargeCap,-0.22,-0.31,-0.47,-0.34,-0.32,-0.14,-0.0,0.14,0.06,0.22,0.22
+ZYDUSWELL,Consumption - FMCG Conglomerates ,SmallCap,0.25,0.24,0.0,-0.15,0.06,0.03,0.05,0.08,0.05,0.15,0.25
