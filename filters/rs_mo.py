@@ -1,0 +1,83 @@
+import pandas as pd
+
+def run_monthly_rs_filter(df: pd.DataFrame, index_df: pd.DataFrame, rs_period: int = 12) -> pd.DataFrame:
+    df = df.copy()
+    index_df = index_df.copy()
+
+    # Ensure datetime and sorting
+    df["Timestamp"] = pd.to_datetime(df["Timestamp"])
+    index_df["Timestamp"] = pd.to_datetime(index_df["Timestamp"])
+
+    df = df.sort_values(by=["Symbol", "Timestamp"])
+    index_df = index_df.sort_values(by="Timestamp")
+
+    # Merge Benchmark Monthly Close
+    df = df.merge(
+        index_df[["Timestamp", "Close"]].rename(columns={"Close": "Benchmark_Close"}),
+        on="Timestamp", how="left"
+    )
+
+    # Compute RS (Relative Strength)
+    df["RS"] = (
+        100 * (1 + (df["Close"] / df["Close"].shift(rs_period) - 1)) /
+        (1 + (df["Benchmark_Close"] / df["Benchmark_Close"].shift(rs_period) - 1))
+    ).round(2)
+
+    # Normalize to month start
+    df["Date"] = df["Timestamp"].dt.to_period("M").dt.to_timestamp()
+
+    # 12-month RS high per symbol
+    df["RS_12M_High"] = (
+        df.groupby("Symbol")["RS"]
+        .transform(lambda x: x.rolling(rs_period, min_periods=1).max())
+    )
+
+    # Latest RS per symbol
+    latest_df = (
+        df.groupby("Symbol")
+        .tail(1)[["Symbol", "RS", "RS_12M_High"]]
+    )
+
+    # Filter: RS > 105
+    strong_symbols = latest_df[latest_df["RS"] > 105]["Symbol"]
+    filtered = df[df["Symbol"].isin(strong_symbols)].copy()
+
+    # Keep only one row per Symbol-Date
+    filtered = (
+        filtered.sort_values("Timestamp")
+        .groupby(["Symbol", "Date"], as_index=False)
+        .last()
+    )
+
+    # Last 10 RS values per symbol
+    recent_rs = (
+        filtered
+        .sort_values(["Symbol", "Date"])
+        .groupby("Symbol")
+        .tail(10)
+        .pivot(index="Symbol", columns="Date", values="RS")
+        .reset_index()
+    )
+
+    # Format columns
+    recent_rs.columns = ["Symbol"] + [pd.to_datetime(c).strftime("%b-%Y") for c in recent_rs.columns[1:]]
+    recent_rs = recent_rs[["Symbol"] + recent_rs.columns[-10:].tolist()]
+
+    # Add RS_12M_High
+    recent_rs = recent_rs.merge(
+        latest_df[["Symbol", "RS_12M_High"]],
+        on="Symbol", how="left"
+    )
+
+    # Add Sector & Mktcap
+    try:
+        ref_df = pd.read_excel("data_ref/NSE_Stocks.xlsx", sheet_name=0)
+        ref_df = ref_df[["Symbol", "Sector", "Mktcap"]].drop_duplicates()
+        recent_rs = recent_rs.merge(ref_df, on="Symbol", how="left")
+    except Exception as e:
+        print("⚠️ Sector/Mktcap merge failed:", e)
+
+    # Reorder columns
+    static_cols = ["Symbol", "Sector", "Mktcap"]
+    value_cols = [col for col in recent_rs.columns if col not in static_cols + ["RS_12M_High"]]
+    return recent_rs[static_cols + value_cols + ["RS_12M_High"]]
