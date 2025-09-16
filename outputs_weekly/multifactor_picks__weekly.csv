@@ -1,65 +1,61 @@
 Symbol,Sector,Mktcap
-63MOONS,IT - Software/Consulting,SmallCap
-ABBOTINDIA,Healthcare - Formulations - OTC,MidCap
-ABCAPITAL,Financials - Diversified,MidCap
-AGIIL,Real Estate,SmallCap
-APOLLO,Defense - Technology & Electronics,SmallCap
+ACUTAAS,Healthcare - API/Drug,SmallCap
+AFFLE,IT - Services,SmallCap
 APOLLOHOSP,Healthcare - Hospitals,LargeCap
-ASAHIINDIA,Auto - Glass/Body,SmallCap
-ASTRAZEN,Healthcare - Formulations - Specialty,SmallCap
-AXISCADES,IT - Services,SmallCap
-BLISSGVS,Healthcare - Formulations,SmallCap
-CAMLINFINE,Chemicals - Specialty - FMCG,SmallCap
-CCL,Agri - Tea/Coffee,SmallCap
-CIGNITITEC,IT - Services,SmallCap
-COSMOFIRST,Packaging - Flex,SmallCap
-CUB,Financials - Private Bank,SmallCap
-DCMSHRIRAM,Agri - Sugar,SmallCap
+BANCOINDIA,Auto - Drivetrain,SmallCap
+CARTRADE,IT - Platform - Ecommerce,SmallCap
+CARYSIL,Consumption - Kitchen/ Accessories,SmallCap
+CENTUM,Electronics - EMS,SmallCap
+DATAMATICS,IT - Services,SmallCap
+DDEVPLSTIK,Chemicals - Specialty - Plastics,SmallCap
 DECCANCE,Infra - Cement,SmallCap
-ERIS,Healthcare - Formulations,SmallCap
+DEEPINDS,Oil and Gas - Field Services,SmallCap
 ETERNAL,IT - Platform - Ecommerce,LargeCap
-FIEMIND,Auto - Lighting & Electronics,SmallCap
-FMGOETZE,Auto - Drivetrain,SmallCap
+FLAIR,Consumption - Stationary,SmallCap
 FOSECOIND,Chemicals - Specialty - Misc,SmallCap
-GILLETTE,Consumption - Personal,SmallCap
-GLENMARK,Healthcare - Formulations - Generic,MidCap
-GRMOVER,Agri - Rice,SmallCap
-HUBTOWN,Real Estate,SmallCap
-JKLAKSHMI,Infra - Cement,SmallCap
+GALLANTT,Metals - Iron & Steel,SmallCap
+GLAND,Healthcare - CRAMS/CDMO,MidCap
+GODFRYPHLP,Consumption - Cigarettes,SmallCap
+HDFCAMC,Financials - AMC,MidCap
+HIRECT,Electronics - Automation,SmallCap
+HLEGLAS,Industial Products - Glasslined Equipments,SmallCap
+INDOTHAI,Financials - Broking,SmallCap
 JMFINANCIL,Financials - Diversified,SmallCap
-KARURVYSYA,Financials - Private Bank,SmallCap
-LGHL,Real Estate,SmallCap
-LLOYDSENT,Metals - Iron & Steel,SmallCap
-LTFOODS,Agri - Rice,SmallCap
-MANAPPURAM,Financials - NBFC,SmallCap
-MARATHON,Real Estate,SmallCap
+KAYNES,Electronics - EMS,SmallCap
+KINGFA,Industrial Products - Plastic,SmallCap
+KIOCL,Metals - Iron & Steel,SmallCap
+KMEW,Engineering - Dredging,SmallCap
+KRBL,Agri - Rice,SmallCap
+LEMONTREE,Leisure - Hotels,SmallCap
+LUMAXIND,Auto - Lighting & Electronics,SmallCap
+MANGCHEFER,Agrochem - Fertilizers,SmallCap
 MASFIN,Financials - NBFC,SmallCap
-MAXHEALTH,Healthcare - Hospitals,MidCap
-MCX,IT - Platform - Exchange/RTA,SmallCap
-NAVA,Power - Misc,SmallCap
-NAZARA,IT - Gaming/Entertainment,SmallCap
-NDRAUTO,Auto - Drivetrain,SmallCap
-NIBE,Defense - Mfg,SmallCap
-PARAGMILK,Consumption - Dairy,SmallCap
+MEDANTA,Healthcare - Hospitals,MidCap
+MSUMI,Auto - Electricals & Electronics,MidCap
+NAVNETEDUL,Media - Publishing,SmallCap
+NEULANDLAB,Healthcare - API/Drug,SmallCap
+NUVOCO,Infra - Cement,SmallCap
 PAYTM,IT - Fintech,MidCap
-PEL,Financials - NBFC,SmallCap
+PENIND,Industial Products - Precision Components,SmallCap
+PFOCUS,Media - Entertainment,SmallCap
 PGHL,Healthcare - Naturals/OTC/Consumers,SmallCap
-POONAWALLA,Financials - NBFC,SmallCap
-POWERINDIA,Power - Equipment,MidCap
-RADICO,Beverages - Alcohol,SmallCap
-RAINBOW,Healthcare - Hospitals,SmallCap
-SABTNL,Media - TV Broadcast,SmallCap
-SAILIFE,Healthcare - CRAMS/CDMO,SmallCap
+POCL,Metals - Non Ferrous,SmallCap
+RACLGEAR,Auto - Drivetrain,SmallCap
+RISHABH,Electronics - Automation,SmallCap
+ROHLTD,Leisure - Hotels,SmallCap
 SENORES,Healthcare - Formulations,SmallCap
-SHILPAMED,Healthcare - CRAMS/CDMO,SmallCap
+SHANKARA,Infra - Retail,SmallCap
+SHARDACROP,Agrochem - Pesticides,SmallCap
+SHREEPUSHK,Chemicals - Dyes,SmallCap
 SJS,Auto - Wheels ,SmallCap
-SPMLINFRA,Infra - Water Infra,SmallCap
-SUNDARMHLD,Financials - Insurance & Lending,SmallCap
-TORNTPHARM,Healthcare - Formulations,LargeCap
-UNIMECH,Defense - Mfg,SmallCap
-UPL,Agrochem - Pesticides,MidCap
-UTIAMC,Financials - AMC,SmallCap
+SMLISUZU,Auto - CV,SmallCap
+SPIC,Agrochem - Fertilizers,SmallCap
+STARCEMENT,Infra - Cement,SmallCap
+SUDARSCHEM,Chemicals - Dyes,SmallCap
+SYRMA,Electronics - EMS,SmallCap
+TATVA,Chemicals - Specialty - Pharma,SmallCap
+TEGA,Industial Products - Material Handling/Mining,SmallCap
+THYROCARE,Healthcare - Diagnostics,SmallCap
+TI,Beverages - Alcohol,SmallCap
 VIMTALABS,Healthcare - CRAMS/CDMO,SmallCap
 VSTTILLERS,Auto - Tractors,SmallCap
-WOCKPHARMA,Healthcare - Formulations,SmallCap
-YATHARTH,Healthcare - Hospitals,SmallCap

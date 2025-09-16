@@ -1,330 +1,498 @@
-Symbol,Sector,Mktcap,01-Aug,21-Jul,22-Jul,23-Jul,24-Jul,25-Jul,28-Jul,29-Jul,30-Jul,31-Jul,BreakoutCount
-3MINDIA,Others,MidCap,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,3
-AADHARHFC,Financials - Housing,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-AARTIDRUGS,Healthcare - API/Drug,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-ABBOTINDIA,Healthcare - Formulations - OTC,MidCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-ABDL,Beverages - Alcohol,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-ACUTAAS,Healthcare - API/Drug,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-ADVENZYMES,Healthcare - Biotech,SmallCap,Breakout,Other,Breakout,Other,Other,Other,Breakout,Breakout,Breakout,Breakout,6
-AGARIND,Chemicals - Petro,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-AGI,Packaging - Rigid,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-AGIIL,Real Estate,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-ALKYLAMINE,Chemicals - Specialty - Pharma,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-ALLDIGI,Tech - BPO,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Breakout,Other,3
-AMBER,Consumption - Appliances,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-AMBUJACEM,Infra - Cement,LargeCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-APARINDS,Power - Equipment,MidCap,Other,Breakout,Other,Other,Other,Other,Other,Breakout,Other,Other,2
-APCOTEXIND,Industrial Products - Rubber,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
-ARE&M,Auto - Electricals & Batteries,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-ARVINDFASN,Textiles - Fashion Retail,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Breakout,Breakout,Other,3
-ASIANENE,Oil and Gas - Field Services,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Breakout,3
-ASIANPAINT,Consumption - Paints,LargeCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-AURUM,IT - Services,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-AUTOAXLES,Auto - Suspension & Axles,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,3
-AVTNPL,Agri - Misc,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-BAJFINANCE,Financials - NBFC,LargeCap,Other,Other,Other,Breakout,Other,Breakdown,Breakdown,Other,Other,Other,1
-BALAJITELE,Media - Entertainment,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-BALMLAWRIE,Others,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-BHAGCHEM,Agrochem - Pesticides,SmallCap,Other,Other,Other,Breakout,Other,Breakdown,Other,Other,Other,Other,1
-BIKAJI,Consumption - Foods/Drinks,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-BIRLACORPN,Infra - Cement,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Breakdown,1
-BLACKBUCK,IT - Fintech,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
-BLISSGVS,Healthcare - Formulations,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-BLKASHYAP,Infra - Construction,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Breakout,Breakout,3
-BOMDYEING,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-BORORENEW,Power - Green Equipment,SmallCap,Other,Breakout,Other,Other,Breakout,Other,Other,Other,Other,Other,2
-BOROSCI,Industrial Products - Glass,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-BOSCHLTD,Auto - Electricals & Electronics,LargeCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
-BUTTERFLY,Consumption - Kitchen/ Accessories,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-CAPACITE,Infra - Residential & Commercial Buildings,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Breakdown,Other,1
-CAPITALSFB,Financials - Private Bank,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-CAPLIPOINT,Healthcare - CRAMS/CDMO,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-CARRARO,Auto - Drivetrain,SmallCap,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,Other,2
-CARTRADE,IT - Platform - Ecommerce,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Breakout,2
+Symbol,Sector,Mktcap,02-Sep,03-Sep,04-Sep,05-Sep,08-Sep,09-Sep,10-Sep,11-Sep,12-Sep,15-Sep,BreakoutCount
+AARTIDRUGS,Healthcare - API/Drug,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
+AARTIIND,Chemicals - Specialty - Diversified,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+ABB,Power - Equipment,LargeCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+ABDL,Beverages - Alcohol,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,3
+ABFRL,Textiles - Fashion Retail,MidCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+ABREL,Paper,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+ACE,Auto - Construction,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+ACI,Chemicals - Specialty - Diversified,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+ACMESOLAR,Power - Green - IPP,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+ACUTAAS,Healthcare - API/Drug,SmallCap,Other,Other,Other,Breakout,Other,Breakout,Other,Other,Other,Other,2
+ADANIENT,Metals - Diversified,LargeCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+ADANIGREEN,Power - Green - IPP,LargeCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+ADANIPORTS,Infra - Ports,LargeCap,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,3
+ADANIPOWER,Power - Generation,LargeCap,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,2
+ADFFOODS,Consumption - Foods/Drinks,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
+ADSL,IT - Services,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+AEGISLOG,Utility - Gas Distribution,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+AFFLE,IT - Services,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,2
+AGARIND,Chemicals - Petro,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+AJMERA,Real Estate,SmallCap,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,3
+ALICON,Auto - Drivetrain,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakdown,Breakout,Other,1
+ALLDIGI,Tech - BPO,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+AMRUTANJAN,Healthcare - Naturals/OTC/Consumers,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+ANANTRAJ,Real Estate,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+APARINDS,Power - Equipment,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+APCOTEXIND,Industrial Products - Rubber,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+APOLLO,Defense - Technology & Electronics,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+APOLLOTYRE,Auto - Tyres,MidCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+ARE&M,Auto - Electricals & Batteries,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+ARMANFIN,Financials - NBFC,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+ARVIND,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+ARVINDFASN,Textiles - Fashion Retail,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+ASAHIINDIA,Auto - Glass/Body,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+ASHAPURMIN,Mining - Coal/Minerals,SmallCap,Other,Other,Other,Breakout,Other,Breakout,Other,Other,Other,Breakout,3
+ASHOKA,Infra - Road & Highways,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+ASHOKLEY,Auto - CV,MidCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+ASIANENE,Oil and Gas - Field Services,SmallCap,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,Other,2
+ASKAUTOLTD,Auto - Electricals & Batteries,SmallCap,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,3
+ASTERDM,Healthcare - Hospitals,SmallCap,Breakout,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,3
+ASTRAMICRO,Defense - Technology & Electronics,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+ATHERENERG,Auto - 2W,SmallCap,Breakout,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,2
+ATULAUTO,Auto - CV,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
+AUROPHARMA,Healthcare - Formulations - Generic,MidCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+AVALON,Electronics - EMS,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Breakout,Breakout,Other,Other,4
+AVANTEL,Defense - Technology & Electronics,SmallCap,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,Other,2
+AVANTIFEED,Agri - Animal Feed,SmallCap,Breakout,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,2
+AVL,Consumption - Retail,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+AVTNPL,Agri - Misc,SmallCap,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,3
+AWL,Agri - Edible Oils,MidCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+AXISCADES,IT - Services,SmallCap,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,Breakout,3
+AZAD,Industial Products - Precision Components,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+BAJAJCON,Consumption - Personal,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+BAJAJFINSV,Financials - Diversified,LargeCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+BAJFINANCE,Financials - NBFC,LargeCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Breakout,Other,2
+BALAJITELE,Media - Entertainment,SmallCap,Breakout,Breakout,Breakout,Other,Breakout,Other,Other,Other,Breakout,Other,5
+BALMLAWRIE,Others,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,2
+BALUFORGE,Metals - Casting/Forging,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Breakout,Other,3
+BANCOINDIA,Auto - Drivetrain,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Breakout,2
+BANKINDIA,Financials - PSU Bank,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+BATAINDIA,Consumption - Footwear,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+BBTC,Consumption - FMCG Conglomerates ,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Breakout,2
+BDL,Defense - Mfg,MidCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+BECTORFOOD,Consumption - Foods/Drinks,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+BEL,Defense - Technology & Electronics,LargeCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Other,2
+BEML,Defense - Mfg,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+BHARATFORG,Auto - Forgings,MidCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+BHEL,Power - Equipment,MidCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+BIKAJI,Consumption - Foods/Drinks,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+BIRLAMONEY,Financials - Broking,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+BLSE,IT - E-Governance,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Breakout,Other,3
+BOMDYEING,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+BRITANNIA,Consumption - Foods/Drinks,LargeCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+CAMLINFINE,Chemicals - Specialty - FMCG,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+CAPACITE,Infra - Residential & Commercial Buildings,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+CAPLIPOINT,Healthcare - CRAMS/CDMO,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+CARBORUNIV,Industial Products - Abrasives ,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+CARERATING,Financials - Ratings,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+CARRARO,Auto - Drivetrain,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
 CARYSIL,Consumption - Kitchen/ Accessories,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-CCL,Agri - Tea/Coffee,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-CENTENKA,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Breakdown,Breakout,Breakout,Other,Other,Other,Breakdown,Other,Other,Other,2
-CENTURYPLY,Infra - Laminates,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-CGCL,Financials - NBFC,SmallCap,Breakdown,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-CHALET,Leisure - Hotels,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-CHEMPLASTS,Chemicals - Petro,SmallCap,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,Other,2
-CHOICEIN,Financials - Holding/Investing,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-CIPLA,Healthcare - Formulations,LargeCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
-COROMANDEL,Agrochem - Fertilizers,MidCap,Other,Other,Other,Other,Breakout,Breakout,Other,Breakout,Breakout,Other,4
-CRAFTSMAN,Auto - Electricals & Electronics,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-CREDITACC,Financials - MFI,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-DABUR,Consumption - Personal,LargeCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-DALBHARAT,Infra - Cement,MidCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-DATAMATICS,IT - Services,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-DEEPINDS,Oil and Gas - Field Services,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-DHANUKA,Agrochem - Pesticides,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,3
-DIGITIDE,IT - Services,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-DIVGIITTS,Auto - Drivetrain,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
-DIXON,Consumption - Electronics,MidCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-DMART,Consumption - Retail,LargeCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-DPABHUSHAN,Consumption - Jewelry,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-DVL,Chemicals - Diversified,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-ECLERX,IT - Services,SmallCap,Breakout,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,2
-ECOSMOBLTY,HR Services / Outsourcing & Workplace Solutions,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-EIDPARRY,Agrochem - Fertilizers,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-ELGIEQUIP,Industrial - Pumps/Engines,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-EMAMILTD,Consumption - Personal,MidCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,2
-EMCURE,Healthcare - Formulations,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-EMSLIMITED,Waste Management,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-ENTERO,IT - Platform - Healthcare/Pharma,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-EPACK,Consumption - Appliances,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-EPIGRAL,Chemicals - Specialty - Diversified,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Breakout,Breakout,Other,3
-ERIS,Healthcare - Formulations,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-ESABINDIA,Industial Products - Fabrication,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-ESCORTS,Auto - Tractors,MidCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-ETERNAL,IT - Platform - Ecommerce,LargeCap,Other,Breakout,Breakout,Other,Breakout,Other,Other,Other,Other,Other,3
-ETHOSLTD,Consumption - Jewelry,SmallCap,Breakdown,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-EVEREADY,Consumption - Misc,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-EXCELINDUS,Chemicals - Specialty - Diversified,SmallCap,Breakdown,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-EXIDEIND,Auto - Electricals & Batteries,MidCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-FACT,Agrochem - Fertilizers,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-FEDFINA,Financials - NBFC,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,2
-FLAIR,Consumption - Stationary,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
-FLUOROCHEM,Chemicals - Specialty - Refrigeration,MidCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-FMGOETZE,Auto - Drivetrain,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-FORCEMOT,Auto - Cars/UVs,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-FORTIS,Healthcare - Hospitals,MidCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-FOSECOIND,Chemicals - Specialty - Misc,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-GALAXYSURF,Chemicals - Specialty - FMCG,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-GALLANTT,Metals - Iron & Steel,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Breakout,Other,2
-GARFIBRES,Textiles - Tech,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-GARUDA,Infra - Residential & Commercial Buildings,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-GATEWAY,Transport - Logistics,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
-GHCL,Chemicals - Bulk,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-GKWLIMITED,Financials - Holding/Investing,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-GLAND,Healthcare - CRAMS/CDMO,MidCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-GLOBUSSPR,Beverages - Alcohol,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,2
-GMDCLTD,Mining - Coal/Minerals,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-GMMPFAUDLR,Industial Products - Glasslined Equipments,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
-GOCLCORP,Defense - Explosives,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-GODAVARIB,Chemicals - Diversified,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-GODIGIT,Financials - Gen Insurance,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-GODREJAGRO,Agri - Animal Feed,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-GPPL,Infra - Ports,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-GPTHEALTH,Healthcare - Hospitals,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-GPTINFRA,Infra - Heavy Engineering,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-GRAVITA,Metals - Non Ferrous,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Breakout,Other,2
-GREAVESCOT,Industrial - Pumps/Engines,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-GREENPANEL,Infra - Laminates,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
-GREENPLY,Infra - Laminates,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-GSFC,Agrochem - Fertilizers,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-GTPL,Media - TV Broadcast,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-GUFICBIO,Healthcare - API/Drug,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-GUJALKALI,Chemicals - Bulk,SmallCap,Other,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,2
-GUJTHEM,Healthcare - API/Drug,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-GVT&D,Power - Equipment,MidCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-HARSHA,Industial Products - Precision Components,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Breakout,Other,2
-HAVELLS,Consumption - Electronics,LargeCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-HCG,Healthcare - Hospitals,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
-HEG,Metals - Foundry Support,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-HEIDELBERG,Infra - Cement,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-HESTERBIO,Healthcare - Animals,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,2
-HINDUNILVR,Consumption - FMCG Conglomerates ,LargeCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-HIRECT,Electronics - Automation,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,3
-HITECHGEAR,Auto - Drivetrain,SmallCap,Other,Breakdown,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-HOMEFIRST,Financials - Housing,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
-HUBTOWN,Real Estate,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
-HYUNDAI,Auto - Cars/UVs,LargeCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-ICICIBANK,Financials - Private Bank,LargeCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-IGIL,Others,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Breakout,Other,3
-IIFLCAPS,Financials - Broking,SmallCap,Other,Other,Other,Other,Other,Breakdown,Breakdown,Breakout,Other,Other,1
-INDIACEM,Infra - Cement,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-INDIANB,Financials - PSU Bank,MidCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-INDIGOPNTS,Consumption - Paints,SmallCap,Other,Other,Other,Other,Other,Breakdown,Other,Breakout,Other,Other,1
-INDNIPPON,Auto - Electricals & Batteries,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-INOXGREEN,Power - Green - Misc,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-INSECTICID,Agrochem - Pesticides,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,2
-IOLCP,Healthcare - API/Drug,SmallCap,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Breakout,Breakout,4
-IPCALAB,Healthcare - Formulations - Generic,MidCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-IPL,Agrochem - Pesticides,SmallCap,Other,Breakout,Other,Other,Breakout,Other,Other,Other,Other,Other,2
-JAGSNPHARM,Healthcare - Formulations,SmallCap,Other,Other,Breakout,Other,Other,Other,Breakout,Other,Other,Other,2
-JBCHEPHARM,Healthcare - Formulations,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-JBMA,Auto - Body,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-JINDALSTEL,Metals - Iron & Steel,LargeCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-JINDRILL,Oil and Gas - Field Services,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-JIOFIN,Financials - NBFC,LargeCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-JKLAKSHMI,Infra - Cement,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-JMFINANCIL,Financials - Diversified,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-JSL,Metals - Iron & Steel,MidCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-JSWINFRA,Infra - Ports,MidCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-JSWSTEEL,Metals - Iron & Steel,LargeCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-JUBLCPL,Chemicals - Specialty - FMCG,SmallCap,Other,Breakout,Breakout,Breakout,Breakout,Other,Other,Breakout,Other,Other,5
-JUBLPHARMA,Healthcare - CRAMS/CDMO,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-JYOTICNC,Industial Products - Machinery,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-KALAMANDIR,Textiles - Fashion Retail,SmallCap,Other,Other,Breakout,Other,Breakout,Breakout,Other,Other,Other,Other,3
-KALYANKJIL,Consumption - Jewelry,MidCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-KANSAINER,Consumption - Paints,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-KAYNES,Electronics - EMS,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,2
-KCP,Infra - Cement,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-KDDL,Consumption - Jewelry,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-KIMS,Healthcare - Hospitals,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-KIOCL,Metals - Iron & Steel,SmallCap,Breakout,Breakout,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,5
-KPEL,Power - Green - EPC,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-KRISHANA,Agrochem - Fertilizers,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Breakout,2
-LALPATHLAB,Healthcare - Diagnostics,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-LAOPALA,Consumption - Homeware,SmallCap,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,3
-LAURUSLABS,Healthcare - API/Drug,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
-LAXMIDENTL,Healthcare - Equipments,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-LT,Infra - Heavy Engineering,LargeCap,Other,Other,Breakdown,Other,Other,Other,Other,Other,Breakout,Other,1
-LTF,Financials - NBFC,MidCap,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,Other,2
-LXCHEM,Chemicals - Specialty - Pharma,SmallCap,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,3
-MADRASFERT,Agrochem - Fertilizers,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-MAHLIFE,Real Estate,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-MAHSCOOTER,Financials - Holding/Investing,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Breakout,Breakout,Other,3
-MANGCHEFER,Agrochem - Fertilizers,SmallCap,Other,Breakout,Breakout,Breakout,Other,Other,Breakout,Breakout,Other,Other,5
-MANINDS,Metals - Pipe & Tube,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-MANORAMA,Consumption - Foods/Drinks,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
-MASTEK,IT - Enterprise,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-MASTERTR,Financials - Broking,SmallCap,Other,Other,Breakout,Breakout,Breakout,Breakout,Other,Other,Other,Other,4
-MATRIMONY,IT - Platform - Catalogue Retail,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-MBAPL,Agrochem - Fertilizers,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-MHRIL,Leisure - Hotels,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-MOIL,Mining - Coal/Minerals,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Breakdown,Other,1
-MOLDTKPAC,Packaging - Rigid,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Breakout,Breakout,Breakout,Other,5
-MONARCH,Financials - Broking,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-MRPL,Refineries & Marketing,MidCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-MUTHOOTMF,Financials - MFI,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-NACLIND,Agrochem - Pesticides,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Breakout,2
-NATIONALUM,Metals - Aluminium,MidCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-NAVA,Power - Misc,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-NAVKARCORP,Transport - Logistics,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Breakout,Other,Other,2
-NAVNETEDUL,Media - Publishing,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
-NELCAST,Metals - Casting/Forging,SmallCap,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,3
-NESCO,Real Estate,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
-NETWEB,IT - Hardware,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,2
-NFL,Agrochem - Fertilizers,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-NIACL,Financials - Gen Insurance,MidCap,Other,Other,Other,Other,Other,Other,Other,Breakdown,Breakout,Other,1
-NIBE,Defense - Mfg,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
-NILKAMAL,Consumption - Homeware,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Breakdown,Other,2
-NITINSPIN,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-NLCINDIA,Power - Generation,MidCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
-NPST,IT - Fintech,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Breakout,Other,Breakout,3
-NUVOCO,Infra - Cement,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-OAL,Chemicals - Specialty - FMCG,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-OLECTRA,Auto - CV,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-ORIENTCEM,Infra - Cement,SmallCap,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,3
-ORISSAMINE,Mining - Coal/Minerals,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-PARACABLES,Power - Wiring,SmallCap,Other,Breakout,Other,Breakdown,Other,Other,Other,Other,Other,Other,1
-PARADEEP,Agrochem - Fertilizers,SmallCap,Other,Breakout,Breakout,Breakout,Other,Other,Other,Breakout,Other,Other,4
-PAYTM,IT - Fintech,MidCap,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,3
-PENIND,Industial Products - Precision Components,SmallCap,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,3
-PGHH,Consumption - Personal,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-PGHL,Healthcare - Naturals/OTC/Consumers,SmallCap,Breakout,Other,Other,Breakout,Other,Other,Other,Other,Breakout,Other,3
-PGIL,Textiles - Exports,SmallCap,Breakdown,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-PIIND,Agrochem - Pesticides,MidCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
-PITTIENG,Electronics - Components,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-PLATIND,Chemicals - Specialty - Plastics,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-PNBGILTS,Financials - Misc,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-PNCINFRA,Infra - Road & Highways,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-POCL,Metals - Non Ferrous,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,3
-POWERINDIA,Power - Equipment,MidCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Breakout,Other,2
-PRAKASH,Metals - Pipe & Tube,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-PRIVISCL,Chemicals - Specialty - FMCG,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-PTC,Power - Misc,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-PUNJABCHEM,Agrochem - Pesticides,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
-PVRINOX,Media - Misc,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-RACLGEAR,Auto - Drivetrain,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
-RADHIKAJWE,Consumption - Jewelry,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-RADICO,Beverages - Alcohol,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-RAIN,Chemicals - Petro,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-RAINBOW,Healthcare - Hospitals,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-RAJRATAN,Auto - Wheels ,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-RAMCOCEM,Infra - Cement,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-RAMCOIND,Infra - Cement,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-RAMRAT,Power - Wiring,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Breakout,Breakout,Breakout,Breakout,6
-RBA,Leisure - Restaurants,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-RCF,Agrochem - Fertilizers,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-RELIGARE,Financials - Insurance & Lending,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-RELTD,Power - Green - Misc,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
-RHIM,Metals - Foundry Support,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
-ROHLTD,Leisure - Hotels,SmallCap,Breakdown,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-ROSSTECH,Defense - Technology & Electronics,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
-RPSGVENT,Tech - BPO,SmallCap,Other,Breakout,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,4
-SAGCEM,Infra - Cement,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-SANGHIIND,Infra - Cement,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-SAPPHIRE,Leisure - Restaurants,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-SCHAEFFLER,Auto - Drivetrain,MidCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-SCHNEIDER,Power - Equipment,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
-SDBL,Beverages - Alcohol,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-SENORES,Healthcare - Formulations,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Breakout,Other,Other,2
-SHALBY,Healthcare - Hospitals,SmallCap,Other,Other,Other,Breakout,Other,Other,Breakout,Other,Other,Other,2
-SHANKARA,Infra - Retail,SmallCap,Other,Breakout,Other,Other,Other,Other,Breakout,Breakout,Other,Breakout,4
-SHANTIGEAR,Auto - Drivetrain,SmallCap,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,3
-SHARDACROP,Agrochem - Pesticides,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
-SHK,Consumption - Personal,SmallCap,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,Other,3
-SHREDIGCEM,Infra - Cement,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-SHREECEM,Infra - Cement,LargeCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-SHREEPUSHK,Chemicals - Dyes,SmallCap,Other,Breakout,Other,Other,Other,Other,Breakout,Breakout,Other,Other,3
-SHRIRAMPPS,Real Estate,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-SHYAMMETL,Metals - Iron & Steel,SmallCap,Other,Breakout,Breakout,Other,Breakout,Other,Other,Other,Other,Other,3
-SILVERTUC,IT - Services,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-SIRCA,Consumption - Paints,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-SIS,HR Services / Outsourcing & Workplace Solutions,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-SKIPPER,Power - Equipment,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
-SKYGOLD,Consumption - Jewelry,SmallCap,Other,Breakout,Breakout,Other,Breakdown,Breakdown,Other,Other,Other,Other,2
-SMLISUZU,Auto - CV,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-SOLARA,Healthcare - API/Drug,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
-SONACOMS,Auto - Drivetrain,MidCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-SPECTRUM,Industial Products - Electrical & Power Equipment,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
-SPIC,Agrochem - Fertilizers,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Other,Breakout,Other,Other,3
-SPLPETRO,Chemicals - Petro,SmallCap,Breakout,Other,Other,Other,Other,Breakdown,Other,Other,Other,Breakdown,1
-SPMLINFRA,Infra - Water Infra,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-STAR,Healthcare - Formulations - Generic,SmallCap,Breakdown,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-STARCEMENT,Infra - Cement,SmallCap,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,3
-STARHEALTH,Financials - Gen Insurance,MidCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-STEELCAS,Metals - Casting/Forging,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Breakout,Breakdown,2
-STLTECH,Telecom - Equipments,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
-STYLAMIND,Infra - Laminates,SmallCap,Other,Breakout,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,4
-SUDARSCHEM,Chemicals - Dyes,SmallCap,Other,Other,Other,Other,Breakout,Other,Breakout,Breakout,Other,Other,3
-SUMICHEM,Agrochem - Pesticides,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-SUMMITSEC,Financials - Holding/Investing,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-SUNDARMHLD,Financials - Insurance & Lending,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-SUNTECK,Real Estate,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-SUPREMEIND,Industrial Products - Plastic,MidCap,Other,Other,Breakdown,Other,Other,Breakout,Other,Other,Other,Other,1
-SURYAROSNI,Metals - Pipe & Tube,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
-SUYOG,Telecom - Infra,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-SWIGGY,IT - Platform - Ecommerce,LargeCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-SYNGENE,Healthcare - CRAMS/CDMO,MidCap,Other,Other,Breakout,Breakout,Other,Breakout,Other,Other,Other,Other,3
-TANLA,IT - Product - Software,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-TASTYBITE,Consumption - Foods/Drinks,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
-TATACHEM,Chemicals - Bulk,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Breakout,Other,Other,3
-TATAINVEST,Financials - Holding/Investing,MidCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
-TATAMOTORS,Auto - Cars/UVs,LargeCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Breakdown,Breakdown,1
-TATVA,Chemicals - Specialty - Pharma,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
-TDPOWERSYS,Power - Equipment,SmallCap,Other,Other,Other,Other,Other,Other,Breakdown,Other,Breakout,Other,1
-THELEELA,Leisure - Hotels,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-THOMASCOOK,IT - Platform - Tour & Travel,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-THYROCARE,Healthcare - Diagnostics,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-TI,Beverages - Alcohol,SmallCap,Other,Breakout,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,4
-TIMKEN,Industrial Products - Bearings,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-TORNTPHARM,Healthcare - Formulations,LargeCap,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,2
-UBL,Beverages - Alcohol,MidCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-ULTRACEMCO,Infra - Cement,LargeCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-UNIENTER,Chemicals - Misc,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-UPL,Agrochem - Pesticides,MidCap,Other,Breakout,Breakout,Other,Other,Other,Breakout,Other,Other,Other,3
-VADILALIND,Consumption - Dairy,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
-VBL,Consumption - Foods/Drinks,LargeCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
-VESUVIUS,Metals - Foundry Support,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-VIJAYA,Healthcare - Diagnostics,SmallCap,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,Other,2
-VIMTALABS,Healthcare - CRAMS/CDMO,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,3
-VINCOFE,Agri - Tea/Coffee,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
-VISHNU,Chemicals - Specialty - Diversified,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,3
-VMART,Consumption - Retail,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-VSSL,Metals - Iron & Steel,SmallCap,Other,Other,Other,Other,Breakout,Other,Breakdown,Other,Other,Other,1
-VSTTILLERS,Auto - Tractors,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-WABAG,Water Supply & Management,SmallCap,Other,Breakout,Breakout,Other,Breakout,Other,Other,Other,Other,Other,3
-WEBELSOLAR,Power - Green Equipment,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-WELCORP,Metals - Pipe & Tube,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-WHEELS,Auto - Wheels ,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
-WHIRLPOOL,Consumption - Appliances,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
-WINDLAS,Healthcare - CRAMS/CDMO,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,2
-WONDERLA,Leisure - Misc,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
-YATHARTH,Healthcare - Hospitals,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+CEATLTD,Auto - Tyres,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+CEIGALL,Infra - Road & Highways,SmallCap,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,3
+CELLO,Consumption - Homeware,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+CENTUM,Electronics - EMS,SmallCap,Other,Other,Other,Breakout,Other,Other,Breakdown,Other,Other,Other,1
+CENTURYPLY,Infra - Laminates,SmallCap,Breakout,Other,Breakout,Other,Other,Other,Other,Breakout,Breakout,Other,4
+CESC,Power - Integrated Utility,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+CGPOWER,Power - Equipment,LargeCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+CHAMBLFERT,Agrochem - Fertilizers,SmallCap,Other,Breakout,Other,Other,Other,Breakdown,Other,Other,Other,Other,1
+CHEMPLASTS,Chemicals - Petro,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+CHENNPETRO,Refineries & Marketing,SmallCap,Breakout,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,3
+CIEINDIA,Auto - Drivetrain,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Breakout,Other,2
+CIGNITITEC,IT - Services,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+COALINDIA,Mining - Coal/Minerals,LargeCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+COCHINSHIP,Defense - Ship,MidCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,3
+COFORGE,IT - Enterprise,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+COHANCE,Healthcare - CRAMS/CDMO,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+COLPAL,Consumption - Personal,MidCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+CONCOR,Transport - Logistics,MidCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+CUPID,Consumption - Personal,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+CYIENTDLM,Electronics - EMS,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+DABUR,Consumption - Personal,LargeCap,Breakout,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,2
+DAMCAPITAL,Financials - Broking,SmallCap,Other,Breakout,Other,Other,Other,Other,Breakout,Other,Other,Breakout,3
+DATAPATTNS,Defense - Technology & Electronics,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+DBCORP,Media - Publishing,SmallCap,Other,Other,Other,Breakout,Other,Other,Breakout,Breakout,Other,Other,3
+DBL,Infra - Road & Highways,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,3
+DCXINDIA,Defense - Technology & Electronics,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+DDEVPLSTIK,Chemicals - Specialty - Plastics,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Other,2
+DECCANCE,Infra - Cement,SmallCap,Other,Breakout,Other,Other,Other,Other,Breakout,Breakout,Other,Other,3
+DEEDEV,Industial Products - Process Equipment & Fabrication,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+DELTACORP,Leisure - Misc,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+DEVYANI,Leisure - Restaurants,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,2
+DHAMPURSUG,Agri - Sugar,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+DIACABS,Power - Wiring,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+DIAMONDYD,Consumption - Foods/Drinks,SmallCap,Breakout,Breakout,Breakout,Other,Breakout,Other,Other,Other,Other,Other,4
+DIFFNKG,Industial Products - Fabrication,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Breakout,Other,Other,3
+DLF,Real Estate,LargeCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+DODLA,Consumption - Dairy,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+DOLATALGO,Financials - Misc,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+DOLLAR,Textiles - Innerwear,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+DOMS,Consumption - Stationary,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+DREDGECORP,Engineering - Dredging,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+E2E,IT - Cloud Infra,SmallCap,Breakout,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,Other,4
+EICHERMOT,Auto - 2W,LargeCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+EIHAHOTELS,Leisure - Hotels,SmallCap,Other,Breakout,Other,Other,Other,Breakout,Other,Other,Other,Other,2
+ELECON,Electronics - Components,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+ELECTHERM,Metals - Iron & Steel,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+EMIL,Consumption - Retail,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
+EMSLIMITED,Waste Management,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+ENGINERSIN,Infra - Consulting,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Breakout,3
+EPACK,Consumption - Appliances,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+ESTER,Packaging - Flex,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+EVEREADY,Consumption - Misc,SmallCap,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,2
+EXICOM,Telecom - Equipments,SmallCap,Breakout,Other,Other,Other,Other,Other,Breakdown,Other,Other,Other,1
+FAZE3Q,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+FEDFINA,Financials - NBFC,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+FILATEX,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Other,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,2
+FINEORG,Chemicals - Specialty - Diversified,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+FINPIPE,Infra - Plastic Products,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+FIRSTCRY,Consumption - Retail,SmallCap,Other,Other,Breakdown,Breakout,Breakout,Other,Other,Other,Other,Other,2
+FLAIR,Consumption - Stationary,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+FLUOROCHEM,Chemicals - Specialty - Refrigeration,MidCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+FUSION,Financials - MFI,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
+GABRIEL,Auto - Suspension & Axles,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+GAEL,Agri - Misc,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+GALLANTT,Metals - Iron & Steel,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+GENESYS,IT - Services,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+GEOJITFSL,Financials - Broking,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+GEPIL,Power - Equipment,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+GILLETTE,Consumption - Personal,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+GIPCL,Power - Generation,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+GLAND,Healthcare - CRAMS/CDMO,MidCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
+GLENMARK,Healthcare - Formulations - Generic,MidCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+GMBREW,Beverages - Alcohol,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,2
+GMDCLTD,Mining - Coal/Minerals,SmallCap,Other,Breakout,Other,Breakout,Breakout,Other,Other,Other,Breakout,Other,4
+GMRP&UI,Infra - Heavy Engineering,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+GOCOLORS,Textiles - Fashion Retail,SmallCap,Breakout,Breakout,Other,Other,Other,Breakout,Other,Other,Other,Other,3
+GODAVARIB,Chemicals - Diversified,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,2
+GOKULAGRO,Agri - Edible Oils,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Breakout,2
+GOODLUCK,Metals - Pipe & Tube,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Breakdown,Other,Other,1
+GOPAL,Consumption - Foods/Drinks,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
+GPIL,Metals - Iron & Steel,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+GPPL,Infra - Ports,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+GPTINFRA,Infra - Heavy Engineering,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+GREAVESCOT,Industrial - Pumps/Engines,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+GREENLAM,Infra - Laminates,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
+GREENPANEL,Infra - Laminates,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+GREENPLY,Infra - Laminates,SmallCap,Other,Other,Breakdown,Other,Breakdown,Other,Other,Breakout,Other,Other,1
+GRSE,Defense - Ship,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+GRWRHITECH,Industrial Products - Plastic,SmallCap,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,Other,2
+GSPL,Utility - Gas Transmission,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+GUJALKALI,Chemicals - Bulk,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,2
+GULFOILLUB,Petro - Lubricants,SmallCap,Breakout,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,2
+HAL,Defense - Mfg,LargeCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Breakout,3
+HARIOMPIPE,Metals - Pipe & Tube,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+HATSUN,Consumption - Dairy,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+HCG,Healthcare - Hospitals,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+HEG,Metals - Foundry Support,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Other,2
+HEIDELBERG,Infra - Cement,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+HEMIPROP,Real Estate,SmallCap,Breakout,Breakout,Other,Breakout,Other,Other,Other,Other,Other,Other,3
+HERITGFOOD,Consumption - Dairy,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+HEUBACHIND,Chemicals - Dyes,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+HGINFRA,Infra - Road & Highways,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+HINDALCO,Metals - Aluminium,LargeCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+HINDCOPPER,Metals - Copper,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,4
+HINDOILEXP,Oil and Gas - Upstream,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+HINDZINC,Metals - Non Ferrous,MidCap,Other,Breakout,Other,Other,Other,Other,Other,Breakout,Breakout,Other,3
+HITECH,Metals - Pipe & Tube,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Breakout,Breakout,Breakout,5
+HITECHGEAR,Auto - Drivetrain,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Breakout,2
+HNDFDS,Consumption - FMCG Conglomerates ,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Breakout,2
+HPL,Power - Wiring,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+HUDCO,Financials - Institute - Infra,MidCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,2
+HUHTAMAKI,Packaging - Misc,SmallCap,Breakout,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,3
+ICEMAKE,Transport - Cold chain,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,3
+ICIL,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+ICRA,Financials - Ratings,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+IDEAFORGE,Defense - Technology & Electronics,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+IDFCFIRSTB,Financials - Private Bank,MidCap,Other,Other,Breakout,Other,Other,Breakout,Other,Other,Other,Other,2
+IFCI,Financials - Institute - Infra,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+IGIL,Others,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+IGL,Utility - Gas Distribution,MidCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+IMFA,Metals - Ferro Alloys,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
+INDIANB,Financials - PSU Bank,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+INDIANHUME,Industial Products - Water/Waster Management,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+INDNIPPON,Auto - Electricals & Batteries,SmallCap,Breakout,Other,Other,Breakout,Breakout,Breakout,Other,Breakout,Breakout,Other,6
+INDOCO,Healthcare - Formulations,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+INDOTHAI,Financials - Broking,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,3
+INDRAMEDCO,Healthcare - Hospitals,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Breakout,Other,Other,Other,3
+INOXGREEN,Power - Green - Misc,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+INOXINDIA,Industrial Products - Misc,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Breakout,2
+INTELLECT,IT - Software/Consulting,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+IOC,Refineries & Marketing,LargeCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+IOLCP,Healthcare - API/Drug,SmallCap,Other,Breakout,Other,Other,Breakout,Breakout,Other,Other,Other,Other,3
+IRCON,Railways,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,2
+IREDA,Financials - Institute - Power,MidCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+IRFC,Railways,LargeCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+IRMENERGY,Utility - Gas Distribution,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+ITC,Consumption - FMCG Conglomerates ,LargeCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+ITDC,Leisure - Hotels,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+ITDCEM,Infra - Construction,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+ITI,Telecom - Equipments,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Breakout,2
+JAGSNPHARM,Healthcare - Formulations,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+JAIBALAJI,Metals - Iron & Steel,SmallCap,Other,Other,Other,Other,Other,Breakdown,Other,Other,Other,Breakout,1
+JAICORPLTD,Industrial Products - Plastic,SmallCap,Breakout,Breakout,Other,Other,Breakout,Other,Other,Other,Other,Other,3
+JAMNAAUTO,Auto - Suspension & Axles,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+JBMA,Auto - Body,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+JINDALSAW,Metals - Pipe & Tube,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Breakout,2
+JINDALSTEL,Metals - Iron & Steel,LargeCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+JISLJALEQS,Industrial Products - Plastic,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+JKTYRE,Auto - Tyres,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,2
+JLHL,Healthcare - Hospitals,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+JNKINDIA,Industial Products - Process Equipment & Fabrication,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+JSWHL,Financials - Holding/Investing,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+JSWINFRA,Infra - Ports,MidCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
+JSWSTEEL,Metals - Iron & Steel,LargeCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+JTEKTINDIA,Auto - Drivetrain,SmallCap,Other,Other,Other,Breakout,Other,Breakout,Other,Other,Other,Other,2
+JTLIND,Metals - Pipe & Tube,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
+JUBLPHARMA,Healthcare - CRAMS/CDMO,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+JUNIPER,Leisure - Hotels,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+JUSTDIAL,IT - Platform - Catalogue Retail,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+JWL,Railways,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+KAYNES,Electronics - EMS,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+KDDL,Consumption - Jewelry,SmallCap,Other,Breakdown,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+KEC,Railways,SmallCap,Breakout,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,2
+KEI,Power - Wiring,MidCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+KELLTONTEC,IT - Software/Consulting,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+KICL,Financials - Holding/Investing,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+KIRIINDUS,Chemicals - Dyes,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Breakout,Other,3
+KIRLOSIND,Power - Green - Misc,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+KMEW,Engineering - Dredging,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+KOKUYOCMLN,Consumption - Stationary,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+KPITTECH,IT - Software/Consulting,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+KROSS,Auto - Suspension & Axles,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+KRSNAA,Healthcare - Diagnostics,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
+KTKBANK,Financials - Private Bank,SmallCap,Other,Other,Breakout,Other,Other,Other,Breakout,Other,Other,Breakout,3
+LANDMARK,Auto - Misc,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+LEMONTREE,Leisure - Hotels,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+LGBBROSLTD,Auto - Wheels ,SmallCap,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,Other,2
+LGHL,Real Estate,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+LICHSGFIN,Financials - Housing,MidCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+LTFOODS,Agri - Rice,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+LTIM,IT - Enterprise,LargeCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+LUPIN,Healthcare - Formulations,MidCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+LXCHEM,Chemicals - Specialty - Pharma,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+M&M,Auto - Cars/UVs,LargeCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+M&MFIN,Financials - NBFC,MidCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+MADRASFERT,Agrochem - Fertilizers,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+MAGADSUGAR,Agri - Sugar,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+MAHLOG,Transport - Logistics,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+MAHSCOOTER,Financials - Holding/Investing,SmallCap,Breakout,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,2
+MAITHANALL,Metals - Ferro Alloys,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Breakout,2
+MAMATA,Industial Products - Machinery,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+MANALIPETC,Chemicals - Petro,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+MANAPPURAM,Financials - NBFC,SmallCap,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,2
+MANGLMCEM,Infra - Cement,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+MANINDS,Metals - Pipe & Tube,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+MARINE,Electronics - Components,SmallCap,Breakout,Other,Other,Other,Breakout,Other,Breakout,Breakout,Breakout,Breakout,6
+MATRIMONY,IT - Platform - Catalogue Retail,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+MAZDOCK,Defense - Ship,MidCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
+MEDANTA,Healthcare - Hospitals,MidCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+METROBRAND,Consumption - Footwear,SmallCap,Other,Other,Breakout,Other,Other,Breakout,Breakout,Other,Other,Other,3
+METROPOLIS,Healthcare - Diagnostics,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Breakdown,Breakdown,2
+MICEL,Electronics - Components,SmallCap,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,3
+MIDHANI,Defense - Mfg,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+MMFL,Auto - Forgings,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+MMTC,Others,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+MOBIKWIK,IT - Fintech,SmallCap,Breakout,Breakout,Other,Breakout,Breakout,Other,Other,Other,Other,Other,4
+MOIL,Mining - Coal/Minerals,SmallCap,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,2
+MOLDTKPAC,Packaging - Rigid,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+MONTECARLO,Textiles - Fashion Retail,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Breakout,Breakout,3
+MOREPENLAB,Healthcare - Formulations - OTC,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,3
+MOSCHIP,IT - Hardware,SmallCap,Breakout,Breakout,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,5
+MOTHERSON,Auto - Glass/Body,LargeCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Breakout,3
+MPHASIS,IT - Software/Consulting,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+MRF,Auto - Tyres,MidCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+MRPL,Refineries & Marketing,MidCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+MSTCLTD,IT - Platform - Ecommerce,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+MSUMI,Auto - Electricals & Electronics,MidCap,Other,Other,Breakout,Breakout,Breakout,Breakout,Other,Other,Breakout,Other,5
+MTARTECH,Defense - Mfg,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
+MUKANDLTD,Metals - Iron & Steel,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+MUTHOOTMF,Financials - MFI,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+NATIONALUM,Metals - Aluminium,MidCap,Breakout,Breakout,Other,Other,Other,Other,Other,Breakout,Other,Other,3
+NAVKARCORP,Transport - Logistics,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,2
+NBCC,Infra - Construction,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+NDRAUTO,Auto - Drivetrain,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+NDTV,Media - TV Broadcast,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Breakdown,Breakdown,2
+NELCO,Telecom - Equipments,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+NEOGEN,Chemicals - Specialty - Pharma,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+NESCO,Real Estate,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Breakout,Other,Other,2
+NESTLEIND,Consumption - FMCG Conglomerates ,LargeCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+NETWEB,IT - Hardware,SmallCap,Other,Breakout,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,4
+NEULANDLAB,Healthcare - API/Drug,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
+NHPC,Power - Generation,MidCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Breakout,2
+NIACL,Financials - Gen Insurance,MidCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+NIBE,Defense - Mfg,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+NLCINDIA,Power - Generation,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,3
+NMDC,Mining - Coal/Minerals,MidCap,Breakout,Breakout,Other,Other,Other,Breakout,Other,Other,Other,Other,3
+NOCIL,Chemicals - Specialty - Rubber,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+NORTHARC,Financials - NBFC,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+NSIL,Financials - Holding/Investing,SmallCap,Other,Breakout,Other,Other,Breakout,Other,Other,Other,Other,Other,2
+NUVOCO,Infra - Cement,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+OFSS,IT - Product - Software,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+OPTIEMUS,Telecom - Equipments,SmallCap,Breakout,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,3
+ORIENTHOT,Leisure - Hotels,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+ORIENTTECH,IT - Services,SmallCap,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,Other,2
+PARAGMILK,Consumption - Dairy,SmallCap,Breakout,Other,Other,Other,Breakout,Other,Other,Breakout,Breakout,Breakout,5
+PARAS,Defense - Technology & Electronics,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+PARKHOTELS,Leisure - Hotels,SmallCap,Other,Breakout,Other,Other,Breakout,Other,Other,Other,Other,Breakout,3
+PFOCUS,Media - Entertainment,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+PGHH,Consumption - Personal,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+PGIL,Textiles - Exports,SmallCap,Other,Other,Breakdown,Other,Other,Other,Breakout,Other,Other,Other,1
+PILANIINVS,Financials - Holding/Investing,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,2
+PITTIENG,Electronics - Components,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakdown,Other,Breakout,1
+PLATIND,Chemicals - Specialty - Plastics,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+PNB,Financials - PSU Bank,LargeCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+PNGJL,Consumption - Jewelry,SmallCap,Other,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,2
+POCL,Metals - Non Ferrous,SmallCap,Other,Breakout,Other,Breakout,Breakout,Other,Other,Other,Other,Other,3
+PPLPHARMA,Healthcare - CRAMS/CDMO,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+PRAKASH,Metals - Pipe & Tube,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+PRECAM,Auto - Drivetrain,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,2
+PREMIERENE,Power - Green Equipment,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+PRICOLLTD,Auto - Electricals & Electronics,SmallCap,Other,Other,Breakout,Other,Other,Breakout,Other,Other,Other,Other,2
+PRUDENT,Financials - WMC,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Breakout,2
+PSPPROJECT,Infra - Residential & Commercial Buildings,SmallCap,Breakout,Breakout,Other,Other,Other,Breakout,Other,Other,Other,Other,3
+PTCIL,Industrial Products - Precision Components,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+PUNJABCHEM,Agrochem - Pesticides,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+PURVA,Real Estate,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Breakdown,1
+PVRINOX,Media - Misc,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+QPOWER,Power - Equipment,SmallCap,Breakout,Other,Other,Breakout,Other,Other,Breakout,Other,Other,Other,3
+QUADFUTURE,Power - Wiring,SmallCap,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,2
+QUICKHEAL,IT - Product - Software,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
+RACLGEAR,Auto - Drivetrain,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+RADICO,Beverages - Alcohol,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+RAILTEL,Railways,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Breakout,Breakout,3
+RAJESHEXPO,Consumption - Jewelry,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Breakout,Breakout,Other,Other,4
+RAJRATAN,Auto - Wheels ,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Breakout,Other,Other,2
+RAMCOIND,Infra - Cement,SmallCap,Other,Other,Breakout,Other,Breakout,Breakout,Other,Breakout,Breakout,Other,5
+RAMCOSYS,IT - Product - Software,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Breakout,3
+RAMRAT,Power - Wiring,SmallCap,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,Other,2
+RATEGAIN,IT - Software/Consulting,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+RAYMONDLSL,Textiles - Fashion Retail,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+RBLBANK,Financials - Private Bank,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+RCF,Agrochem - Fertilizers,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+REDTAPE,Consumption - Footwear,SmallCap,Breakout,Breakout,Other,Breakout,Breakout,Other,Other,Other,Other,Other,4
+RELTD,Power - Green - Misc,SmallCap,Other,Other,Other,Breakout,Breakout,Breakout,Other,Breakout,Breakout,Breakout,6
+REPCOHOME,Financials - Housing,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+RICOAUTO,Auto - Drivetrain,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+RIIL,Transport - Misc,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+RITES,Railways,SmallCap,Breakout,Other,Other,Other,Other,Breakout,Other,Other,Other,Breakout,3
+RKFORGE,Auto - Forgings,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+ROSSTECH,Defense - Technology & Electronics,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Breakout,Other,2
+RPEL,Metals - Foundry Support,SmallCap,Breakout,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,3
+RPTECH,IT - Hardware,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+RRKABEL,Power - Wiring,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+RTNINDIA,IT - Platform - Ecommerce,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+RUPA,Textiles - Innerwear,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+RVNL,Railways,MidCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+SAGCEM,Infra - Cement,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,2
+SAIL,Metals - Iron & Steel,MidCap,Other,Breakout,Other,Other,Breakout,Other,Other,Other,Other,Other,2
+SAMMAANCAP,Financials - Housing,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+SANDUMA,Mining - Coal/Minerals,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+SANGAMIND,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+SANGHVIMOV,Auto - Construction,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,2
+SANSERA,Auto - Suspension & Axles,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Breakout,Breakout,Other,Other,4
+SANSTAR,Agri - Misc,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+SAPPHIRE,Leisure - Restaurants,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+SARDAEN,Metals - Iron & Steel,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+SAREGAMA,Media - Entertainment,SmallCap,Breakout,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,2
+SATIN,Financials - MFI,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+SBICARD,Financials - NBFC,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Breakout,2
+SCI,Transport - Shipping,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+SCILAL,Financials - Holding/Investing,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+SCODATUBES,Metals - Pipe & Tube,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+SENCO,Consumption - Jewelry,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+SEQUENT,Healthcare - Animals,SmallCap,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,Other,3
+SERVOTECH,Electronics - Components,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,Other,3
+SFL,"Furniture, Home Furnishing",SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+SGLTL,Industial Products - Glasslined Equipments,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+SHAKTIPUMP,Industrial - Pumps/Engines,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+SHALBY,Healthcare - Hospitals,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
+SHOPERSTOP,Consumption - Retail,SmallCap,Other,Other,Other,Other,Breakout,Other,Breakout,Breakdown,Other,Other,2
+SHREEPUSHK,Chemicals - Dyes,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+SHRIRAMPPS,Real Estate,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+SIEMENS,Power - Equipment,LargeCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+SIGACHI,Healthcare - API/Drug,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,3
+SILVERTUC,IT - Services,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Breakout,2
+SIMPLEXINF,Infra - Construction,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+SIRCA,Consumption - Paints,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+SIYSIL,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Other,Breakout,Other,Other,Other,Other,Breakout,Other,Other,Other,2
+SJS,Auto - Wheels ,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+SKFINDIA,Industrial Products - Bearings,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+SKIPPER,Power - Equipment,SmallCap,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,2
+SMCGLOBAL,Financials - Broking,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+SMSPHARMA,Healthcare - API/Drug,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+SNOWMAN,Transport - Cold chain,SmallCap,Breakout,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,4
+SOLARA,Healthcare - API/Drug,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+SPAL,Textiles - Exports,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+SPANDANA,Financials - MFI,SmallCap,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,2
+SPIC,Agrochem - Fertilizers,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+SSWL,Auto - Wheels ,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+STAR,Healthcare - Formulations - Generic,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+STERTOOLS,Auto - Drivetrain,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+STYLAMIND,Infra - Laminates,SmallCap,Breakdown,Breakdown,Breakdown,Other,Breakout,Other,Other,Other,Other,Other,1
+STYLEBAAZA,Textiles - Fashion Retail,SmallCap,Other,Other,Breakout,Other,Breakout,Other,Other,Other,Other,Other,2
+SUBROS,Auto - HVAC/Emotors,SmallCap,Breakout,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,2
+SULA,Beverages - Alcohol,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
+SUNCLAY,Auto - Drivetrain,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+SUNDARMHLD,Financials - Insurance & Lending,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,Other,Breakout,4
+SUNTECK,Real Estate,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Other,2
+SURAKSHA,Healthcare - Diagnostics,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+SWARAJENG,Industrial - Pumps/Engines,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,2
+SYRMA,Electronics - EMS,SmallCap,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,3
+TAJGVK,Leisure - Hotels,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,2
+TALBROAUTO,Auto - Body,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,2
+TANLA,IT - Product - Software,SmallCap,Other,Other,Breakout,Other,Other,Breakout,Breakout,Other,Other,Other,3
+TARIL,Power - Equipment,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+TATACHEM,Chemicals - Bulk,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+TATAELXSI,IT - Software/Consulting,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+TATAMOTORS,Auto - Cars/UVs,LargeCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+TATASTEEL,Metals - Iron & Steel,LargeCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+TATATECH,IT - Services,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Breakout,2
+TBOTEK,IT - Platform - Tour & Travel,SmallCap,Other,Breakout,Other,Other,Other,Breakout,Other,Other,Other,Other,2
+TCIEXP,Transport - Logistics,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+TDPOWERSYS,Power - Equipment,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+TEAMLEASE,HR Services / Outsourcing & Workplace Solutions,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,3
+TEGA,Industial Products - Material Handling/Mining,SmallCap,Breakout,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,2
+TEXRAIL,Railways,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+TFCILTD,Financials - Institute - Infra,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+THELEELA,Leisure - Hotels,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+THEMISMED,Healthcare - Formulations,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+TIL,Industial Products - Material Handling/Mining,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Breakout,Other,4
+TIMETECHNO,Industrial Products - Plastic,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+TIPSMUSIC,Media - Entertainment,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+TIRUMALCHM,Chemicals - Petro,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,2
+TITAGARH,Railways,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Breakout,3
+TRENT,Consumption - Retail,LargeCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+TRITURBINE,Power - Equipment,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+TRIVENI,Agri - Sugar,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+TTKPRESTIG,Consumption - Kitchen/ Accessories,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+TVSHLTD,Auto - Electricals & Batteries,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+TVSSCS,Transport - Logistics,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+TVSSRICHAK,Auto - Tyres,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+UGROCAP,Financials - NBFC,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+UNIECOM,IT - Platform - Catalogue Retail,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+UNIMECH,Defense - Mfg,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+VADILALIND,Consumption - Dairy,SmallCap,Breakout,Other,Other,Breakout,Other,Breakout,Breakout,Other,Other,Breakout,5
+VAIBHAVGBL,Consumption - Jewelry,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+VALIANTORG,Chemicals - Specialty - Diversified,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,1
+VARROC,Auto - Lighting & Electronics,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Other,Other,Other,Breakout,3
+VASCONEQ,Infra - Residential & Commercial Buildings,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Breakout,Other,2
+VEDL,Metals - Diversified,LargeCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Breakout,2
+VEEDOL,Petro - Lubricants,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Breakout,Breakout,4
+VENTIVE,Leisure - Hotels,SmallCap,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,Breakout,2
+VENUSPIPES,Metals - Pipe & Tube,SmallCap,Other,Other,Other,Other,Breakout,Other,Breakout,Other,Other,Other,2
+VHL,Financials - NBFC,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+VIDHIING,Chemicals - Dyes,SmallCap,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,1
+VIJAYA,Healthcare - Diagnostics,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,1
+VIMTALABS,Healthcare - CRAMS/CDMO,SmallCap,Breakout,Breakout,Other,Breakout,Other,Other,Other,Other,Other,Other,3
+VIPIND,Consumption - Luggage,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+VSSL,Metals - Iron & Steel,SmallCap,Other,Breakout,Other,Other,Other,Other,Other,Other,Other,Breakout,2
+WAAREEENER,Power - Green Equipment,MidCap,Other,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,2
+WAAREERTL,Power - Green - IPP,SmallCap,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,1
+WALCHANNAG,Industial Products - Process Equipment & Fabrication,SmallCap,Other,Other,Other,Other,Breakout,Breakout,Breakout,Other,Breakout,Other,4
+WCIL,Transport - Logistics,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Breakout,2
+WEL,Consumption - Appliances,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
+WELCORP,Metals - Pipe & Tube,SmallCap,Breakdown,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+WELENT,Infra - Road & Highways,SmallCap,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,Other,1
+WELSPUNLIV,Textiles - Mfg (Spin/Yarn/Integrated),SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+WHEELS,Auto - Wheels ,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,1
+WIPRO,IT - Software/Consulting,LargeCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+WOCKPHARMA,Healthcare - Formulations,SmallCap,Other,Other,Other,Other,Other,Breakout,Breakout,Other,Other,Other,2
+WONDERLA,Leisure - Misc,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+XCHANGING,IT - Software/Consulting,SmallCap,Breakout,Other,Other,Other,Other,Other,Other,Other,Other,Other,1
+XPROINDIA,Packaging - Flex,SmallCap,Other,Other,Other,Breakout,Breakout,Other,Breakout,Other,Other,Other,3
+YATHARTH,Healthcare - Hospitals,SmallCap,Other,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Breakout,3
 YATRA,IT - Platform - Tour & Travel,SmallCap,Other,Other,Other,Other,Other,Other,Other,Other,Breakout,Other,1
-ZFCVINDIA,Auto - Suspension & Axles,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
-ZYDUSWELL,Consumption - FMCG Conglomerates ,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+ZENSARTECH,IT - Enterprise,SmallCap,Other,Other,Other,Other,Other,Other,Breakout,Other,Other,Other,1
+ZOTA,Healthcare - Naturals/OTC/Consumers,SmallCap,Other,Other,Other,Other,Breakout,Other,Other,Other,Other,Other,1
+ZYDUSWELL,Consumption - FMCG Conglomerates ,SmallCap,Breakout,Breakout,Breakout,Other,Other,Other,Other,Other,Other,Other,3
